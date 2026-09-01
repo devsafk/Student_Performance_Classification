@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+frozen_data/
+results/
+
+*.ipynb_checkpoints
+.DS_Store

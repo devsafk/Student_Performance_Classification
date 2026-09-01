@@ -1,0 +1,4 @@
+Attendance (%)
+Midterm_Score
+Assignments_Avg
+Quizzes_Avg

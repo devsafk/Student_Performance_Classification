@@ -1,0 +1,1001 @@
+Student_ID,First_Name,Last_Name,Email,Gender,Age,Department,Attendance (%),Midterm_Score,Final_Score,Assignments_Avg,Quizzes_Avg,Participation_Score,Projects_Score,Total_Score,Grade,Study_Hours_per_Week,Extracurricular_Activities,Internet_Access_at_Home,Parent_Education_Level,Family_Income_Level,Stress_Level (1-10),Sleep_Hours_per_Night,Performance
+S2000,Emma,Johnson,student1000@university.com,Female,22,Business,98.58,61.05,79.94,80.29,58.26,5.24,64.42,70.3,B,29.6,No,No,,High,9,6.9,Average Performer
+S2001,Omar,Davis,student1001@university.com,Female,18,Engineering,,86.13,84.86,75.12,94.66,1.38,56.4,82.78,A,23.7,No,Yes,High School,Low,6,8.4,High Performer
+S2002,Ali,Williams,student1002@university.com,Female,18,CS,,91.8,80.73,76.4,69.5,2.86,59.52,87.74,A,28.8,Yes,Yes,High School,Low,3,7.2,High Performer
+S2003,Ali,Johnson,student1003@university.com,Male,23,CS,89.91,61.89,72.84,61.6,92.19,5.23,50.03,78.13,B,26.2,Yes,Yes,PhD,Medium,6,6.6,Average Performer
+S2004,Ali,Smith,student1004@university.com,Female,20,Engineering,76.28,71.54,76.32,,75.63,9.96,93.47,82.12,B,26.9,No,Yes,PhD,Low,9,6.5,Average Performer
+S2005,Ahmed,Jones,student1005@university.com,Male,18,CS,,47.04,66.99,63.32,93.11,3.64,88.25,60.68,C,27.9,No,Yes,,Low,1,7.1,Average Performer
+S2006,Maria,Brown,student1006@university.com,Male,19,Engineering,79.14,65.01,75.55,69.47,83.14,1.57,60.93,79.63,B,18.3,No,Yes,,High,1,6.6,Average Performer
+S2007,Ahmed,Davis,student1007@university.com,Female,24,Mathematics,80.59,61.65,72.67,68.45,75.44,4.97,50.12,73.02,B,22.8,No,Yes,PhD,High,8,5.4,Average Performer
+S2008,Maria,Jones,student1008@university.com,Male,23,CS,86.44,50.99,73.49,83.6,65.63,3.1,74.61,71.4,B,8.1,No,Yes,,High,7,8.8,Average Performer
+S2009,Liam,Williams,student1009@university.com,Female,23,CS,88.06,93.67,83.27,54.51,98.45,5.66,70.63,70.52,A,13.9,No,Yes,PhD,Low,1,8.8,High Performer
+S2010,Ahmed,Davis,student1010@university.com,Male,18,Engineering,88.54,48.89,73.19,60.28,90.04,4.67,88.8,65.55,B,27.0,No,Yes,,Low,8,4.8,Average Performer
+S2011,Ahmed,Brown,student1011@university.com,Female,24,Mathematics,83.17,78.14,75.26,60.02,69.06,6.89,70.14,65.27,B,29.4,No,Yes,Master's,Medium,5,6.7,Average Performer
+S2012,Emma,Brown,student1012@university.com,Male,23,Business,60.79,93.41,76.99,55.42,58.34,9.14,93.21,84.99,B,7.8,Yes,Yes,High School,Low,9,7.9,Average Performer
+S2013,John,Smith,student1013@university.com,Male,21,Business,70.21,94.72,77.57,60.38,88.98,2.01,54.79,77.89,B,19.7,No,Yes,,Low,3,4.3,Average Performer
+S2014,Ahmed,Williams,student1014@university.com,Female,20,CS,88.81,87.59,93.5,80.35,99.5,8.21,68.29,51.5,A+,23.4,No,Yes,PhD,Medium,5,4.6,High Performer
+S2015,Emma,Davis,student1015@university.com,Male,21,Mathematics,,50.57,67.93,86.61,63.95,9.49,96.7,52.43,C,17.9,Yes,Yes,Master's,Medium,7,6.7,Average Performer
+S2016,Sara,Davis,student1016@university.com,Female,22,CS,53.95,89.05,76.37,83.02,95.79,3.74,50.59,78.51,B,10.8,No,Yes,Master's,Medium,10,4.1,Average Performer
+S2017,John,Johnson,student1017@university.com,Male,21,CS,76.78,56.59,64.58,73.76,56.27,1.14,69.54,92.31,C,6.0,No,Yes,,Low,8,8.2,Average Performer
+S2018,Liam,Smith,student1018@university.com,Male,24,Business,65.63,95.34,77.26,52.62,97.61,8.22,62.99,52.2,B,28.8,No,Yes,,Medium,3,8.4,Average Performer
+S2019,Ahmed,Smith,student1019@university.com,Male,19,Mathematics,61.27,82.55,81.23,97.95,87.27,7.01,76.59,75.36,A,10.9,Yes,No,Bachelor's,Medium,1,7.7,High Performer
+S2020,Omar,Davis,student1020@university.com,Female,23,CS,75.29,87.12,76.43,58.4,67.33,2.13,63.94,92.56,B,12.5,Yes,Yes,PhD,Low,6,8.1,Average Performer
+S2021,Ali,Davis,student1021@university.com,Female,24,CS,80.3,45.1,64.62,83.42,65.23,4.45,93.5,50.22,C,21.1,Yes,Yes,Bachelor's,Medium,5,7.4,Average Performer
+S2022,Sara,Jones,student1022@university.com,Female,23,CS,,74.97,80.34,95.64,82.17,5.78,96.86,63.79,A,15.7,No,Yes,,Medium,5,4.7,High Performer
+S2023,Sara,Jones,student1023@university.com,Female,19,CS,89.01,89.27,93.3,84.89,79.68,1.7,92.46,96.0,A+,15.6,Yes,Yes,Bachelor's,Low,6,4.1,High Performer
+S2024,Liam,Jones,student1024@university.com,Female,23,CS,90.99,91.7,91.15,60.9,95.95,7.15,69.93,54.07,A+,7.1,No,No,,Medium,3,8.2,High Performer
+S2025,Emma,Smith,student1025@university.com,Male,21,Mathematics,98.28,41.72,71.8,65.79,88.31,6.9,99.5,80.35,B,29.8,Yes,No,Master's,Low,5,7.5,Average Performer
+S2026,Sara,Johnson,student1026@university.com,Male,22,Engineering,59.03,96.35,78.06,,77.02,8.87,86.75,75.37,B,12.1,No,Yes,High School,High,10,6.0,Average Performer
+S2027,John,Brown,student1027@university.com,Female,18,Business,79.73,42.6,69.77,80.64,96.38,5.67,67.78,57.58,C,7.8,Yes,Yes,Master's,Medium,1,8.0,Average Performer
+S2028,Ahmed,Jones,student1028@university.com,Male,19,Business,,76.87,79.54,80.65,79.64,5.74,54.68,52.12,B,22.0,No,Yes,Bachelor's,Medium,8,4.3,Average Performer
+S2029,Ahmed,Johnson,student1029@university.com,Male,21,Engineering,66.74,81.6,76.64,86.28,92.48,6.19,83.35,75.13,B,23.8,No,Yes,Master's,Low,9,5.6,Average Performer
+S2030,Omar,Williams,student1030@university.com,Male,24,Business,78.28,46.44,62.88,50.55,92.05,2.74,86.43,86.76,C,5.6,Yes,Yes,Bachelor's,High,4,5.7,Average Performer
+S2031,Liam,Jones,student1031@university.com,Male,21,Engineering,89.12,42.88,69.31,90.89,95.96,7.59,56.12,58.86,C,11.7,No,No,PhD,High,5,4.5,Average Performer
+S2032,Ali,Brown,student1032@university.com,Female,21,CS,51.15,87.09,72.42,86.94,53.38,6.62,77.49,84.57,B,9.9,No,Yes,,Low,7,7.7,Average Performer
+S2033,Emma,Williams,student1033@university.com,Male,18,Engineering,98.47,63.08,76.85,57.04,79.19,8.39,99.35,77.32,B,24.7,No,No,PhD,High,10,7.9,Average Performer
+S2034,Ali,Williams,student1034@university.com,Female,20,Engineering,90.49,46.43,66.44,67.38,73.42,7.69,66.31,67.89,C,9.6,No,Yes,High School,Medium,5,6.9,Average Performer
+S2035,Sara,Brown,student1035@university.com,Female,23,Business,87.56,85.76,88.57,81.93,74.53,6.39,65.09,83.22,A,10.9,No,Yes,PhD,Medium,4,6.1,High Performer
+S2036,Liam,Jones,student1036@university.com,Male,23,Mathematics,88.02,90.95,80.47,74.79,73.0,1.61,95.17,59.6,A,29.7,Yes,No,PhD,Low,8,7.0,High Performer
+S2037,Omar,Smith,student1037@university.com,Female,24,Engineering,69.45,75.24,67.71,55.75,91.87,9.19,55.87,72.85,C,22.6,No,Yes,Master's,Low,6,8.5,Average Performer
+S2038,Ali,Brown,student1038@university.com,Male,22,Business,87.58,49.67,65.09,54.37,65.92,3.67,96.68,77.47,C,14.7,No,Yes,High School,Medium,2,5.8,Average Performer
+S2039,John,Brown,student1039@university.com,Male,24,CS,69.34,40.91,67.05,89.07,73.14,9.64,88.97,72.93,C,23.8,Yes,Yes,Master's,Low,4,5.7,Average Performer
+S2040,Ahmed,Brown,student1040@university.com,Male,20,Business,,82.05,77.05,57.8,60.03,4.02,69.54,69.88,B,16.7,No,Yes,PhD,High,3,7.1,Average Performer
+S2041,Sara,Williams,student1041@university.com,Female,23,CS,,73.01,68.0,58.6,62.59,1.46,54.18,87.05,C,10.3,Yes,Yes,Master's,High,2,7.4,Average Performer
+S2042,Omar,Johnson,student1042@university.com,Female,22,CS,64.62,79.05,81.05,91.55,83.02,8.85,50.96,82.81,A,17.2,No,Yes,Bachelor's,Medium,6,6.3,High Performer
+S2043,Ali,Smith,student1043@university.com,Female,24,CS,77.57,88.79,78.73,80.61,55.85,7.95,68.79,81.97,B,24.3,Yes,Yes,PhD,Low,10,8.3,Average Performer
+S2044,Emma,Jones,student1044@university.com,Male,22,Engineering,65.96,66.05,67.34,80.24,59.39,7.86,85.27,94.59,C,9.5,Yes,Yes,Bachelor's,Medium,1,5.8,Average Performer
+S2045,John,Jones,student1045@university.com,Male,21,CS,71.21,47.47,66.88,73.97,76.4,0.89,74.38,99.68,C,17.1,No,Yes,,Low,10,7.2,Average Performer
+S2046,John,Johnson,student1046@university.com,Male,19,Mathematics,74.62,96.4,80.87,,52.19,8.79,86.93,78.36,A,8.0,No,No,Bachelor's,High,4,7.3,High Performer
+S2047,Ali,Brown,student1047@university.com,Female,21,CS,92.82,72.72,73.04,80.09,56.35,5.96,83.53,67.41,B,26.1,Yes,Yes,,Medium,8,5.5,Average Performer
+S2048,Ahmed,Smith,student1048@university.com,Male,18,Mathematics,76.16,76.92,87.85,98.39,93.17,4.7,78.65,88.94,A,25.5,No,Yes,PhD,Low,5,4.1,High Performer
+S2049,Ali,Jones,student1049@university.com,Male,23,Business,68.12,96.0,84.25,61.15,92.31,9.13,98.37,57.1,A,21.8,Yes,Yes,Bachelor's,Medium,3,8.1,High Performer
+S2050,Sara,Davis,student1050@university.com,Female,22,CS,62.39,95.9,72.66,60.73,67.39,6.66,86.42,75.65,B,28.0,No,Yes,High School,Low,2,6.4,Average Performer
+S2051,Ali,Jones,student1051@university.com,Female,24,CS,70.43,74.33,69.01,52.86,67.4,1.33,95.73,76.23,C,15.0,No,No,Bachelor's,Low,6,4.5,Average Performer
+S2052,John,Brown,student1052@university.com,Female,19,Business,75.79,57.86,75.58,82.91,96.83,5.2,62.11,99.17,B,8.3,Yes,Yes,PhD,Low,4,8.8,Average Performer
+S2053,Omar,Davis,student1053@university.com,Male,24,Engineering,87.31,99.83,85.1,77.45,51.29,6.37,85.68,99.55,A,29.4,Yes,Yes,High School,High,7,5.5,High Performer
+S2054,Ali,Johnson,student1054@university.com,Male,23,Engineering,56.05,80.85,66.43,55.56,79.01,8.99,79.89,89.96,C,17.8,No,Yes,,Medium,8,6.4,Average Performer
+S2055,Ahmed,Smith,student1055@university.com,Male,22,CS,61.08,64.51,64.51,68.23,79.87,2.8,96.21,73.65,C,16.9,No,Yes,High School,Low,9,6.4,Average Performer
+S2056,Liam,Johnson,student1056@university.com,Female,22,Engineering,68.98,73.59,71.57,58.93,89.39,7.94,75.52,77.36,B,6.6,No,Yes,,Low,7,5.9,Average Performer
+S2057,Omar,Johnson,student1057@university.com,Female,21,Mathematics,,64.95,76.92,66.57,97.59,8.0,63.98,65.99,B,19.3,No,Yes,High School,Medium,9,4.8,Average Performer
+S2058,Emma,Smith,student1058@university.com,Female,19,CS,69.59,93.3,84.84,97.56,67.79,1.28,69.24,91.49,A,21.1,No,Yes,,Medium,4,7.5,High Performer
+S2059,Maria,Smith,student1059@university.com,Female,19,Engineering,89.68,68.95,77.54,84.17,71.89,0.17,60.94,87.33,B,16.8,No,Yes,,Low,1,5.0,Average Performer
+S2060,Ali,Jones,student1060@university.com,Male,23,CS,66.21,89.41,76.08,50.38,83.56,5.81,61.0,88.57,B,27.8,No,Yes,Bachelor's,Medium,7,7.4,Average Performer
+S2061,Ahmed,Jones,student1061@university.com,Male,22,Business,75.09,90.41,72.9,62.63,98.36,7.89,73.52,56.93,B,23.6,No,Yes,Master's,Low,2,8.0,Average Performer
+S2062,Omar,Smith,student1062@university.com,Male,19,Business,81.2,89.46,83.4,50.52,94.54,5.54,94.63,69.93,A,6.0,No,Yes,,High,10,4.1,High Performer
+S2063,Ahmed,Davis,student1063@university.com,Male,19,CS,61.61,83.33,72.08,85.74,83.35,8.13,59.59,76.87,B,18.6,No,Yes,High School,Low,9,7.7,Average Performer
+S2064,Emma,Williams,student1064@university.com,Male,24,CS,85.93,91.29,85.26,73.47,92.84,6.22,64.39,56.23,A,29.8,No,Yes,PhD,High,6,7.2,High Performer
+S2065,John,Jones,student1065@university.com,Male,23,CS,77.36,63.23,70.06,99.7,54.26,6.53,92.65,68.43,B,10.0,Yes,Yes,High School,Medium,9,5.0,Average Performer
+S2066,Ahmed,Williams,student1066@university.com,Male,21,Engineering,72.34,46.88,61.89,86.68,68.86,0.28,66.96,54.37,C,20.4,No,Yes,PhD,High,8,7.1,Average Performer
+S2067,Omar,Davis,student1067@university.com,Male,24,Engineering,,90.55,80.67,75.9,50.65,0.89,98.12,97.94,A,11.8,Yes,Yes,,Medium,9,6.1,High Performer
+S2068,Ahmed,Smith,student1068@university.com,Female,24,Mathematics,,69.89,69.57,,58.87,7.25,63.45,87.56,C,14.3,No,Yes,Bachelor's,High,7,4.4,Average Performer
+S2069,Ahmed,Davis,student1069@university.com,Female,20,Engineering,94.16,47.64,75.24,85.24,81.52,7.63,72.11,81.04,B,5.8,No,Yes,,Low,3,6.6,Average Performer
+S2070,Ahmed,Jones,student1070@university.com,Male,18,CS,78.05,46.92,66.28,62.19,94.28,5.42,54.78,60.24,C,22.2,No,Yes,PhD,Low,10,8.9,Average Performer
+S2071,Sara,Johnson,student1071@university.com,Female,20,Business,80.46,49.55,70.46,76.51,81.64,5.9,99.61,66.71,B,24.1,No,Yes,,Low,5,7.2,Average Performer
+S2072,Sara,Smith,student1072@university.com,Male,19,Engineering,,85.06,80.76,77.8,83.21,6.14,94.51,57.22,A,24.3,No,Yes,,Low,3,5.7,High Performer
+S2073,John,Brown,student1073@university.com,Male,22,Engineering,90.88,82.65,75.13,72.56,55.19,1.05,90.88,76.81,B,29.3,Yes,Yes,Bachelor's,High,3,6.8,Average Performer
+S2074,Ali,Williams,student1074@university.com,Female,18,CS,80.08,52.23,69.57,58.96,83.24,6.68,57.87,91.03,C,25.9,Yes,No,,Low,7,7.7,Average Performer
+S2075,Ahmed,Davis,student1075@university.com,Male,18,CS,87.66,90.82,79.75,61.17,72.72,4.78,98.47,50.95,B,10.2,Yes,Yes,High School,High,6,4.8,Average Performer
+S2076,Emma,Smith,student1076@university.com,Male,22,Mathematics,71.67,56.88,61.93,64.05,82.57,6.03,96.46,55.17,C,10.8,No,Yes,Bachelor's,Medium,5,6.6,Average Performer
+S2077,Ali,Davis,student1077@university.com,Male,18,Engineering,77.37,87.58,77.49,,66.31,5.63,71.78,61.47,B,24.2,No,Yes,Master's,High,5,6.5,Average Performer
+S2078,Emma,Smith,student1078@university.com,Male,22,CS,53.1,69.33,75.73,95.85,79.07,7.63,84.08,85.7,B,24.4,Yes,Yes,,Low,8,5.9,Average Performer
+S2079,Ali,Jones,student1079@university.com,Male,18,Engineering,54.49,83.89,75.8,84.3,71.2,3.19,99.62,94.7,B,8.1,No,Yes,Bachelor's,Low,1,7.7,Average Performer
+S2080,John,Jones,student1080@university.com,Male,24,Mathematics,91.47,62.88,76.99,84.48,77.93,3.74,70.49,87.65,B,5.2,No,Yes,Master's,Low,4,6.8,Average Performer
+S2081,Ahmed,Jones,student1081@university.com,Male,23,CS,52.98,60.83,60.46,78.62,57.35,3.92,55.65,76.25,C,15.0,No,Yes,PhD,Medium,5,7.5,Average Performer
+S2082,Ahmed,Davis,student1082@university.com,Female,23,Engineering,58.47,90.48,75.61,84.47,69.79,7.62,93.39,55.26,B,22.4,No,Yes,Master's,High,9,7.0,Average Performer
+S2083,Maria,Brown,student1083@university.com,Female,20,Mathematics,89.79,42.12,78.03,99.09,68.71,4.31,73.82,87.75,B,26.7,No,Yes,PhD,Low,1,7.9,Average Performer
+S2084,Emma,Jones,student1084@university.com,Male,24,CS,50.06,98.48,77.51,69.26,86.82,1.77,99.35,55.28,B,9.1,Yes,No,,Medium,9,7.2,Average Performer
+S2085,Ali,Smith,student1085@university.com,Female,18,Business,,78.89,81.54,85.63,85.32,9.83,77.54,67.38,A,25.4,No,Yes,,Low,6,7.4,High Performer
+S2086,Ali,Jones,student1086@university.com,Male,21,Engineering,,65.95,76.8,67.98,95.44,4.93,51.47,65.4,B,22.1,No,Yes,,High,3,5.1,Average Performer
+S2087,Liam,Johnson,student1087@university.com,Male,22,Engineering,79.77,77.68,79.04,,81.6,1.09,74.59,67.96,B,9.1,No,Yes,,High,3,8.2,Average Performer
+S2088,Liam,Jones,student1088@university.com,Male,24,CS,,47.36,66.96,92.9,65.73,6.7,85.9,66.48,C,26.8,Yes,Yes,PhD,Low,4,4.8,Average Performer
+S2089,Sara,Davis,student1089@university.com,Male,18,CS,75.3,70.84,79.19,95.11,89.16,7.39,51.3,88.46,B,28.3,No,Yes,,Medium,5,5.7,Average Performer
+S2090,Maria,Brown,student1090@university.com,Female,23,Engineering,75.47,99.11,78.4,50.27,74.85,5.0,70.67,58.59,B,11.6,Yes,Yes,Bachelor's,Medium,9,8.4,Average Performer
+S2091,Omar,Johnson,student1091@university.com,Female,23,CS,86.27,54.12,66.64,64.91,59.67,6.46,57.78,92.29,C,8.7,No,No,Master's,Medium,6,4.5,Average Performer
+S2092,Liam,Davis,student1092@university.com,Female,22,Engineering,74.93,83.34,78.28,56.7,87.37,1.73,82.15,92.91,B,29.2,Yes,Yes,,Low,5,8.3,Average Performer
+S2093,Omar,Davis,student1093@university.com,Female,21,CS,80.42,66.1,70.45,72.7,56.63,3.68,97.87,74.55,B,5.6,Yes,Yes,High School,High,6,6.4,Average Performer
+S2094,Sara,Davis,student1094@university.com,Male,18,CS,94.89,79.15,82.16,74.77,58.91,1.62,81.23,55.31,A,28.7,No,No,,Low,6,4.9,High Performer
+S2095,Sara,Smith,student1095@university.com,Female,18,Mathematics,70.07,52.29,64.83,62.8,87.94,3.87,84.74,78.77,C,10.4,No,Yes,PhD,Medium,9,7.7,Average Performer
+S2096,Sara,Davis,student1096@university.com,Male,21,Engineering,69.26,68.23,75.4,86.17,88.51,5.63,69.83,91.05,B,16.0,No,Yes,PhD,Low,10,5.4,Average Performer
+S2097,Emma,Smith,student1097@university.com,Male,21,Mathematics,50.18,98.81,69.77,63.49,89.54,4.43,78.16,64.47,C,12.7,No,Yes,Master's,Medium,7,7.4,Average Performer
+S2098,Emma,Davis,student1098@university.com,Female,21,CS,80.67,51.72,73.29,92.69,64.67,5.93,77.19,91.89,B,8.8,Yes,Yes,Bachelor's,High,7,8.0,Average Performer
+S2099,John,Williams,student1099@university.com,Male,23,Engineering,51.49,78.19,69.63,58.88,93.33,5.02,87.98,83.85,C,13.8,No,Yes,Bachelor's,Low,4,6.8,Average Performer
+S2100,John,Johnson,student1100@university.com,Female,22,CS,75.21,74.54,79.53,,86.13,3.18,92.85,99.36,B,18.5,Yes,Yes,High School,High,5,7.9,Average Performer
+S2101,Sara,Williams,student1101@university.com,Female,24,Business,90.21,73.9,74.22,81.11,91.7,1.43,83.14,91.24,B,7.3,No,Yes,,Medium,7,8.7,Average Performer
+S2102,Maria,Davis,student1102@university.com,Female,21,Business,77.5,76.91,85.3,80.27,85.43,2.53,98.99,60.08,A,25.2,No,Yes,,Low,8,6.8,High Performer
+S2103,Ali,Johnson,student1103@university.com,Female,22,CS,63.48,70.13,65.8,53.9,78.98,2.01,91.41,72.45,C,25.0,Yes,Yes,,Low,6,4.8,Average Performer
+S2104,Emma,Johnson,student1104@university.com,Female,20,Mathematics,89.31,41.02,71.26,92.31,55.47,7.07,56.23,55.18,B,24.9,No,Yes,,Medium,8,7.5,Average Performer
+S2105,Maria,Brown,student1105@university.com,Male,18,CS,63.49,94.01,77.64,79.9,85.55,8.2,75.37,53.48,B,22.2,Yes,Yes,High School,Low,9,6.1,Average Performer
+S2106,Ahmed,Williams,student1106@university.com,Female,18,Engineering,86.65,89.62,90.58,93.49,84.52,7.2,95.16,85.3,A+,16.4,No,Yes,High School,High,1,6.7,High Performer
+S2107,Emma,Brown,student1107@university.com,Female,19,Mathematics,80.51,50.45,67.17,93.38,65.62,6.44,97.2,95.65,C,25.8,No,Yes,,Low,4,7.1,Average Performer
+S2108,Emma,Johnson,student1108@university.com,Male,20,Business,58.5,64.8,66.84,77.3,86.79,3.08,69.01,98.68,C,26.3,No,Yes,Master's,Medium,9,7.6,Average Performer
+S2109,John,Smith,student1109@university.com,Female,24,Mathematics,95.26,86.23,95.24,95.54,77.52,7.11,86.29,63.52,A+,12.1,No,Yes,,Medium,5,7.2,High Performer
+S2110,Ali,Johnson,student1110@university.com,Female,21,CS,60.03,98.8,82.2,92.42,77.97,6.05,70.53,60.09,A,17.0,Yes,Yes,High School,Low,4,5.2,High Performer
+S2111,Ali,Brown,student1111@university.com,Male,21,CS,99.48,97.07,94.31,97.91,68.38,0.47,56.18,78.01,A+,10.1,No,Yes,,High,9,7.7,High Performer
+S2112,Liam,Williams,student1112@university.com,Male,24,CS,50.37,93.96,77.49,92.52,55.84,9.08,94.23,60.04,B,11.4,No,Yes,PhD,Low,2,8.0,Average Performer
+S2113,Omar,Davis,student1113@university.com,Female,23,Engineering,63.17,49.5,65.1,91.06,60.85,0.8,96.6,64.8,C,11.0,No,Yes,PhD,High,2,4.2,Average Performer
+S2114,Omar,Davis,student1114@university.com,Male,20,Business,59.99,94.87,79.61,73.47,88.44,5.03,75.24,91.86,B,25.7,No,Yes,High School,Low,8,5.5,Average Performer
+S2115,Omar,Williams,student1115@university.com,Female,21,CS,50.7,92.71,70.41,60.6,63.57,5.13,50.92,90.52,B,11.3,No,Yes,,Low,8,8.9,Average Performer
+S2116,Omar,Davis,student1116@university.com,Male,19,Engineering,86.62,62.62,81.74,95.54,50.11,8.37,90.8,94.75,A,18.7,No,Yes,Master's,High,5,4.9,High Performer
+S2117,Ahmed,Davis,student1117@university.com,Female,22,CS,84.67,63.67,79.72,86.13,99.85,9.13,73.85,74.11,B,20.7,No,Yes,Bachelor's,Medium,6,4.9,Average Performer
+S2118,Ahmed,Brown,student1118@university.com,Female,18,CS,89.62,67.59,73.04,64.09,60.53,9.4,53.75,78.2,B,23.6,Yes,No,Bachelor's,Medium,5,7.0,Average Performer
+S2119,Emma,Williams,student1119@university.com,Female,20,Engineering,62.83,79.37,75.61,67.05,82.77,5.7,59.47,88.53,B,5.7,No,Yes,PhD,Low,8,5.7,Average Performer
+S2120,Sara,Jones,student1120@university.com,Male,18,Engineering,,55.65,76.82,84.3,96.35,6.79,57.61,61.96,B,16.9,No,Yes,Bachelor's,Low,6,7.3,Average Performer
+S2121,John,Smith,student1121@university.com,Female,22,Business,,41.38,67.54,73.89,79.99,0.89,84.31,91.15,C,12.3,No,Yes,,Medium,6,5.3,Average Performer
+S2122,John,Smith,student1122@university.com,Male,20,CS,71.99,48.47,64.78,54.07,89.95,4.88,64.97,50.88,C,25.8,No,Yes,High School,Medium,7,6.1,Average Performer
+S2123,Omar,Davis,student1123@university.com,Female,22,Business,84.87,66.41,71.51,57.07,98.82,8.98,56.38,89.88,B,5.9,Yes,Yes,Master's,Low,2,9.0,Average Performer
+S2124,Emma,Smith,student1124@university.com,Female,21,CS,81.7,56.92,78.25,,93.02,4.56,95.88,88.8,B,10.2,Yes,Yes,Master's,Low,9,5.9,Average Performer
+S2125,Liam,Williams,student1125@university.com,Female,24,CS,55.73,85.87,68.31,66.43,77.9,0.7,97.83,65.09,C,12.9,No,Yes,,High,3,4.4,Average Performer
+S2126,Maria,Williams,student1126@university.com,Female,21,Engineering,89.05,46.4,69.17,75.38,68.19,2.01,56.93,86.4,C,6.9,No,No,Bachelor's,High,9,7.7,Average Performer
+S2127,Sara,Johnson,student1127@university.com,Female,24,Business,,95.05,82.51,88.33,74.12,4.3,61.51,60.7,A,14.9,Yes,Yes,,Low,10,6.9,High Performer
+S2128,Emma,Johnson,student1128@university.com,Male,21,CS,82.79,93.72,88.77,87.56,92.09,2.38,79.61,78.81,A,23.6,No,Yes,,Medium,5,6.2,High Performer
+S2129,Sara,Smith,student1129@university.com,Male,22,CS,57.75,94.53,76.97,58.35,92.67,3.92,57.53,85.03,B,10.3,Yes,Yes,,Low,1,8.5,Average Performer
+S2130,Sara,Jones,student1130@university.com,Male,22,Engineering,63.4,84.38,74.34,54.92,92.29,3.33,57.93,85.73,B,23.9,No,No,Master's,High,10,4.7,Average Performer
+S2131,Sara,Johnson,student1131@university.com,Female,22,CS,69.66,46.42,66.3,79.56,79.86,3.19,66.83,99.15,C,18.2,Yes,Yes,,Low,4,6.4,Average Performer
+S2132,Emma,Johnson,student1132@university.com,Female,18,Business,64.0,66.29,75.74,87.08,73.85,0.91,97.46,59.1,B,13.6,No,Yes,Master's,Medium,6,5.0,Average Performer
+S2133,Omar,Williams,student1133@university.com,Male,22,Business,61.39,47.88,57.86,57.45,65.57,8.83,98.12,74.04,D,14.2,Yes,Yes,,Medium,3,4.4,Needs Improvement
+S2134,John,Jones,student1134@university.com,Female,21,CS,90.27,99.26,82.34,68.6,50.17,6.93,92.09,94.01,A,7.9,No,Yes,PhD,Low,6,6.2,High Performer
+S2135,John,Davis,student1135@university.com,Female,19,Engineering,81.91,59.98,80.39,93.51,88.22,6.23,84.79,78.08,A,11.2,No,Yes,Master's,Medium,1,8.7,High Performer
+S2136,Omar,Smith,student1136@university.com,Female,22,Business,78.27,75.12,82.36,97.21,63.85,6.06,86.03,93.82,A,23.3,Yes,Yes,PhD,Low,10,7.6,High Performer
+S2137,Sara,Johnson,student1137@university.com,Male,19,CS,61.3,86.76,69.59,72.7,66.48,3.97,73.48,71.7,C,26.6,Yes,Yes,,Low,10,5.2,Average Performer
+S2138,Maria,Jones,student1138@university.com,Male,24,Engineering,95.9,95.24,88.52,53.98,92.17,8.23,76.51,89.77,A,11.6,Yes,Yes,,Medium,9,6.3,High Performer
+S2139,Ali,Jones,student1139@university.com,Male,21,CS,59.56,85.33,70.3,62.88,52.61,9.3,81.72,93.5,B,19.7,Yes,No,,High,9,8.0,Average Performer
+S2140,Emma,Smith,student1140@university.com,Male,22,Engineering,89.75,80.47,80.98,61.65,96.38,0.06,86.56,92.32,A,5.9,Yes,Yes,,High,4,5.0,High Performer
+S2141,Ali,Jones,student1141@university.com,Male,18,CS,98.33,67.96,77.31,61.95,50.07,0.79,54.84,93.57,B,6.9,No,Yes,Bachelor's,High,2,5.0,Average Performer
+S2142,Liam,Jones,student1142@university.com,Female,18,Business,86.35,76.32,81.65,74.69,96.96,6.75,61.24,60.98,A,29.1,No,Yes,Master's,High,8,4.9,High Performer
+S2143,Omar,Jones,student1143@university.com,Female,24,CS,99.64,45.65,72.99,79.16,72.74,2.36,98.15,71.95,B,27.4,Yes,Yes,High School,Medium,7,7.0,Average Performer
+S2144,Maria,Johnson,student1144@university.com,Female,19,CS,82.55,93.04,76.3,56.13,55.11,9.12,66.76,58.73,B,7.0,Yes,Yes,PhD,Low,1,4.1,Average Performer
+S2145,Emma,Smith,student1145@university.com,Female,23,Business,60.87,72.63,75.18,94.47,83.71,6.67,63.42,59.03,B,25.6,No,Yes,Master's,High,6,6.9,Average Performer
+S2146,Omar,Jones,student1146@university.com,Male,18,CS,60.19,42.41,60.03,81.0,94.79,3.68,71.1,74.39,C,7.6,No,Yes,PhD,Low,10,8.1,Average Performer
+S2147,Sara,Jones,student1147@university.com,Male,18,CS,66.23,95.19,75.62,79.86,71.9,4.15,64.55,98.0,B,25.7,Yes,Yes,Bachelor's,High,5,7.9,Average Performer
+S2148,John,Johnson,student1148@university.com,Female,18,CS,50.36,69.36,76.73,99.36,84.57,6.91,54.56,79.6,B,27.8,Yes,Yes,,Medium,2,7.3,Average Performer
+S2149,Ali,Smith,student1149@university.com,Male,21,CS,84.08,92.12,86.05,81.41,98.97,1.41,60.4,92.69,A,8.8,Yes,Yes,High School,Medium,5,5.1,High Performer
+S2150,Ahmed,Williams,student1150@university.com,Female,18,Mathematics,63.43,91.41,76.64,96.45,62.04,8.83,82.01,96.86,B,8.7,No,No,,Low,6,8.1,Average Performer
+S2151,Ahmed,Johnson,student1151@university.com,Female,20,Business,90.76,88.95,78.42,64.31,91.02,0.05,61.16,54.33,B,28.2,Yes,Yes,Bachelor's,Low,10,8.8,Average Performer
+S2152,Maria,Smith,student1152@university.com,Female,22,CS,67.96,43.68,55.88,62.01,64.76,9.79,82.38,58.1,D,12.5,Yes,Yes,Bachelor's,Medium,6,4.9,Needs Improvement
+S2153,Sara,Jones,student1153@university.com,Female,24,Business,74.0,54.82,63.28,75.83,71.32,1.68,55.0,64.54,C,16.8,No,Yes,,Low,2,8.6,Average Performer
+S2154,Liam,Smith,student1154@university.com,Male,18,Engineering,98.28,92.53,91.5,75.43,64.09,7.42,52.09,80.84,A+,12.6,No,Yes,,Low,1,8.3,High Performer
+S2155,Ali,Smith,student1155@university.com,Female,23,Mathematics,62.11,93.94,77.65,61.32,72.3,0.4,93.08,53.09,B,23.7,No,Yes,,Low,4,8.9,Average Performer
+S2156,Sara,Davis,student1156@university.com,Male,23,CS,86.06,67.48,71.91,84.98,50.25,4.31,88.0,89.33,B,10.3,Yes,Yes,High School,Medium,4,5.6,Average Performer
+S2157,Ali,Smith,student1157@university.com,Female,18,Engineering,87.76,66.4,76.4,51.48,65.17,6.3,83.3,53.19,B,17.4,Yes,Yes,,Medium,9,8.7,Average Performer
+S2158,Maria,Williams,student1158@university.com,Female,18,Engineering,61.05,50.51,66.68,84.53,72.26,0.7,51.54,57.92,C,26.3,No,Yes,Bachelor's,Medium,1,4.9,Average Performer
+S2159,Maria,Smith,student1159@university.com,Female,20,Engineering,75.05,98.1,82.69,72.86,81.61,4.43,61.97,69.09,A,28.6,No,Yes,PhD,Low,10,4.9,High Performer
+S2160,Liam,Williams,student1160@university.com,Female,18,Engineering,67.51,52.79,58.47,,81.87,3.03,90.62,77.89,D,13.8,No,No,High School,Medium,1,4.5,Needs Improvement
+S2161,Ahmed,Jones,student1161@university.com,Male,18,CS,88.6,51.46,78.11,73.85,79.19,4.98,57.23,94.08,B,7.8,No,Yes,,Low,8,6.1,Average Performer
+S2162,Sara,Williams,student1162@university.com,Female,22,Business,81.12,79.64,72.7,,64.65,5.05,90.64,98.19,B,25.2,No,Yes,PhD,Low,5,4.1,Average Performer
+S2163,Emma,Jones,student1163@university.com,Male,23,Engineering,73.8,54.57,64.25,66.73,97.37,7.85,79.21,94.23,C,7.8,Yes,Yes,,Medium,9,5.9,Average Performer
+S2164,Ahmed,Jones,student1164@university.com,Female,20,Mathematics,88.97,96.33,93.74,99.13,69.6,1.24,87.02,55.35,A+,24.5,No,Yes,Bachelor's,Medium,6,7.1,High Performer
+S2165,Sara,Williams,student1165@university.com,Female,23,CS,61.76,40.65,59.85,53.25,60.84,0.83,82.23,81.56,D,22.2,No,Yes,Master's,Medium,10,4.4,Needs Improvement
+S2166,Ahmed,Johnson,student1166@university.com,Female,20,Engineering,87.68,40.35,73.08,84.19,77.73,4.02,70.85,72.09,B,19.4,No,Yes,,Medium,3,8.1,Average Performer
+S2167,Emma,Brown,student1167@university.com,Male,23,Mathematics,93.27,70.29,81.93,72.71,87.45,8.88,64.6,56.29,A,28.5,Yes,Yes,,Medium,1,5.5,High Performer
+S2168,John,Smith,student1168@university.com,Female,18,Engineering,93.93,69.28,80.02,91.11,50.61,8.55,83.64,77.76,A,13.1,No,Yes,PhD,Low,10,4.2,High Performer
+S2169,John,Davis,student1169@university.com,Female,23,Business,89.18,49.8,74.21,89.48,63.82,5.6,90.35,67.83,B,7.3,No,Yes,PhD,Low,6,5.9,Average Performer
+S2170,Liam,Brown,student1170@university.com,Female,23,Business,70.4,69.67,79.47,90.01,91.25,8.89,52.24,67.29,B,29.5,No,Yes,,Low,3,4.7,Average Performer
+S2171,John,Smith,student1171@university.com,Female,20,CS,99.09,64.7,75.47,54.74,75.35,8.05,69.0,54.72,B,16.0,No,Yes,,High,4,8.0,Average Performer
+S2172,John,Smith,student1172@university.com,Female,24,Engineering,,93.42,81.25,,70.42,2.78,67.54,98.94,A,15.8,Yes,Yes,,Low,3,5.7,High Performer
+S2173,Omar,Jones,student1173@university.com,Male,19,CS,,40.56,63.35,60.7,96.55,1.7,77.97,86.3,C,7.2,No,Yes,Bachelor's,High,7,4.6,Average Performer
+S2174,Ali,Smith,student1174@university.com,Male,20,Engineering,58.05,98.58,72.79,,54.48,3.01,55.7,64.02,B,23.6,No,No,,Medium,9,6.3,Average Performer
+S2175,Omar,Davis,student1175@university.com,Female,20,CS,99.02,77.46,80.27,60.89,80.78,2.27,96.67,95.87,A,23.0,Yes,Yes,Master's,Medium,5,6.3,High Performer
+S2176,Omar,Smith,student1176@university.com,Female,20,Business,,49.11,59.69,73.96,67.11,6.23,77.43,97.4,D,8.6,No,Yes,Master's,Medium,6,5.4,Needs Improvement
+S2177,Liam,Williams,student1177@university.com,Male,21,Engineering,87.67,42.81,66.44,87.11,53.54,5.85,96.19,90.52,C,10.8,No,Yes,High School,Medium,5,5.6,Average Performer
+S2178,Omar,Brown,student1178@university.com,Female,24,Engineering,,72.29,66.34,60.93,60.69,5.98,90.85,82.97,C,5.4,No,Yes,,Low,3,7.8,Average Performer
+S2179,John,Williams,student1179@university.com,Male,21,CS,88.17,54.09,65.41,55.65,81.4,1.89,59.58,68.82,C,27.2,Yes,Yes,,Low,3,7.2,Average Performer
+S2180,Emma,Davis,student1180@university.com,Female,21,Mathematics,,58.07,66.26,,51.41,7.92,56.62,71.72,C,11.1,No,Yes,Bachelor's,Low,4,5.1,Average Performer
+S2181,Liam,Smith,student1181@university.com,Female,20,CS,83.59,54.71,80.18,99.19,79.61,4.34,93.06,72.75,A,28.2,No,Yes,PhD,High,5,8.7,High Performer
+S2182,Liam,Davis,student1182@university.com,Male,19,CS,64.6,79.01,80.47,80.04,97.84,4.72,76.81,97.44,A,19.3,No,Yes,,Medium,7,5.5,High Performer
+S2183,Maria,Jones,student1183@university.com,Female,20,CS,,73.21,74.0,84.55,89.75,9.97,50.99,88.01,B,15.6,No,Yes,Master's,Medium,9,6.7,Average Performer
+S2184,Liam,Williams,student1184@university.com,Male,18,Mathematics,55.52,44.68,55.03,78.06,67.28,2.82,96.71,64.6,D,5.2,No,Yes,High School,High,5,6.9,Needs Improvement
+S2185,Maria,Williams,student1185@university.com,Male,19,Mathematics,73.58,71.59,76.31,89.12,56.91,3.94,73.65,81.23,B,7.3,Yes,No,PhD,Medium,2,5.1,Average Performer
+S2186,Liam,Johnson,student1186@university.com,Male,21,Engineering,,87.47,81.13,98.79,73.25,6.76,65.05,79.7,A,9.0,Yes,Yes,PhD,Low,9,5.5,High Performer
+S2187,Ali,Smith,student1187@university.com,Female,23,Business,67.45,44.87,61.16,77.21,69.65,8.8,75.83,90.61,C,7.6,Yes,Yes,,High,5,6.4,Average Performer
+S2188,John,Jones,student1188@university.com,Male,23,CS,58.13,93.38,81.52,,98.59,1.27,91.15,54.77,A,11.4,No,Yes,High School,Low,6,5.3,High Performer
+S2189,Liam,Williams,student1189@university.com,Male,24,Mathematics,61.5,74.7,75.22,93.02,99.49,7.35,55.51,85.06,B,8.9,Yes,Yes,,Low,9,5.5,Average Performer
+S2190,John,Williams,student1190@university.com,Female,22,CS,53.83,97.04,80.71,98.49,70.53,9.18,67.95,66.56,A,21.6,No,Yes,,Low,4,7.1,High Performer
+S2191,John,Jones,student1191@university.com,Female,24,CS,96.0,48.89,61.82,56.46,57.44,4.23,65.94,56.48,C,12.4,No,Yes,Bachelor's,Medium,3,7.7,Average Performer
+S2192,Ahmed,Davis,student1192@university.com,Female,19,CS,76.52,99.61,86.13,78.91,95.53,2.87,91.98,86.59,A,23.0,Yes,Yes,,High,4,8.0,High Performer
+S2193,Liam,Davis,student1193@university.com,Female,21,Engineering,69.84,78.66,77.86,,89.68,6.78,88.92,66.58,B,8.4,No,Yes,PhD,Medium,8,4.6,Average Performer
+S2194,Sara,Smith,student1194@university.com,Female,19,Business,,74.05,70.52,76.67,75.56,2.46,70.01,86.51,B,10.2,No,Yes,Master's,Medium,7,7.7,Average Performer
+S2195,Ahmed,Johnson,student1195@university.com,Female,19,CS,81.41,70.92,74.9,70.46,68.27,3.84,83.22,58.12,B,24.7,Yes,Yes,,Medium,7,8.7,Average Performer
+S2196,Sara,Williams,student1196@university.com,Male,23,Mathematics,,41.42,64.57,82.76,72.41,8.97,69.72,99.3,C,20.9,Yes,Yes,Master's,Medium,1,6.9,Average Performer
+S2197,John,Johnson,student1197@university.com,Female,20,Engineering,58.93,96.38,80.03,63.51,95.09,5.9,78.57,90.17,A,7.4,No,No,,Medium,2,7.0,High Performer
+S2198,John,Davis,student1198@university.com,Male,18,CS,64.78,78.64,70.01,67.46,59.23,0.95,99.56,64.46,B,29.0,No,Yes,,Low,3,8.8,Average Performer
+S2199,Ahmed,Davis,student1199@university.com,Female,22,Engineering,98.79,45.5,83.13,99.61,90.34,3.3,76.78,87.03,A,24.1,No,Yes,,Low,1,8.3,High Performer
+S2200,Ahmed,Brown,student1200@university.com,Male,21,Engineering,,41.26,61.53,81.82,50.91,6.27,99.43,56.79,C,18.8,No,Yes,,Low,9,6.8,Average Performer
+S2201,Sara,Smith,student1201@university.com,Male,19,Business,51.13,43.05,62.25,93.65,96.03,4.81,87.36,82.67,C,13.6,No,Yes,High School,Medium,9,7.8,Average Performer
+S2202,Maria,Brown,student1202@university.com,Female,22,Engineering,57.38,76.56,73.71,90.39,75.01,6.6,56.04,52.98,B,7.3,No,Yes,High School,Medium,5,4.9,Average Performer
+S2203,Sara,Brown,student1203@university.com,Female,19,Engineering,51.32,76.84,69.64,82.61,61.34,7.61,89.8,66.67,C,14.0,No,Yes,Bachelor's,Medium,4,6.1,Average Performer
+S2204,Ahmed,Brown,student1204@university.com,Male,23,CS,99.5,69.98,80.42,92.04,50.14,4.81,58.06,98.92,A,13.1,No,Yes,Master's,Low,3,7.6,High Performer
+S2205,Emma,Smith,student1205@university.com,Female,18,Engineering,63.94,58.41,64.32,64.36,77.98,9.87,76.62,56.05,C,7.0,No,Yes,,Low,9,5.4,Average Performer
+S2206,Ahmed,Smith,student1206@university.com,Female,23,Mathematics,96.18,71.9,77.62,81.86,62.22,9.15,80.66,79.87,B,24.6,No,No,,Medium,2,6.3,Average Performer
+S2207,Emma,Jones,student1207@university.com,Male,22,CS,99.79,70.98,80.93,79.53,81.56,0.6,94.61,53.53,A,15.4,No,Yes,Master's,Low,8,4.9,High Performer
+S2208,Ali,Johnson,student1208@university.com,Male,21,Business,79.99,41.16,60.03,81.12,64.06,2.66,60.52,83.47,C,27.2,No,No,,Medium,7,8.5,Average Performer
+S2209,Ahmed,Johnson,student1209@university.com,Male,19,Engineering,51.66,56.95,60.53,58.43,54.4,3.01,93.8,63.93,C,8.9,No,Yes,PhD,High,2,8.5,Average Performer
+S2210,Ali,Jones,student1210@university.com,Female,18,CS,,43.19,58.16,63.86,75.25,1.84,96.72,65.5,D,12.9,Yes,Yes,,Low,3,6.4,Needs Improvement
+S2211,Maria,Jones,student1211@university.com,Female,23,Mathematics,74.08,94.01,77.65,64.33,78.22,3.12,54.47,66.89,B,12.0,Yes,Yes,,Low,2,5.0,Average Performer
+S2212,Sara,Davis,student1212@university.com,Female,22,Engineering,70.31,83.51,75.08,80.1,72.63,4.25,94.26,60.26,B,26.6,No,Yes,,High,3,7.4,Average Performer
+S2213,Emma,Brown,student1213@university.com,Female,23,CS,80.31,99.77,92.36,98.63,72.9,0.52,62.96,97.08,A+,17.7,No,Yes,High School,Low,4,5.1,High Performer
+S2214,Sara,Jones,student1214@university.com,Male,19,CS,71.94,58.13,72.5,97.7,79.48,1.27,54.05,95.29,B,8.5,No,Yes,,High,5,5.1,Average Performer
+S2215,Ali,Williams,student1215@university.com,Female,19,CS,,92.71,82.63,61.36,76.32,0.96,97.93,93.5,A,13.9,Yes,Yes,,High,2,8.9,High Performer
+S2216,Emma,Johnson,student1216@university.com,Male,21,Business,76.74,76.18,69.21,65.24,56.63,0.46,69.61,55.32,C,28.6,No,No,High School,Medium,7,4.5,Average Performer
+S2217,Sara,Jones,student1217@university.com,Female,18,Engineering,84.69,67.19,69.1,51.8,59.85,4.81,81.15,61.67,C,18.8,No,Yes,,Medium,4,5.9,Average Performer
+S2218,Ahmed,Williams,student1218@university.com,Female,20,Mathematics,,53.35,61.44,69.94,57.09,3.34,77.64,80.61,C,5.9,No,Yes,,Low,1,6.8,Average Performer
+S2219,John,Williams,student1219@university.com,Male,23,CS,,84.3,89.7,91.73,84.66,9.35,60.66,98.52,A,6.4,No,Yes,,Low,4,4.5,High Performer
+S2220,Ali,Williams,student1220@university.com,Female,19,CS,61.49,94.25,78.49,95.79,76.43,1.03,83.48,80.24,B,10.9,No,Yes,Master's,Medium,9,4.2,Average Performer
+S2221,Sara,Davis,student1221@university.com,Female,22,CS,55.37,54.12,59.57,61.82,71.49,9.26,52.31,66.36,D,20.5,No,Yes,High School,Medium,5,6.7,Needs Improvement
+S2222,Ali,Davis,student1222@university.com,Male,23,Engineering,56.98,50.52,62.82,63.29,89.92,0.87,60.15,90.87,C,11.1,No,Yes,High School,High,2,4.6,Average Performer
+S2223,Omar,Williams,student1223@university.com,Female,21,Mathematics,75.63,81.77,74.7,61.04,66.29,6.19,97.23,56.77,B,26.3,No,Yes,Master's,Medium,6,5.3,Average Performer
+S2224,Ali,Davis,student1224@university.com,Male,21,Engineering,66.06,98.62,79.04,67.51,78.41,2.48,97.68,94.09,B,20.7,No,Yes,High School,Medium,7,6.5,Average Performer
+S2225,Emma,Brown,student1225@university.com,Male,19,CS,,85.0,78.18,90.24,53.72,8.27,74.13,98.73,B,12.5,No,Yes,PhD,Low,2,5.7,Average Performer
+S2226,Omar,Williams,student1226@university.com,Male,19,Business,99.12,57.07,79.39,82.34,87.22,0.61,58.45,98.38,B,14.8,No,Yes,,Medium,10,7.6,Average Performer
+S2227,Liam,Brown,student1227@university.com,Male,19,Business,57.84,65.2,70.3,89.3,84.76,9.53,71.08,57.38,B,14.4,Yes,Yes,Bachelor's,Low,2,8.8,Average Performer
+S2228,Emma,Brown,student1228@university.com,Female,24,CS,77.04,63.06,76.55,,90.12,0.47,93.85,77.48,B,12.9,No,Yes,,Medium,10,7.8,Average Performer
+S2229,John,Williams,student1229@university.com,Female,20,Business,54.94,91.13,81.72,62.89,94.22,2.41,53.51,79.25,A,20.7,No,Yes,High School,High,3,9.0,High Performer
+S2230,Omar,Johnson,student1230@university.com,Female,19,CS,65.92,86.28,73.77,61.4,87.9,4.64,56.39,59.75,B,10.0,Yes,Yes,Bachelor's,Medium,10,5.9,Average Performer
+S2231,Liam,Williams,student1231@university.com,Male,23,CS,,75.34,68.9,50.45,92.22,7.56,94.78,77.34,C,12.3,No,Yes,Master's,Low,4,5.5,Average Performer
+S2232,Ahmed,Williams,student1232@university.com,Female,23,CS,97.33,56.5,76.61,89.05,67.28,9.51,70.77,82.33,B,7.1,No,Yes,,Medium,5,5.1,Average Performer
+S2233,Ali,Davis,student1233@university.com,Female,24,Engineering,69.56,96.28,90.85,92.36,67.17,4.28,54.17,66.45,A+,14.4,Yes,Yes,Master's,High,3,8.4,High Performer
+S2234,Sara,Williams,student1234@university.com,Female,24,Engineering,53.25,79.2,73.55,88.41,97.22,7.57,56.96,65.78,B,6.6,No,No,Bachelor's,Medium,4,5.9,Average Performer
+S2235,Maria,Johnson,student1235@university.com,Female,18,CS,69.41,98.23,85.22,53.72,95.73,7.27,94.12,53.01,A,5.4,No,Yes,,Medium,7,7.6,High Performer
+S2236,Ali,Davis,student1236@university.com,Male,22,CS,,74.81,83.17,88.11,77.42,5.71,74.51,97.84,A,21.1,No,Yes,Master's,Medium,6,7.4,High Performer
+S2237,Liam,Smith,student1237@university.com,Male,19,Business,61.5,89.27,68.74,52.29,68.33,6.91,58.15,90.18,C,9.1,No,Yes,Bachelor's,High,2,4.3,Average Performer
+S2238,Ali,Smith,student1238@university.com,Female,23,Mathematics,80.9,88.79,82.1,55.28,93.3,0.38,94.7,87.97,A,5.9,No,Yes,,Low,7,8.4,High Performer
+S2239,John,Brown,student1239@university.com,Male,24,Business,53.37,60.24,66.31,72.02,66.17,4.42,92.26,51.09,C,6.7,No,Yes,High School,High,2,6.4,Average Performer
+S2240,Ahmed,Brown,student1240@university.com,Female,23,CS,73.24,97.84,78.49,73.81,57.68,7.86,51.15,81.22,B,10.0,Yes,Yes,,High,3,5.1,Average Performer
+S2241,Maria,Johnson,student1241@university.com,Female,23,CS,80.47,41.32,68.45,90.81,81.97,4.74,79.05,59.03,C,23.0,No,Yes,Bachelor's,Medium,1,8.9,Average Performer
+S2242,Omar,Jones,student1242@university.com,Female,24,CS,71.09,86.12,74.34,83.98,52.13,8.74,62.22,83.09,B,5.3,No,Yes,,Medium,6,7.8,Average Performer
+S2243,Omar,Smith,student1243@university.com,Male,20,CS,50.96,97.93,71.83,,68.96,8.34,76.66,81.06,B,23.2,Yes,Yes,,High,10,7.1,Average Performer
+S2244,Omar,Brown,student1244@university.com,Female,24,Engineering,,60.33,67.7,61.31,90.38,8.63,63.96,92.6,C,19.9,No,Yes,,High,4,8.9,Average Performer
+S2245,Liam,Smith,student1245@university.com,Male,24,Engineering,68.36,78.89,67.02,64.28,64.76,1.3,65.79,62.77,C,17.8,Yes,Yes,Master's,High,9,7.8,Average Performer
+S2246,Emma,Johnson,student1246@university.com,Male,22,Business,,73.73,74.35,56.18,96.57,2.44,80.09,51.37,B,27.7,Yes,Yes,High School,Medium,4,4.6,Average Performer
+S2247,Emma,Johnson,student1247@university.com,Female,24,Engineering,66.28,85.69,77.2,,97.79,0.3,76.94,95.71,B,25.7,Yes,Yes,,Low,10,9.0,Average Performer
+S2248,Sara,Jones,student1248@university.com,Male,21,CS,73.75,91.97,85.92,86.43,90.79,9.83,69.76,95.43,A,15.5,Yes,Yes,Bachelor's,Low,6,7.0,High Performer
+S2249,Maria,Jones,student1249@university.com,Male,24,CS,69.42,76.18,70.14,62.07,99.38,2.36,55.38,72.79,B,5.2,No,Yes,High School,High,8,5.5,Average Performer
+S2250,Omar,Davis,student1250@university.com,Female,23,Engineering,67.13,88.95,82.1,91.77,76.54,3.67,98.47,53.9,A,22.8,No,Yes,PhD,Medium,5,8.1,High Performer
+S2251,Emma,Johnson,student1251@university.com,Male,19,CS,51.09,58.74,64.85,73.48,78.46,2.75,58.73,74.9,C,6.2,Yes,Yes,PhD,Low,3,4.2,Average Performer
+S2252,Liam,Brown,student1252@university.com,Male,23,CS,68.0,53.72,60.22,66.15,91.81,0.4,81.66,76.2,C,12.0,No,Yes,Bachelor's,Low,9,7.3,Average Performer
+S2253,Sara,Smith,student1253@university.com,Female,22,CS,94.47,65.84,77.83,70.62,74.64,2.61,54.14,91.09,B,17.3,Yes,Yes,,Low,3,4.8,Average Performer
+S2254,Ahmed,Williams,student1254@university.com,Female,21,CS,84.52,80.66,82.78,,70.34,0.98,84.42,85.86,A,7.5,Yes,Yes,High School,Low,9,4.4,High Performer
+S2255,Sara,Jones,student1255@university.com,Male,24,CS,57.27,51.23,58.76,75.84,80.74,3.94,54.74,53.54,D,22.0,No,Yes,High School,High,2,5.8,Needs Improvement
+S2256,Emma,Williams,student1256@university.com,Female,20,Business,79.56,80.82,79.68,50.36,82.88,9.67,61.48,85.27,B,13.0,No,Yes,High School,High,8,5.8,Average Performer
+S2257,John,Brown,student1257@university.com,Female,18,Business,94.61,63.65,84.27,96.12,87.54,6.98,82.35,56.79,A,14.0,No,Yes,Bachelor's,High,6,7.0,High Performer
+S2258,Liam,Jones,student1258@university.com,Male,24,CS,85.0,87.73,77.26,53.3,83.41,7.07,64.15,54.47,B,21.2,No,Yes,PhD,Low,9,6.8,Average Performer
+S2259,John,Williams,student1259@university.com,Male,19,CS,57.43,42.21,64.31,96.93,87.29,4.53,76.64,69.93,C,15.0,No,Yes,PhD,Low,5,7.4,Average Performer
+S2260,Omar,Brown,student1260@university.com,Female,18,Business,,80.08,79.94,,83.73,8.11,56.23,53.87,B,10.6,No,Yes,Master's,Low,4,4.9,Average Performer
+S2261,John,Smith,student1261@university.com,Male,20,CS,65.08,78.99,73.46,,74.02,9.08,60.12,91.46,B,9.4,Yes,Yes,,Low,2,8.4,Average Performer
+S2262,Omar,Brown,student1262@university.com,Female,22,CS,72.7,96.46,81.05,76.73,56.75,9.62,86.69,73.16,A,23.1,Yes,Yes,,Low,1,8.3,High Performer
+S2263,Omar,Davis,student1263@university.com,Female,22,CS,76.31,82.8,77.56,75.29,89.27,0.99,51.76,79.35,B,23.8,Yes,Yes,PhD,High,4,5.1,Average Performer
+S2264,Emma,Jones,student1264@university.com,Male,20,CS,,87.78,72.41,53.64,51.54,8.8,55.59,78.84,B,9.9,Yes,Yes,PhD,High,8,6.4,Average Performer
+S2265,John,Johnson,student1265@university.com,Male,23,Business,96.58,94.28,85.06,61.94,99.63,2.25,60.75,98.91,A,13.0,No,Yes,High School,Low,10,6.4,High Performer
+S2266,Omar,Smith,student1266@university.com,Female,20,Business,96.48,80.5,88.27,88.88,91.42,3.97,51.01,95.79,A,28.9,Yes,Yes,,Low,9,8.6,High Performer
+S2267,Maria,Williams,student1267@university.com,Female,24,CS,50.4,57.41,60.0,,83.55,3.45,54.77,92.46,C,29.6,No,Yes,PhD,Low,1,8.5,Average Performer
+S2268,Ahmed,Jones,student1268@university.com,Female,19,CS,96.09,92.19,88.93,76.46,98.33,6.75,64.07,69.16,A,19.6,No,Yes,Master's,Medium,2,4.3,High Performer
+S2269,Sara,Johnson,student1269@university.com,Female,21,CS,52.72,84.85,74.85,67.67,80.62,5.98,54.65,57.25,B,23.9,No,Yes,,Medium,3,8.8,Average Performer
+S2270,Sara,Brown,student1270@university.com,Male,24,CS,63.29,65.47,63.7,53.0,52.82,1.09,93.31,79.59,C,23.7,Yes,Yes,PhD,Medium,8,4.3,Average Performer
+S2271,Emma,Johnson,student1271@university.com,Female,24,Mathematics,75.75,82.63,81.99,84.11,77.97,7.83,53.3,72.02,A,14.9,No,Yes,,High,9,6.7,High Performer
+S2272,John,Jones,student1272@university.com,Male,24,Engineering,74.0,92.06,73.51,63.92,63.86,4.4,93.05,61.28,B,6.2,No,Yes,,Low,3,5.6,Average Performer
+S2273,John,Jones,student1273@university.com,Male,18,Engineering,80.24,98.54,78.43,52.75,68.47,0.02,91.14,54.88,B,23.5,No,Yes,,Low,4,6.0,Average Performer
+S2274,Omar,Davis,student1274@university.com,Female,18,Business,73.97,97.14,87.43,83.29,72.98,4.15,55.04,71.8,A,8.4,No,No,,Low,8,7.1,High Performer
+S2275,Liam,Davis,student1275@university.com,Male,22,Business,96.72,59.52,78.44,74.29,88.73,5.16,51.26,82.54,B,12.3,No,Yes,PhD,Low,3,6.9,Average Performer
+S2276,Ali,Johnson,student1276@university.com,Male,24,Business,62.03,65.3,74.66,,75.15,0.69,52.5,81.27,B,12.9,No,Yes,High School,Medium,6,4.8,Average Performer
+S2277,Omar,Brown,student1277@university.com,Female,23,CS,63.7,46.57,58.76,55.55,73.73,1.51,79.52,88.7,D,13.7,No,Yes,Master's,Low,1,8.8,Needs Improvement
+S2278,Ahmed,Johnson,student1278@university.com,Male,22,CS,96.04,54.85,75.34,84.96,65.1,9.94,83.52,73.33,B,16.6,No,Yes,High School,Medium,7,4.1,Average Performer
+S2279,Maria,Jones,student1279@university.com,Male,19,Engineering,,92.95,76.51,53.18,76.99,8.71,81.03,66.08,B,17.5,No,Yes,Bachelor's,Medium,5,5.7,Average Performer
+S2280,Sara,Jones,student1280@university.com,Female,20,CS,80.48,61.65,74.15,93.3,62.42,1.33,77.07,76.94,B,17.1,Yes,Yes,Bachelor's,Medium,4,8.0,Average Performer
+S2281,Omar,Williams,student1281@university.com,Female,18,Mathematics,84.09,77.23,74.37,65.57,63.05,5.8,58.73,98.75,B,9.1,No,Yes,Master's,Low,8,8.3,Average Performer
+S2282,Ali,Davis,student1282@university.com,Female,24,Engineering,75.28,79.96,76.76,54.43,87.86,3.79,92.05,52.25,B,21.2,No,Yes,High School,Medium,8,8.0,Average Performer
+S2283,Ali,Williams,student1283@university.com,Female,19,Mathematics,84.71,86.91,83.73,,67.13,5.44,66.38,76.43,A,24.8,No,Yes,,Low,7,5.9,High Performer
+S2284,Omar,Smith,student1284@university.com,Female,22,CS,58.64,50.97,56.2,76.22,52.57,4.71,99.31,66.46,D,16.5,No,Yes,,High,1,7.4,Needs Improvement
+S2285,Emma,Jones,student1285@university.com,Female,22,Business,92.63,58.29,67.34,65.33,67.18,0.48,69.24,55.27,C,26.0,Yes,Yes,Master's,Medium,10,7.8,Average Performer
+S2286,Sara,Williams,student1286@university.com,Female,18,CS,57.0,66.9,61.36,70.3,81.93,3.15,63.15,71.73,C,16.1,Yes,Yes,,Low,6,6.9,Average Performer
+S2287,Emma,Johnson,student1287@university.com,Male,22,Mathematics,70.04,61.89,68.02,51.07,90.7,1.26,94.71,82.06,C,19.2,Yes,Yes,High School,Medium,3,7.4,Average Performer
+S2288,Maria,Davis,student1288@university.com,Male,23,CS,53.76,98.97,77.13,,98.1,4.89,78.37,76.41,B,6.7,No,Yes,,Low,8,6.8,Average Performer
+S2289,Ali,Davis,student1289@university.com,Female,22,Engineering,77.26,90.1,75.01,68.29,87.31,9.07,86.09,51.46,B,8.7,No,Yes,PhD,Low,10,4.3,Average Performer
+S2290,Ali,Brown,student1290@university.com,Male,21,Business,83.49,68.78,78.14,85.7,71.44,9.96,70.42,78.96,B,24.2,Yes,Yes,,Low,3,5.4,Average Performer
+S2291,Ahmed,Johnson,student1291@university.com,Male,20,Engineering,97.06,92.76,95.09,81.41,64.96,9.44,94.35,61.6,A+,11.2,No,Yes,,Low,8,7.5,High Performer
+S2292,Maria,Brown,student1292@university.com,Female,22,Engineering,86.97,60.86,72.36,82.56,56.48,9.86,95.89,67.07,B,7.3,No,Yes,,High,5,5.2,Average Performer
+S2293,Ali,Williams,student1293@university.com,Male,21,Mathematics,,87.15,85.87,89.64,81.38,0.15,71.84,65.61,A,19.2,Yes,Yes,,Medium,5,6.3,High Performer
+S2294,Maria,Smith,student1294@university.com,Female,19,Engineering,96.63,53.42,75.57,81.56,75.49,7.29,62.04,92.93,B,7.4,No,Yes,Master's,Low,8,6.7,Average Performer
+S2295,Sara,Johnson,student1295@university.com,Male,22,Engineering,,86.34,79.41,70.94,83.89,2.73,82.38,52.38,B,22.1,No,Yes,PhD,Medium,3,7.4,Average Performer
+S2296,John,Johnson,student1296@university.com,Female,23,CS,78.06,67.39,72.94,69.5,61.86,8.66,97.73,67.4,B,22.2,No,Yes,High School,Medium,4,5.3,Average Performer
+S2297,Ali,Johnson,student1297@university.com,Male,19,Business,79.8,46.45,64.22,,66.18,8.14,81.12,69.74,C,16.3,No,Yes,Bachelor's,Low,1,7.0,Average Performer
+S2298,Ahmed,Brown,student1298@university.com,Male,24,Engineering,70.5,56.4,69.18,88.97,64.6,4.24,97.71,80.94,C,22.1,No,Yes,,Medium,9,7.0,Average Performer
+S2299,Sara,Williams,student1299@university.com,Male,22,Engineering,91.92,64.14,82.08,88.06,89.88,4.73,67.19,89.45,A,25.0,No,Yes,PhD,Medium,3,8.2,High Performer
+S2300,Omar,Johnson,student1300@university.com,Female,18,CS,59.26,84.96,66.76,62.31,58.56,2.65,95.75,86.38,C,9.9,No,Yes,PhD,Low,8,6.8,Average Performer
+S2301,Maria,Johnson,student1301@university.com,Male,21,Engineering,77.74,44.38,72.52,93.13,80.42,2.89,55.63,87.63,B,21.2,No,Yes,PhD,Medium,1,5.5,Average Performer
+S2302,Omar,Davis,student1302@university.com,Male,21,CS,86.11,79.57,76.93,79.45,52.57,9.81,67.94,59.62,B,22.3,No,Yes,PhD,High,1,6.6,Average Performer
+S2303,Emma,Smith,student1303@university.com,Female,18,CS,95.2,82.96,81.74,73.93,77.48,8.89,74.72,95.59,A,9.9,Yes,Yes,Master's,Low,6,4.5,High Performer
+S2304,Sara,Davis,student1304@university.com,Female,20,Engineering,94.2,79.24,80.55,,53.2,1.92,82.66,70.71,A,23.2,No,Yes,,Medium,6,7.0,High Performer
+S2305,Omar,Davis,student1305@university.com,Male,24,CS,75.44,85.64,72.56,69.14,58.79,2.76,64.71,50.56,B,23.0,No,Yes,,High,7,8.6,Average Performer
+S2306,Liam,Smith,student1306@university.com,Male,23,CS,,50.69,65.3,82.03,55.65,1.09,96.21,83.4,C,8.9,No,Yes,High School,High,1,6.6,Average Performer
+S2307,Liam,Williams,student1307@university.com,Male,21,Engineering,69.71,75.23,68.22,54.49,67.34,9.89,95.17,80.2,C,12.9,Yes,Yes,High School,Medium,3,5.5,Average Performer
+S2308,Ali,Davis,student1308@university.com,Male,19,CS,73.41,96.47,83.72,72.98,67.19,9.07,89.97,56.3,A,28.5,Yes,Yes,PhD,Medium,4,6.0,High Performer
+S2309,Maria,Williams,student1309@university.com,Female,23,CS,95.31,76.65,90.48,99.67,91.32,5.52,55.72,97.99,A+,6.8,Yes,Yes,PhD,Medium,9,8.5,High Performer
+S2310,John,Davis,student1310@university.com,Male,21,CS,96.54,76.68,82.08,85.83,61.28,6.93,53.91,78.08,A,10.7,No,Yes,Bachelor's,High,8,8.1,High Performer
+S2311,Sara,Jones,student1311@university.com,Male,24,Engineering,94.77,84.19,83.97,77.34,54.32,7.48,74.91,73.46,A,19.5,No,Yes,,Low,4,8.0,High Performer
+S2312,Ali,Smith,student1312@university.com,Female,20,Engineering,56.92,59.99,69.6,76.65,80.18,2.04,88.27,69.91,C,29.2,No,Yes,PhD,Medium,10,6.8,Average Performer
+S2313,Ahmed,Davis,student1313@university.com,Male,24,Business,,82.03,80.72,,84.37,9.35,56.16,60.49,A,11.4,Yes,Yes,High School,Low,7,6.0,High Performer
+S2314,Emma,Jones,student1314@university.com,Male,19,CS,97.42,94.97,91.78,97.87,64.74,5.27,82.07,97.64,A+,25.4,No,Yes,High School,Low,9,4.7,High Performer
+S2315,Maria,Brown,student1315@university.com,Male,24,CS,68.06,40.65,62.01,96.41,80.14,0.92,76.39,85.11,C,14.2,No,Yes,,Medium,10,8.9,Average Performer
+S2316,Sara,Jones,student1316@university.com,Female,23,CS,75.93,92.21,82.0,84.12,88.8,3.97,86.3,78.38,A,13.8,No,Yes,Bachelor's,Medium,10,4.9,High Performer
+S2317,Liam,Johnson,student1317@university.com,Female,19,Engineering,88.95,53.12,65.46,54.95,67.38,6.02,71.77,81.56,C,29.9,No,Yes,PhD,Low,8,5.3,Average Performer
+S2318,Sara,Davis,student1318@university.com,Male,18,Mathematics,78.1,67.36,68.7,60.39,76.27,3.53,84.66,92.02,C,25.4,No,Yes,PhD,Low,5,7.8,Average Performer
+S2319,John,Jones,student1319@university.com,Male,22,CS,99.67,91.14,81.68,59.2,57.33,6.99,57.98,81.79,A,11.2,No,No,PhD,Low,9,5.8,High Performer
+S2320,Liam,Williams,student1320@university.com,Female,18,CS,72.79,89.43,76.18,75.98,51.18,8.82,60.73,55.73,B,9.6,No,Yes,,High,5,6.9,Average Performer
+S2321,John,Brown,student1321@university.com,Male,23,CS,85.7,93.52,86.97,60.39,99.07,7.72,95.17,84.86,A,7.1,No,No,,Medium,3,7.8,High Performer
+S2322,Ahmed,Davis,student1322@university.com,Male,22,Engineering,89.63,96.43,85.14,,64.99,6.43,66.47,78.24,A,17.1,No,Yes,,Medium,6,6.8,High Performer
+S2323,Emma,Johnson,student1323@university.com,Female,18,Engineering,74.71,66.83,72.31,77.26,63.95,5.12,99.28,98.32,B,13.4,Yes,Yes,PhD,High,3,6.5,Average Performer
+S2324,Ahmed,Jones,student1324@university.com,Female,22,Engineering,92.85,79.38,80.81,50.88,98.66,2.54,52.31,86.69,A,14.5,No,Yes,PhD,Medium,2,4.3,High Performer
+S2325,Ali,Brown,student1325@university.com,Female,21,Business,77.31,63.43,69.87,87.2,86.41,4.55,74.79,67.2,C,15.8,No,Yes,High School,High,7,6.4,Average Performer
+S2326,Ali,Davis,student1326@university.com,Male,24,Engineering,70.58,61.04,63.5,59.44,79.26,2.93,66.25,56.77,C,29.8,No,Yes,PhD,High,3,6.3,Average Performer
+S2327,Ahmed,Brown,student1327@university.com,Male,19,CS,55.39,65.9,70.24,91.24,84.97,9.34,99.8,74.11,B,5.1,No,Yes,,Low,5,8.4,Average Performer
+S2328,Emma,Johnson,student1328@university.com,Male,22,CS,69.67,84.58,73.25,67.75,85.5,9.07,99.5,83.97,B,15.7,No,Yes,Bachelor's,Medium,9,6.2,Average Performer
+S2329,Ahmed,Jones,student1329@university.com,Male,21,Engineering,86.7,70.09,78.95,66.93,88.17,1.56,61.76,58.86,B,6.6,No,No,High School,Medium,4,7.1,Average Performer
+S2330,Emma,Brown,student1330@university.com,Female,24,Engineering,96.06,88.84,82.63,50.59,53.36,8.23,63.36,82.47,A,21.8,No,Yes,,Medium,9,7.9,High Performer
+S2331,Emma,Brown,student1331@university.com,Male,24,Engineering,62.58,84.71,82.55,99.39,70.64,7.03,87.48,91.28,A,6.3,No,Yes,Master's,Medium,6,6.3,High Performer
+S2332,Omar,Smith,student1332@university.com,Male,20,Engineering,67.76,41.23,59.95,80.6,64.76,9.75,94.48,57.85,D,24.2,No,Yes,High School,Low,3,5.3,Needs Improvement
+S2333,Liam,Brown,student1333@university.com,Female,18,Engineering,,77.81,76.68,71.14,53.53,4.63,83.18,85.29,B,26.7,No,Yes,High School,High,1,8.5,Average Performer
+S2334,Maria,Smith,student1334@university.com,Female,20,Business,84.54,66.19,70.54,54.83,70.63,7.22,93.24,53.41,B,29.3,Yes,Yes,Master's,Low,8,8.5,Average Performer
+S2335,Emma,Jones,student1335@university.com,Male,23,Engineering,98.01,67.4,81.1,84.96,80.81,5.18,53.16,50.4,A,8.0,No,Yes,Master's,Medium,10,8.5,High Performer
+S2336,John,Davis,student1336@university.com,Female,21,Business,82.05,89.1,75.63,64.14,58.92,0.69,82.03,51.63,B,29.5,Yes,Yes,,Low,4,5.4,Average Performer
+S2337,Emma,Davis,student1337@university.com,Female,20,CS,80.85,72.86,78.52,99.41,65.25,0.47,85.01,81.58,B,15.3,No,Yes,High School,Medium,6,5.6,Average Performer
+S2338,Emma,Jones,student1338@university.com,Male,20,Engineering,77.67,93.14,86.54,97.53,81.96,1.22,59.52,98.67,A,20.8,Yes,Yes,Bachelor's,High,2,8.6,High Performer
+S2339,Emma,Jones,student1339@university.com,Male,24,Mathematics,54.42,82.77,75.0,86.76,78.97,2.96,88.9,88.57,B,5.0,No,Yes,PhD,Medium,4,4.6,Average Performer
+S2340,Omar,Williams,student1340@university.com,Male,21,CS,,73.17,82.53,98.55,93.44,2.59,97.21,62.72,A,14.3,No,Yes,Master's,Medium,8,7.3,High Performer
+S2341,Liam,Jones,student1341@university.com,Male,24,Business,80.1,85.27,78.37,55.28,89.56,7.28,94.9,53.58,B,13.8,No,Yes,,Low,2,5.5,Average Performer
+S2342,Omar,Brown,student1342@university.com,Female,19,Business,83.07,42.3,70.74,,98.28,7.16,62.25,80.83,B,17.6,No,Yes,Master's,Medium,6,7.6,Average Performer
+S2343,Ali,Davis,student1343@university.com,Female,22,CS,94.94,41.63,71.14,62.66,79.86,9.71,66.2,50.16,B,8.3,No,Yes,,High,2,8.2,Average Performer
+S2344,Omar,Johnson,student1344@university.com,Male,23,Engineering,89.2,45.0,68.82,53.6,84.92,3.1,74.98,89.63,C,22.3,No,Yes,PhD,High,8,6.0,Average Performer
+S2345,John,Davis,student1345@university.com,Male,23,CS,89.05,66.25,79.12,98.61,93.03,9.38,57.92,62.16,B,19.9,No,Yes,PhD,Medium,3,4.8,Average Performer
+S2346,John,Smith,student1346@university.com,Female,18,Mathematics,,54.13,58.4,53.0,92.0,6.13,97.7,64.96,D,10.3,Yes,Yes,Master's,Medium,9,7.7,Needs Improvement
+S2347,Omar,Davis,student1347@university.com,Male,24,Business,99.5,99.06,98.78,92.83,85.94,4.95,58.08,67.2,A+,29.6,Yes,Yes,PhD,Low,6,4.3,High Performer
+S2348,Liam,Williams,student1348@university.com,Male,22,CS,79.06,72.54,73.94,88.41,75.01,6.68,88.07,88.18,B,5.1,No,Yes,PhD,Medium,3,4.1,Average Performer
+S2349,Ahmed,Jones,student1349@university.com,Male,18,CS,55.44,79.74,67.17,68.79,63.66,7.03,67.07,63.29,C,13.4,Yes,Yes,Bachelor's,Medium,2,8.4,Average Performer
+S2350,Maria,Jones,student1350@university.com,Male,23,Engineering,,56.73,63.33,50.94,93.86,1.72,78.69,64.22,C,11.5,No,No,Master's,Low,8,8.1,Average Performer
+S2351,Liam,Davis,student1351@university.com,Female,22,CS,89.38,59.31,65.55,50.3,88.83,7.52,52.36,77.05,C,19.0,No,Yes,,High,4,6.9,Average Performer
+S2352,Omar,Johnson,student1352@university.com,Male,20,CS,51.39,60.13,63.91,60.2,91.9,7.25,60.25,73.15,C,27.2,Yes,Yes,,Medium,8,7.3,Average Performer
+S2353,Emma,Johnson,student1353@university.com,Female,19,Engineering,52.84,81.92,70.3,74.69,57.04,9.98,72.22,97.78,B,21.4,Yes,Yes,,Medium,7,8.8,Average Performer
+S2354,Sara,Williams,student1354@university.com,Male,20,CS,53.36,68.42,62.67,72.9,65.74,9.12,83.86,63.17,C,6.2,No,Yes,Bachelor's,Low,2,4.3,Average Performer
+S2355,Maria,Smith,student1355@university.com,Male,19,CS,86.55,71.06,69.6,79.26,71.24,6.85,88.88,54.59,C,26.6,Yes,Yes,Master's,Low,7,5.1,Average Performer
+S2356,Maria,Davis,student1356@university.com,Female,24,Business,,75.52,76.26,,91.92,7.12,51.51,77.05,B,11.6,Yes,Yes,PhD,Medium,4,7.6,Average Performer
+S2357,John,Jones,student1357@university.com,Male,21,Mathematics,68.44,86.13,79.82,68.87,94.64,9.46,57.62,59.23,B,7.8,No,Yes,Bachelor's,Medium,6,5.3,Average Performer
+S2358,Maria,Davis,student1358@university.com,Female,18,Business,55.28,45.42,52.64,,64.24,9.67,86.49,70.68,D,15.8,No,Yes,,Medium,8,5.0,Needs Improvement
+S2359,Omar,Williams,student1359@university.com,Male,18,Business,,86.61,84.23,90.0,84.32,8.27,90.65,59.36,A,27.5,No,Yes,Master's,Low,9,6.2,High Performer
+S2360,Emma,Brown,student1360@university.com,Male,21,CS,66.05,73.79,67.01,66.63,53.89,7.67,61.83,94.05,C,5.9,No,Yes,Bachelor's,Medium,4,7.6,Average Performer
+S2361,Emma,Brown,student1361@university.com,Male,22,CS,63.27,80.15,72.21,64.34,70.48,1.11,61.48,66.37,B,20.6,No,Yes,Bachelor's,Medium,3,5.1,Average Performer
+S2362,Ali,Williams,student1362@university.com,Male,21,CS,82.62,59.65,74.82,88.22,74.33,8.3,54.4,88.74,B,13.3,No,Yes,Bachelor's,Medium,2,6.1,Average Performer
+S2363,Emma,Jones,student1363@university.com,Male,24,Business,77.95,64.56,75.65,96.71,88.28,2.53,57.51,97.43,B,20.6,No,Yes,High School,Medium,4,6.6,Average Performer
+S2364,Liam,Williams,student1364@university.com,Female,23,Mathematics,68.12,53.87,76.22,95.75,94.6,5.64,50.4,97.03,B,11.7,No,Yes,,Medium,2,4.9,Average Performer
+S2365,Emma,Jones,student1365@university.com,Female,21,Business,82.07,98.76,80.11,56.87,66.86,4.05,79.49,76.24,A,29.2,No,Yes,Bachelor's,High,3,6.4,High Performer
+S2366,John,Johnson,student1366@university.com,Male,19,Business,,69.82,73.49,,76.39,3.46,95.19,99.16,B,7.8,No,Yes,High School,High,1,8.3,Average Performer
+S2367,Emma,Williams,student1367@university.com,Male,23,Engineering,89.74,99.76,82.32,54.64,82.37,3.1,57.48,82.8,A,8.9,No,Yes,,Medium,7,7.7,High Performer
+S2368,Ali,Jones,student1368@university.com,Female,21,CS,61.47,69.39,70.97,98.05,66.43,8.55,87.57,56.42,B,6.1,No,Yes,High School,Low,6,6.5,Average Performer
+S2369,Sara,Williams,student1369@university.com,Female,18,Engineering,57.94,53.19,60.39,60.76,99.28,7.69,78.68,94.42,C,24.9,No,Yes,PhD,Low,1,4.6,Average Performer
+S2370,Omar,Williams,student1370@university.com,Male,20,CS,89.12,70.45,76.92,59.87,93.79,5.23,97.0,73.43,B,7.3,No,Yes,,Medium,9,4.1,Average Performer
+S2371,John,Jones,student1371@university.com,Male,19,CS,85.39,42.38,74.2,94.44,64.82,6.64,89.91,57.63,B,11.9,Yes,Yes,Bachelor's,Low,6,4.3,Average Performer
+S2372,Liam,Jones,student1372@university.com,Female,24,Engineering,59.13,94.29,77.61,98.39,75.4,9.85,92.64,89.57,B,10.1,No,Yes,Bachelor's,Medium,5,7.8,Average Performer
+S2373,Sara,Smith,student1373@university.com,Male,19,Engineering,55.81,89.11,69.3,84.88,61.54,3.98,81.96,81.22,C,13.8,No,Yes,Bachelor's,Medium,1,7.5,Average Performer
+S2374,John,Williams,student1374@university.com,Female,22,Engineering,91.92,83.55,83.8,56.05,75.73,5.51,90.57,94.11,A,24.1,Yes,Yes,,Medium,10,7.7,High Performer
+S2375,Ahmed,Brown,student1375@university.com,Male,20,Engineering,88.83,76.59,80.31,74.29,84.17,5.34,67.54,91.37,A,28.8,No,Yes,,Low,5,5.5,High Performer
+S2376,Maria,Williams,student1376@university.com,Female,19,CS,66.36,74.79,70.39,90.83,54.28,9.36,60.45,66.01,B,27.0,Yes,No,,Low,2,4.4,Average Performer
+S2377,Ahmed,Williams,student1377@university.com,Female,21,Engineering,,99.8,90.52,78.62,93.51,3.52,95.63,62.82,A+,26.0,No,Yes,High School,High,7,7.6,High Performer
+S2378,Emma,Jones,student1378@university.com,Male,19,Engineering,56.21,56.68,58.16,56.63,79.69,9.86,86.72,86.69,D,15.4,No,Yes,Master's,Low,6,8.6,Needs Improvement
+S2379,Sara,Williams,student1379@university.com,Female,19,CS,,86.78,85.21,58.59,99.48,3.05,54.54,78.67,A,25.0,No,Yes,High School,High,4,6.3,High Performer
+S2380,Emma,Davis,student1380@university.com,Male,19,Business,50.94,74.88,69.86,93.21,51.28,1.09,93.35,53.49,C,24.4,No,Yes,High School,Medium,3,7.8,Average Performer
+S2381,Maria,Williams,student1381@university.com,Male,22,Engineering,69.58,98.55,82.91,76.35,91.57,1.91,67.45,59.08,A,11.2,No,Yes,,Low,5,7.6,High Performer
+S2382,John,Davis,student1382@university.com,Male,19,Engineering,53.74,89.67,84.48,85.29,89.6,4.26,64.91,57.57,A,11.6,Yes,Yes,,Low,3,8.3,High Performer
+S2383,Maria,Brown,student1383@university.com,Male,19,Business,73.76,99.91,77.51,68.65,56.64,6.5,81.17,79.49,B,17.5,No,No,High School,Medium,9,4.1,Average Performer
+S2384,Ali,Jones,student1384@university.com,Female,22,Business,71.08,75.3,75.24,76.62,66.77,5.17,78.43,54.29,B,29.1,Yes,Yes,,Low,6,8.8,Average Performer
+S2385,Maria,Williams,student1385@university.com,Male,23,Business,,52.27,71.01,,94.24,3.76,76.91,60.39,B,7.7,Yes,Yes,,High,10,8.3,Average Performer
+S2386,Ali,Davis,student1386@university.com,Male,20,CS,52.27,70.22,68.85,66.49,75.92,5.62,62.74,77.27,C,29.7,No,Yes,PhD,Medium,2,8.4,Average Performer
+S2387,Maria,Davis,student1387@university.com,Male,24,CS,68.08,82.67,81.3,83.74,70.06,8.39,97.99,56.65,A,9.0,No,No,Master's,Medium,7,9.0,High Performer
+S2388,Omar,Davis,student1388@university.com,Male,23,CS,87.82,86.46,82.72,58.63,95.27,8.39,97.51,62.41,A,17.1,No,Yes,High School,High,8,7.2,High Performer
+S2389,Ali,Johnson,student1389@university.com,Female,18,CS,68.45,40.03,51.7,56.09,54.67,7.26,50.21,95.34,D,12.6,Yes,Yes,Bachelor's,Low,9,4.4,Needs Improvement
+S2390,Sara,Smith,student1390@university.com,Male,22,Mathematics,85.76,70.3,77.72,,73.66,9.52,66.89,84.86,B,15.5,No,Yes,,High,4,8.1,Average Performer
+S2391,Emma,Brown,student1391@university.com,Female,22,Engineering,68.47,54.11,68.28,92.21,82.62,5.9,52.28,65.34,C,28.9,Yes,Yes,,High,1,4.7,Average Performer
+S2392,Liam,Williams,student1392@university.com,Female,19,CS,,92.49,89.88,83.42,80.43,0.08,92.51,93.87,A,20.8,No,Yes,Master's,Medium,8,7.7,High Performer
+S2393,Emma,Johnson,student1393@university.com,Female,19,CS,78.19,49.17,65.52,,63.21,2.91,94.33,62.51,C,12.4,No,Yes,,Low,10,6.1,Average Performer
+S2394,Ahmed,Williams,student1394@university.com,Male,24,CS,97.53,79.99,80.29,62.03,78.17,3.28,75.91,79.45,A,20.7,No,Yes,High School,Medium,1,4.0,High Performer
+S2395,Emma,Williams,student1395@university.com,Male,18,Engineering,55.44,55.96,68.7,95.56,85.43,5.47,91.98,68.42,C,16.3,No,Yes,High School,High,5,6.2,Average Performer
+S2396,John,Jones,student1396@university.com,Male,19,Business,51.65,61.39,57.71,64.44,79.24,9.05,85.17,87.61,D,28.6,No,Yes,,Low,2,8.0,Needs Improvement
+S2397,Omar,Jones,student1397@university.com,Male,21,Business,80.4,96.43,85.78,90.94,84.22,8.38,74.98,68.58,A,13.8,Yes,Yes,High School,Low,8,4.4,High Performer
+S2398,Maria,Jones,student1398@university.com,Female,19,Mathematics,97.45,54.43,74.17,64.3,62.8,2.32,68.19,62.44,B,19.6,No,Yes,PhD,Medium,5,4.0,Average Performer
+S2399,Ahmed,Johnson,student1399@university.com,Female,19,CS,99.49,45.7,77.01,96.97,91.64,5.19,63.31,80.39,B,26.2,No,No,High School,Medium,6,6.3,Average Performer
+S2400,John,Williams,student1400@university.com,Male,21,CS,74.21,44.16,64.59,95.72,72.48,6.59,62.97,87.27,C,29.0,Yes,Yes,High School,Low,7,4.0,Average Performer
+S2401,John,Smith,student1401@university.com,Male,18,CS,73.4,70.28,73.56,52.16,99.36,9.88,78.1,76.82,B,25.0,Yes,Yes,Bachelor's,High,4,8.7,Average Performer
+S2402,Ali,Brown,student1402@university.com,Male,21,CS,82.25,78.5,81.09,88.52,51.16,0.31,58.34,85.81,A,28.4,No,Yes,Master's,High,5,8.1,High Performer
+S2403,Emma,Jones,student1403@university.com,Male,22,Mathematics,,59.64,71.06,,69.02,4.64,58.74,71.1,B,16.6,No,Yes,,Low,9,7.2,Average Performer
+S2404,Sara,Jones,student1404@university.com,Male,21,Engineering,81.7,81.42,77.0,60.76,59.02,9.88,50.52,89.77,B,24.1,No,Yes,PhD,High,6,4.1,Average Performer
+S2405,Liam,Williams,student1405@university.com,Male,20,Business,93.7,43.66,67.39,72.99,77.78,9.77,80.67,79.25,C,7.4,Yes,Yes,Master's,Low,8,6.8,Average Performer
+S2406,Sara,Williams,student1406@university.com,Male,22,Engineering,87.32,91.44,79.02,78.82,62.16,3.31,99.72,59.81,B,19.8,No,Yes,,Low,4,7.4,Average Performer
+S2407,Ahmed,Johnson,student1407@university.com,Female,19,CS,74.84,88.99,86.1,,86.87,0.0,94.46,94.54,A,5.3,No,Yes,Master's,Low,4,6.9,High Performer
+S2408,Omar,Johnson,student1408@university.com,Female,24,CS,73.09,99.13,85.52,78.77,94.09,5.87,85.28,91.84,A,11.5,Yes,Yes,,Medium,8,8.7,High Performer
+S2409,Sara,Jones,student1409@university.com,Female,22,Engineering,81.98,96.19,78.3,58.53,60.54,8.67,89.28,98.2,B,21.6,No,Yes,Bachelor's,High,3,8.2,Average Performer
+S2410,Maria,Williams,student1410@university.com,Female,18,Business,72.79,61.37,66.23,51.12,58.03,3.24,70.84,78.45,C,9.3,No,Yes,Bachelor's,Low,5,5.8,Average Performer
+S2411,Sara,Smith,student1411@university.com,Male,18,CS,72.89,63.96,75.7,78.56,93.77,9.34,64.9,83.79,B,10.0,No,Yes,,Medium,3,7.5,Average Performer
+S2412,Ahmed,Brown,student1412@university.com,Male,21,Business,50.82,84.76,71.66,75.87,68.06,3.33,68.43,93.18,B,6.5,No,No,PhD,Low,1,6.3,Average Performer
+S2413,Liam,Williams,student1413@university.com,Male,22,Business,58.7,48.04,66.64,,71.73,6.1,54.07,52.63,C,23.7,No,Yes,High School,Low,3,8.6,Average Performer
+S2414,Sara,Williams,student1414@university.com,Male,19,Engineering,74.43,58.84,66.65,82.49,61.05,7.22,81.69,95.61,C,16.2,No,Yes,High School,High,6,7.1,Average Performer
+S2415,Maria,Davis,student1415@university.com,Male,18,Business,91.13,47.11,76.28,94.87,71.27,3.45,58.74,63.56,B,27.2,No,Yes,,Medium,6,6.9,Average Performer
+S2416,Ali,Johnson,student1416@university.com,Female,23,Engineering,63.94,67.29,66.73,72.97,61.57,3.52,88.14,52.85,C,14.1,No,Yes,PhD,Medium,7,6.5,Average Performer
+S2417,Omar,Brown,student1417@university.com,Male,19,Engineering,76.13,73.12,71.82,50.42,83.3,4.7,59.5,61.88,B,15.9,Yes,Yes,,Medium,3,5.9,Average Performer
+S2418,Ahmed,Jones,student1418@university.com,Female,23,Business,67.25,52.67,69.4,,74.94,8.35,61.41,79.32,C,17.4,No,Yes,,Low,9,4.7,Average Performer
+S2419,Ali,Williams,student1419@university.com,Male,20,Mathematics,55.24,41.6,62.82,83.76,89.4,1.01,97.87,52.39,C,26.5,Yes,No,,Low,10,5.4,Average Performer
+S2420,Ali,Jones,student1420@university.com,Female,23,CS,97.91,83.16,85.15,76.07,65.64,6.31,55.27,50.04,A,12.3,Yes,Yes,,Low,9,5.7,High Performer
+S2421,Ali,Williams,student1421@university.com,Male,18,Engineering,92.73,41.2,73.64,84.47,75.28,6.77,74.94,81.97,B,6.3,No,No,Master's,High,2,4.8,Average Performer
+S2422,John,Jones,student1422@university.com,Female,21,CS,53.92,98.4,73.93,,62.98,5.58,53.13,72.67,B,20.7,No,Yes,,Medium,8,8.1,Average Performer
+S2423,Omar,Brown,student1423@university.com,Male,20,CS,85.99,53.3,67.93,57.44,96.72,9.36,54.52,92.22,C,25.6,Yes,No,PhD,Medium,2,4.0,Average Performer
+S2424,Liam,Johnson,student1424@university.com,Male,22,Engineering,67.38,79.83,73.08,83.23,76.1,6.02,81.68,62.88,B,18.9,Yes,Yes,,Medium,2,8.6,Average Performer
+S2425,Emma,Brown,student1425@university.com,Male,19,Mathematics,99.74,66.09,68.41,62.26,58.67,6.35,81.54,64.04,C,13.0,No,Yes,,High,6,4.6,Average Performer
+S2426,Omar,Davis,student1426@university.com,Male,18,CS,65.12,43.58,65.07,72.82,63.64,6.0,59.66,53.88,C,20.8,No,Yes,,Low,8,4.3,Average Performer
+S2427,John,Smith,student1427@university.com,Female,20,CS,,68.33,66.36,74.58,54.15,7.22,93.62,76.93,C,29.8,No,Yes,,Low,1,9.0,Average Performer
+S2428,Emma,Johnson,student1428@university.com,Male,20,CS,78.39,71.01,70.19,73.86,51.39,1.35,85.11,68.3,B,19.4,Yes,Yes,High School,Low,8,9.0,Average Performer
+S2429,Omar,Brown,student1429@university.com,Female,18,Engineering,91.76,91.28,86.07,79.92,76.3,8.94,65.03,66.99,A,12.9,No,No,Master's,High,8,5.0,High Performer
+S2430,Ali,Davis,student1430@university.com,Male,22,CS,59.63,83.94,68.51,51.47,66.86,0.42,62.42,72.88,C,11.1,No,Yes,PhD,Medium,4,4.7,Average Performer
+S2431,Ahmed,Smith,student1431@university.com,Female,22,CS,85.47,44.76,78.38,99.48,98.19,6.41,87.71,92.48,B,30.0,No,Yes,,Medium,6,5.0,Average Performer
+S2432,Emma,Davis,student1432@university.com,Male,21,Business,53.07,52.55,62.84,85.82,58.57,6.15,86.68,55.26,C,26.3,No,Yes,Master's,Low,2,6.6,Average Performer
+S2433,Maria,Williams,student1433@university.com,Male,24,CS,95.95,58.71,75.29,71.27,89.7,2.08,57.44,76.18,B,12.0,No,Yes,PhD,Low,1,5.6,Average Performer
+S2434,Maria,Williams,student1434@university.com,Female,23,Engineering,54.05,46.98,53.94,59.57,65.8,0.41,67.46,59.82,D,11.6,No,Yes,,Low,7,5.7,Needs Improvement
+S2435,Sara,Jones,student1435@university.com,Male,22,Business,95.71,67.41,73.13,54.01,61.18,1.39,60.83,60.62,B,25.1,Yes,No,,High,7,8.0,Average Performer
+S2436,Emma,Johnson,student1436@university.com,Male,21,CS,74.54,99.06,87.78,83.61,98.48,2.72,64.71,62.84,A,29.8,No,Yes,Master's,High,3,8.5,High Performer
+S2437,Ahmed,Williams,student1437@university.com,Female,23,Engineering,72.4,70.88,78.04,65.85,90.13,8.82,64.38,72.97,B,16.6,Yes,No,Bachelor's,Medium,3,8.8,Average Performer
+S2438,Liam,Davis,student1438@university.com,Male,20,Engineering,98.67,84.51,85.18,61.47,81.53,8.56,98.8,74.72,A,10.7,No,Yes,Master's,Low,10,6.6,High Performer
+S2439,John,Johnson,student1439@university.com,Female,18,Engineering,99.52,80.98,86.93,69.0,84.86,0.64,87.51,93.58,A,10.8,No,Yes,Bachelor's,High,1,5.2,High Performer
+S2440,Ali,Williams,student1440@university.com,Male,22,Engineering,82.51,90.99,88.49,,99.57,2.89,89.0,94.61,A,24.9,No,Yes,PhD,Medium,1,6.8,High Performer
+S2441,Sara,Jones,student1441@university.com,Female,21,CS,56.36,52.94,65.87,,79.66,8.89,63.87,79.33,C,20.1,Yes,Yes,,Low,2,8.4,Average Performer
+S2442,Maria,Brown,student1442@university.com,Female,20,Business,75.31,85.23,77.68,82.26,55.1,2.37,50.03,64.07,B,20.8,No,Yes,,Low,10,4.2,Average Performer
+S2443,John,Jones,student1443@university.com,Female,22,Business,76.46,92.88,74.5,,53.24,9.96,52.91,90.92,B,9.9,No,Yes,Master's,Medium,3,8.6,Average Performer
+S2444,John,Smith,student1444@university.com,Female,19,CS,75.72,50.29,66.2,60.94,83.33,2.57,77.65,89.64,C,8.3,Yes,Yes,Master's,High,4,5.1,Average Performer
+S2445,Ali,Williams,student1445@university.com,Male,24,CS,78.47,60.81,71.67,81.84,82.88,7.39,64.27,89.9,B,5.3,Yes,Yes,,Medium,8,5.6,Average Performer
+S2446,Liam,Smith,student1446@university.com,Male,20,CS,50.94,98.21,72.19,55.06,87.41,4.17,59.65,50.82,B,27.9,No,Yes,,Low,5,5.8,Average Performer
+S2447,Liam,Smith,student1447@university.com,Female,22,CS,85.56,86.85,81.62,77.4,55.44,1.36,52.48,87.69,A,13.9,Yes,Yes,PhD,Low,2,8.6,High Performer
+S2448,Emma,Davis,student1448@university.com,Male,20,Engineering,85.62,56.96,79.76,79.2,97.25,2.55,93.79,92.64,B,23.9,No,No,PhD,Low,7,4.9,Average Performer
+S2449,Maria,Johnson,student1449@university.com,Male,18,CS,55.77,73.84,66.43,60.81,77.56,6.75,80.01,80.25,C,27.1,No,Yes,PhD,High,8,5.1,Average Performer
+S2450,Liam,Davis,student1450@university.com,Male,18,CS,78.51,64.26,73.26,69.58,82.48,3.37,55.37,87.56,B,20.0,Yes,Yes,PhD,Low,3,7.7,Average Performer
+S2451,Ahmed,Williams,student1451@university.com,Female,24,Business,78.42,69.4,78.96,91.36,51.74,6.04,88.32,88.81,B,15.6,No,Yes,High School,Low,6,8.7,Average Performer
+S2452,Liam,Smith,student1452@university.com,Male,18,CS,84.12,61.31,73.61,57.42,98.05,2.06,87.79,75.33,B,6.0,Yes,Yes,High School,Medium,10,4.5,Average Performer
+S2453,John,Brown,student1453@university.com,Male,23,Business,54.27,56.76,70.63,,78.13,4.49,64.47,90.68,B,13.4,No,Yes,PhD,Low,8,6.6,Average Performer
+S2454,Ali,Smith,student1454@university.com,Female,19,Business,81.33,80.49,85.32,96.64,78.17,5.12,59.42,89.61,A,13.0,Yes,No,Master's,Low,10,8.6,High Performer
+S2455,Ahmed,Brown,student1455@university.com,Male,18,CS,64.04,86.71,73.82,,97.18,4.13,90.7,95.81,B,19.2,No,Yes,,Medium,6,8.4,Average Performer
+S2456,Emma,Davis,student1456@university.com,Female,19,Business,75.35,92.44,88.94,86.26,96.47,1.98,66.48,96.07,A,24.1,Yes,No,High School,Medium,10,8.7,High Performer
+S2457,Maria,Davis,student1457@university.com,Female,18,Business,88.67,49.32,72.43,91.34,61.01,4.62,92.37,76.49,B,22.8,No,Yes,High School,Low,6,8.5,Average Performer
+S2458,Emma,Johnson,student1458@university.com,Female,23,CS,85.28,89.37,87.25,60.19,96.55,6.93,52.18,51.57,A,26.7,No,No,,High,8,5.6,High Performer
+S2459,John,Smith,student1459@university.com,Male,20,CS,55.95,55.29,63.36,60.91,86.83,9.65,74.96,50.96,C,6.2,Yes,Yes,,Medium,1,5.0,Average Performer
+S2460,Ahmed,Jones,student1460@university.com,Male,22,Engineering,79.56,65.64,71.66,87.93,50.95,7.9,58.98,96.95,B,20.1,Yes,No,Master's,High,2,8.5,Average Performer
+S2461,Ahmed,Davis,student1461@university.com,Female,22,Mathematics,98.46,94.09,85.63,87.67,61.99,1.61,83.6,66.87,A,9.7,No,Yes,,Medium,3,7.6,High Performer
+S2462,Ahmed,Davis,student1462@university.com,Female,18,Engineering,57.84,67.27,61.47,53.01,70.65,2.73,99.86,68.88,C,29.3,No,Yes,Bachelor's,Medium,7,5.9,Average Performer
+S2463,John,Johnson,student1463@university.com,Female,22,CS,92.65,51.82,68.48,66.12,79.14,0.79,70.63,73.5,C,15.2,No,No,Bachelor's,High,1,7.6,Average Performer
+S2464,John,Brown,student1464@university.com,Female,18,Engineering,85.13,49.59,67.9,69.93,85.07,1.36,55.02,63.29,C,20.6,No,Yes,,Medium,4,5.5,Average Performer
+S2465,Emma,Johnson,student1465@university.com,Female,18,Engineering,88.7,68.38,79.68,91.45,60.51,2.51,65.88,79.52,B,13.8,No,No,Bachelor's,Low,3,6.9,Average Performer
+S2466,Sara,Smith,student1466@university.com,Female,24,Engineering,64.1,85.76,82.25,71.09,91.84,2.0,94.58,89.23,A,10.5,No,Yes,,Medium,8,5.2,High Performer
+S2467,Emma,Williams,student1467@university.com,Male,21,Business,64.39,99.83,88.55,96.3,92.29,2.14,88.29,62.87,A,22.2,No,No,PhD,Low,7,6.8,High Performer
+S2468,Maria,Williams,student1468@university.com,Female,21,Engineering,95.3,87.24,82.76,,81.75,2.31,61.61,87.15,A,28.5,No,Yes,PhD,Low,1,8.6,High Performer
+S2469,Ali,Brown,student1469@university.com,Female,24,Business,,92.62,88.68,89.04,96.05,3.01,97.68,83.6,A,6.5,Yes,Yes,Bachelor's,High,9,7.9,High Performer
+S2470,Ahmed,Davis,student1470@university.com,Female,21,Business,53.15,84.87,79.5,83.32,90.65,1.26,81.11,76.28,B,25.6,No,Yes,High School,Medium,4,7.3,Average Performer
+S2471,Sara,Brown,student1471@university.com,Male,19,Engineering,80.03,93.73,78.07,69.59,61.08,2.78,58.4,66.27,B,13.5,Yes,Yes,,Low,7,5.2,Average Performer
+S2472,Ali,Davis,student1472@university.com,Male,21,CS,56.24,44.58,60.52,,89.93,6.88,78.62,93.64,C,8.0,Yes,Yes,,Low,6,4.3,Average Performer
+S2473,Sara,Davis,student1473@university.com,Male,18,Business,89.83,95.8,90.9,78.66,97.66,2.36,72.56,70.14,A+,22.8,No,Yes,High School,Medium,3,7.6,High Performer
+S2474,Liam,Williams,student1474@university.com,Male,23,Mathematics,82.09,63.78,66.75,68.09,56.88,1.72,90.98,68.73,C,7.1,Yes,Yes,,Low,6,6.9,Average Performer
+S2475,Liam,Brown,student1475@university.com,Female,23,CS,93.74,95.3,91.77,67.54,98.93,0.68,67.21,82.07,A+,23.2,Yes,Yes,High School,Low,7,5.1,High Performer
+S2476,Omar,Johnson,student1476@university.com,Male,20,Engineering,89.24,44.54,66.56,84.39,51.25,5.0,93.75,96.02,C,15.9,No,No,PhD,Low,5,8.7,Average Performer
+S2477,Liam,Davis,student1477@university.com,Female,21,CS,55.61,82.91,73.01,73.18,76.11,8.42,90.6,75.4,B,9.1,No,Yes,Bachelor's,Medium,10,6.8,Average Performer
+S2478,Emma,Jones,student1478@university.com,Female,23,Business,,84.14,80.33,87.6,88.69,0.59,83.73,86.13,A,8.9,No,Yes,,Medium,4,6.9,High Performer
+S2479,Liam,Jones,student1479@university.com,Female,21,Business,,99.81,83.75,69.91,89.52,5.42,62.93,72.84,A,23.7,No,Yes,,Low,6,5.5,High Performer
+S2480,John,Johnson,student1480@university.com,Female,20,CS,70.87,86.13,78.09,57.54,86.73,6.51,98.52,60.94,B,25.7,Yes,Yes,,High,10,8.4,Average Performer
+S2481,Ahmed,Jones,student1481@university.com,Female,23,Business,98.62,62.95,76.58,73.07,76.47,5.92,77.43,56.2,B,22.1,Yes,Yes,Master's,High,8,8.5,Average Performer
+S2482,Emma,Smith,student1482@university.com,Female,18,CS,86.79,73.43,88.81,97.55,82.55,8.78,95.38,56.82,A,23.0,Yes,No,Bachelor's,Medium,7,7.6,High Performer
+S2483,Ali,Davis,student1483@university.com,Male,19,Business,50.77,61.99,66.49,90.08,85.0,8.66,60.79,51.07,C,26.2,Yes,Yes,,Low,3,4.5,Average Performer
+S2484,Omar,Johnson,student1484@university.com,Male,24,Engineering,94.0,51.76,70.26,60.29,74.73,0.57,99.17,77.65,B,15.7,Yes,Yes,Bachelor's,Medium,2,4.4,Average Performer
+S2485,Omar,Brown,student1485@university.com,Male,24,CS,55.04,54.91,64.41,69.57,79.78,3.61,90.8,56.56,C,9.2,No,Yes,,Medium,10,6.3,Average Performer
+S2486,Omar,Davis,student1486@university.com,Male,24,CS,57.03,53.32,64.64,96.39,92.32,6.71,97.46,93.28,C,14.4,No,Yes,PhD,Low,5,4.7,Average Performer
+S2487,Ali,Johnson,student1487@university.com,Male,21,CS,86.72,72.93,67.34,56.18,65.64,9.52,60.62,99.14,C,29.5,No,Yes,Bachelor's,Medium,9,5.7,Average Performer
+S2488,Ali,Williams,student1488@university.com,Female,23,Engineering,93.25,94.37,80.39,62.7,76.16,8.05,71.53,74.79,A,16.2,No,Yes,High School,Medium,10,4.9,High Performer
+S2489,Ali,Brown,student1489@university.com,Male,23,Engineering,76.82,94.76,80.18,63.11,50.42,1.77,54.88,72.48,A,28.1,No,Yes,Bachelor's,High,5,5.6,High Performer
+S2490,Ali,Williams,student1490@university.com,Male,20,CS,,43.29,64.58,78.55,84.37,2.79,56.85,67.4,C,22.6,Yes,Yes,High School,Low,10,8.7,Average Performer
+S2491,Omar,Davis,student1491@university.com,Male,18,CS,67.57,44.79,66.7,70.54,59.77,7.64,64.2,81.9,C,23.4,Yes,Yes,,Low,1,7.8,Average Performer
+S2492,Omar,Brown,student1492@university.com,Female,22,CS,67.14,54.71,59.5,53.99,74.05,4.71,97.58,80.4,D,9.8,No,No,High School,Low,9,4.7,Needs Improvement
+S2493,Sara,Jones,student1493@university.com,Female,23,Business,66.33,55.3,65.18,81.46,60.51,5.47,83.36,67.17,C,14.2,No,Yes,Master's,High,2,7.3,Average Performer
+S2494,Emma,Johnson,student1494@university.com,Female,19,Business,,45.69,62.0,54.95,51.18,6.09,65.73,67.16,C,23.3,Yes,Yes,PhD,Low,2,4.2,Average Performer
+S2495,Ahmed,Davis,student1495@university.com,Male,20,CS,80.44,63.31,79.5,80.32,74.16,1.03,97.73,82.24,B,21.4,No,Yes,High School,Medium,6,8.9,Average Performer
+S2496,Liam,Smith,student1496@university.com,Male,23,Engineering,95.02,75.26,86.79,75.35,71.24,8.56,86.99,77.73,A,26.6,No,Yes,PhD,High,3,6.7,High Performer
+S2497,Liam,Brown,student1497@university.com,Male,23,CS,65.35,74.69,75.0,74.68,71.26,8.63,95.35,85.93,B,10.2,No,Yes,,High,5,6.5,Average Performer
+S2498,John,Brown,student1498@university.com,Male,20,Mathematics,59.33,72.61,66.02,53.37,60.44,4.68,96.36,97.07,C,23.7,Yes,Yes,,Medium,5,5.2,Average Performer
+S2499,Omar,Davis,student1499@university.com,Male,20,Mathematics,91.93,60.32,81.46,81.96,97.36,6.27,87.54,88.98,A,6.0,Yes,Yes,Bachelor's,High,3,6.3,High Performer
+S2500,John,Davis,student1500@university.com,Female,21,Engineering,87.09,82.39,79.14,71.57,50.18,6.6,62.16,65.22,B,12.5,No,Yes,High School,Medium,8,6.6,Average Performer
+S2501,Emma,Williams,student1501@university.com,Male,23,Mathematics,96.54,89.59,86.96,70.56,94.58,1.9,99.83,87.96,A,20.8,Yes,Yes,,High,3,7.3,High Performer
+S2502,Emma,Jones,student1502@university.com,Female,22,Business,58.28,60.78,65.29,79.82,86.85,1.13,66.25,72.5,C,29.5,No,Yes,High School,Low,6,4.2,Average Performer
+S2503,John,Williams,student1503@university.com,Male,19,Business,57.21,45.13,57.8,80.31,58.6,0.21,83.59,88.88,D,29.7,No,Yes,Master's,Medium,10,5.7,Needs Improvement
+S2504,Omar,Williams,student1504@university.com,Female,18,Engineering,,57.78,63.62,50.75,73.61,9.13,92.24,94.33,C,16.0,No,No,PhD,Medium,5,5.9,Average Performer
+S2505,John,Jones,student1505@university.com,Female,18,CS,80.72,48.24,65.91,56.26,99.44,3.46,58.76,62.5,C,24.1,No,Yes,High School,Medium,7,4.7,Average Performer
+S2506,Liam,Smith,student1506@university.com,Female,22,CS,74.01,68.04,72.8,61.83,82.18,0.86,80.45,61.93,B,20.0,Yes,Yes,,Medium,6,5.2,Average Performer
+S2507,Sara,Williams,student1507@university.com,Female,20,CS,79.95,49.36,69.36,83.9,56.37,4.66,68.76,71.63,C,22.7,No,Yes,,Low,9,5.2,Average Performer
+S2508,Liam,Williams,student1508@university.com,Male,20,Engineering,59.02,67.77,68.39,78.84,72.88,0.76,62.21,52.58,C,23.3,Yes,Yes,Bachelor's,Low,2,8.1,Average Performer
+S2509,Maria,Brown,student1509@university.com,Male,20,CS,73.98,53.26,73.86,87.88,73.41,0.85,50.59,84.28,B,18.7,No,Yes,PhD,Medium,10,7.4,Average Performer
+S2510,Omar,Jones,student1510@university.com,Male,23,CS,82.9,84.32,81.88,87.03,90.11,4.89,93.6,87.49,A,25.3,Yes,Yes,,Low,6,8.6,High Performer
+S2511,Omar,Johnson,student1511@university.com,Female,20,Engineering,71.64,41.65,68.39,92.66,95.81,5.09,56.79,67.27,C,19.6,No,Yes,PhD,Low,10,5.5,Average Performer
+S2512,Ahmed,Smith,student1512@university.com,Male,20,CS,,73.28,68.1,68.84,54.11,5.8,93.91,73.26,C,7.5,No,Yes,PhD,High,10,8.4,Average Performer
+S2513,Ali,Smith,student1513@university.com,Male,23,Engineering,72.56,50.17,57.03,67.25,65.7,6.56,80.03,79.52,D,29.7,No,Yes,High School,Low,5,8.3,Needs Improvement
+S2514,Maria,Jones,student1514@university.com,Male,23,Mathematics,,40.06,64.54,91.55,64.92,6.68,81.05,53.68,C,12.6,No,Yes,Bachelor's,Low,9,6.2,Average Performer
+S2515,Emma,Davis,student1515@university.com,Male,22,Business,65.18,92.15,78.79,61.88,99.8,4.33,91.43,85.56,B,29.1,No,Yes,Bachelor's,Low,2,7.1,Average Performer
+S2516,Omar,Davis,student1516@university.com,Female,21,Engineering,,80.29,81.67,73.06,77.96,6.44,75.47,76.34,A,12.3,Yes,Yes,Bachelor's,Medium,8,7.0,High Performer
+S2517,John,Brown,student1517@university.com,Female,23,Engineering,,45.94,66.73,59.72,93.99,3.05,67.86,81.21,C,26.3,Yes,Yes,,High,7,5.5,Average Performer
+S2518,Maria,Brown,student1518@university.com,Male,19,Engineering,83.43,79.84,79.73,95.69,71.3,4.41,56.94,86.19,B,22.2,No,Yes,,Low,1,5.3,Average Performer
+S2519,Ahmed,Jones,student1519@university.com,Male,20,CS,92.26,76.7,87.08,70.39,86.14,3.93,78.52,83.78,A,13.9,No,No,,Medium,3,4.8,High Performer
+S2520,Emma,Brown,student1520@university.com,Male,21,Business,67.73,68.4,72.53,,64.33,3.29,77.66,54.77,B,28.5,Yes,Yes,Bachelor's,Low,4,8.2,Average Performer
+S2521,Ali,Smith,student1521@university.com,Female,18,CS,52.3,65.16,69.54,,95.59,2.39,64.69,89.13,C,19.6,No,Yes,PhD,Medium,8,6.7,Average Performer
+S2522,Ali,Smith,student1522@university.com,Female,22,CS,99.34,93.22,85.11,62.23,72.76,0.78,80.0,80.5,A,25.7,No,Yes,PhD,Medium,2,5.7,High Performer
+S2523,Ahmed,Johnson,student1523@university.com,Female,21,Business,63.18,54.71,68.19,97.18,90.19,5.06,71.97,85.74,C,24.9,No,Yes,High School,Medium,8,6.5,Average Performer
+S2524,Ahmed,Davis,student1524@university.com,Male,23,CS,56.33,63.9,61.24,68.38,62.79,5.37,90.28,63.08,C,6.2,No,Yes,,High,2,4.4,Average Performer
+S2525,John,Jones,student1525@university.com,Female,20,CS,68.49,59.75,74.07,83.23,84.68,3.36,77.97,61.07,B,11.7,No,Yes,Bachelor's,High,3,4.5,Average Performer
+S2526,Omar,Williams,student1526@university.com,Female,20,CS,86.93,86.27,87.43,,70.26,9.76,96.68,91.3,A,16.8,No,Yes,Master's,High,8,7.8,High Performer
+S2527,Ali,Davis,student1527@university.com,Female,20,CS,64.7,94.99,83.09,90.36,51.57,5.57,75.9,69.52,A,28.3,No,Yes,,Medium,9,8.5,High Performer
+S2528,Emma,Williams,student1528@university.com,Female,21,CS,78.74,90.99,83.57,94.85,70.65,8.89,94.37,78.77,A,6.6,No,Yes,High School,Medium,5,5.6,High Performer
+S2529,Maria,Johnson,student1529@university.com,Female,20,CS,,87.86,76.7,,77.5,5.7,76.03,77.58,B,9.6,No,Yes,Bachelor's,Low,4,6.0,Average Performer
+S2530,Emma,Johnson,student1530@university.com,Male,23,Engineering,55.89,99.21,79.04,92.42,57.59,1.9,77.9,79.26,B,20.6,No,Yes,,Low,3,5.9,Average Performer
+S2531,Sara,Brown,student1531@university.com,Male,21,Business,66.51,81.83,63.19,55.09,59.2,9.75,68.34,53.48,C,21.3,No,Yes,,Medium,3,6.4,Average Performer
+S2532,Sara,Johnson,student1532@university.com,Male,20,CS,,85.06,83.68,96.2,73.24,8.85,70.01,65.12,A,9.1,No,Yes,High School,Medium,9,6.1,High Performer
+S2533,Ahmed,Johnson,student1533@university.com,Male,18,Business,,98.97,83.23,81.22,67.14,4.71,96.66,53.32,A,28.7,Yes,No,High School,Low,4,5.9,High Performer
+S2534,John,Williams,student1534@university.com,Female,18,CS,55.99,40.42,59.04,93.46,72.04,2.43,61.16,74.01,D,9.4,Yes,No,Master's,Low,2,7.3,Needs Improvement
+S2535,Sara,Brown,student1535@university.com,Male,19,CS,58.17,78.04,67.78,84.22,73.04,2.23,56.07,95.1,C,9.6,No,Yes,High School,Medium,4,5.4,Average Performer
+S2536,Ali,Johnson,student1536@university.com,Male,20,CS,82.04,84.34,76.24,60.09,57.0,8.06,91.51,69.46,B,20.9,No,Yes,,Low,3,8.7,Average Performer
+S2537,Emma,Davis,student1537@university.com,Male,20,Engineering,90.67,95.07,82.7,,59.06,0.69,78.85,89.12,A,15.5,No,Yes,,Medium,5,5.5,High Performer
+S2538,Emma,Johnson,student1538@university.com,Female,21,Engineering,,93.03,76.54,54.55,92.41,6.38,64.23,64.36,B,5.7,Yes,Yes,Master's,Medium,4,5.1,Average Performer
+S2539,Ahmed,Brown,student1539@university.com,Male,21,Engineering,79.77,90.52,72.68,84.79,58.14,6.4,71.62,92.81,B,28.0,No,Yes,,High,2,8.9,Average Performer
+S2540,Omar,Jones,student1540@university.com,Female,24,Business,58.53,96.75,77.92,70.45,83.3,1.82,76.25,70.98,B,6.9,Yes,Yes,Bachelor's,Medium,10,5.1,Average Performer
+S2541,Omar,Brown,student1541@university.com,Female,20,Engineering,65.57,72.24,72.43,57.59,70.93,7.05,79.61,67.76,B,8.9,Yes,Yes,,Low,1,6.7,Average Performer
+S2542,Maria,Williams,student1542@university.com,Female,19,Engineering,51.01,40.42,68.99,98.96,98.41,7.05,91.05,84.87,C,27.4,No,Yes,,Low,1,5.6,Average Performer
+S2543,Ahmed,Jones,student1543@university.com,Male,20,Mathematics,88.41,40.66,62.34,,53.31,3.5,69.72,75.64,C,11.9,No,Yes,Bachelor's,Low,1,4.4,Average Performer
+S2544,Liam,Davis,student1544@university.com,Female,23,CS,70.05,72.68,77.31,94.68,91.52,4.83,83.83,66.87,B,25.4,Yes,Yes,Master's,Low,3,8.8,Average Performer
+S2545,Maria,Smith,student1545@university.com,Male,21,CS,90.81,66.12,80.86,89.44,74.57,8.33,91.74,52.9,A,9.3,Yes,Yes,,Medium,2,5.9,High Performer
+S2546,Liam,Brown,student1546@university.com,Male,20,Business,85.42,67.07,70.57,84.6,50.27,5.23,92.19,58.33,B,6.2,No,Yes,PhD,Medium,4,7.2,Average Performer
+S2547,Omar,Williams,student1547@university.com,Male,21,Engineering,91.44,64.02,76.77,82.75,63.18,6.18,62.71,88.62,B,10.9,Yes,Yes,,Medium,3,8.3,Average Performer
+S2548,Ahmed,Davis,student1548@university.com,Female,20,CS,64.28,95.06,76.47,55.3,70.38,4.13,67.51,96.04,B,23.6,Yes,Yes,PhD,Medium,7,6.8,Average Performer
+S2549,Liam,Jones,student1549@university.com,Female,22,CS,59.26,61.55,71.86,95.03,65.71,1.5,79.75,58.44,B,21.6,No,Yes,,Medium,8,7.6,Average Performer
+S2550,Ahmed,Davis,student1550@university.com,Male,21,Engineering,98.6,91.37,90.29,94.06,68.12,9.98,94.29,78.47,A+,12.8,No,Yes,Bachelor's,High,5,7.9,High Performer
+S2551,Ahmed,Brown,student1551@university.com,Female,19,Engineering,85.87,94.17,89.96,87.39,95.83,5.32,89.52,51.71,A,20.8,No,No,Master's,High,6,5.9,High Performer
+S2552,Omar,Johnson,student1552@university.com,Female,22,CS,,69.97,74.05,96.37,68.05,3.36,79.2,64.54,B,21.6,No,Yes,PhD,Low,7,7.1,Average Performer
+S2553,Maria,Brown,student1553@university.com,Female,23,Mathematics,50.66,66.82,62.28,77.65,70.94,7.14,99.19,72.44,C,19.1,No,No,Master's,Medium,9,5.0,Average Performer
+S2554,Maria,Smith,student1554@university.com,Male,20,Business,67.72,85.66,77.3,72.38,88.06,6.21,71.95,86.79,B,28.4,No,Yes,,Low,1,4.3,Average Performer
+S2555,Ahmed,Brown,student1555@university.com,Female,24,Engineering,87.14,82.48,89.25,98.4,89.69,2.33,92.12,52.21,A,24.8,Yes,Yes,,Medium,2,8.9,High Performer
+S2556,Sara,Jones,student1556@university.com,Female,23,Engineering,53.9,59.71,62.58,73.21,54.2,8.77,90.92,89.06,C,25.4,No,Yes,,Low,1,4.5,Average Performer
+S2557,John,Jones,student1557@university.com,Male,21,Business,78.37,46.15,66.45,82.07,85.2,0.71,95.4,60.13,C,15.6,No,Yes,PhD,Medium,9,6.1,Average Performer
+S2558,Omar,Brown,student1558@university.com,Female,22,CS,71.45,55.89,70.32,68.65,74.13,6.06,99.38,87.98,B,22.1,No,Yes,Bachelor's,Low,2,4.3,Average Performer
+S2559,John,Jones,student1559@university.com,Male,23,CS,50.88,47.86,56.07,81.82,56.69,4.78,74.78,81.27,D,9.6,No,No,PhD,Low,2,8.6,Needs Improvement
+S2560,John,Johnson,student1560@university.com,Female,19,Engineering,61.8,57.68,65.35,86.0,63.24,3.18,59.78,66.98,C,12.4,No,Yes,PhD,Low,5,4.5,Average Performer
+S2561,Maria,Davis,student1561@university.com,Female,24,Business,64.24,55.71,60.61,81.23,52.25,8.26,73.04,86.19,C,17.6,No,Yes,,High,9,7.9,Average Performer
+S2562,Maria,Brown,student1562@university.com,Female,21,CS,55.59,78.26,62.14,75.73,68.01,6.56,92.69,61.82,C,25.4,No,Yes,PhD,Low,3,7.6,Average Performer
+S2563,Sara,Johnson,student1563@university.com,Female,22,Mathematics,81.58,97.27,83.59,65.01,62.77,7.59,91.81,60.99,A,13.4,No,Yes,Bachelor's,High,10,4.2,High Performer
+S2564,John,Davis,student1564@university.com,Female,23,Engineering,62.12,81.14,76.05,82.19,69.11,4.15,66.8,53.09,B,16.0,No,Yes,,High,8,7.6,Average Performer
+S2565,John,Davis,student1565@university.com,Female,22,CS,63.88,95.6,82.72,95.42,79.02,9.42,52.37,69.65,A,28.9,No,Yes,,Low,10,8.8,High Performer
+S2566,Ahmed,Johnson,student1566@university.com,Male,22,CS,,87.05,76.45,50.35,86.62,3.45,75.49,54.89,B,12.1,No,Yes,PhD,Medium,1,6.6,Average Performer
+S2567,Maria,Williams,student1567@university.com,Female,23,CS,73.36,83.67,76.22,56.7,80.27,5.31,73.71,70.98,B,20.5,No,Yes,,High,10,5.4,Average Performer
+S2568,John,Brown,student1568@university.com,Female,18,Business,69.61,64.84,62.68,55.99,83.92,9.34,54.29,50.49,C,7.5,Yes,Yes,,Medium,2,6.7,Average Performer
+S2569,Emma,Davis,student1569@university.com,Female,20,Mathematics,86.19,59.49,78.32,96.16,93.28,0.83,89.74,57.75,B,15.3,No,Yes,,Low,8,4.6,Average Performer
+S2570,Sara,Davis,student1570@university.com,Male,21,Engineering,95.48,90.78,93.48,83.14,93.69,1.09,64.18,96.62,A+,13.3,Yes,Yes,,High,1,8.8,High Performer
+S2571,Liam,Jones,student1571@university.com,Male,21,Mathematics,51.25,94.32,78.1,97.59,93.04,9.94,82.29,89.78,B,5.3,No,Yes,Bachelor's,Low,9,5.8,Average Performer
+S2572,Emma,Davis,student1572@university.com,Male,24,Business,72.41,67.11,69.7,,57.66,9.71,55.07,61.81,C,19.6,Yes,Yes,High School,Low,4,6.3,Average Performer
+S2573,Emma,Johnson,student1573@university.com,Female,24,Engineering,80.54,40.54,58.28,73.09,62.55,7.72,93.04,85.91,D,13.3,No,Yes,Bachelor's,Low,3,6.0,Needs Improvement
+S2574,Liam,Davis,student1574@university.com,Female,24,Engineering,65.93,87.55,81.01,89.62,75.12,4.84,86.96,83.42,A,11.3,No,Yes,,Medium,3,4.1,High Performer
+S2575,Omar,Williams,student1575@university.com,Male,21,Engineering,88.62,57.1,68.27,58.05,67.94,5.06,69.42,58.85,C,27.3,Yes,Yes,,Low,1,4.2,Average Performer
+S2576,Omar,Brown,student1576@university.com,Male,22,Engineering,98.57,40.59,61.23,69.07,56.58,2.57,81.47,68.55,C,10.7,No,Yes,,High,8,6.8,Average Performer
+S2577,Sara,Brown,student1577@university.com,Male,24,CS,97.17,88.3,88.17,,64.39,4.33,59.37,95.69,A,15.1,Yes,Yes,,Low,4,6.5,High Performer
+S2578,Emma,Davis,student1578@university.com,Female,23,Engineering,63.3,71.04,69.45,64.92,98.77,4.31,99.27,86.94,C,28.7,No,Yes,Bachelor's,Low,1,8.9,Average Performer
+S2579,John,Smith,student1579@university.com,Male,20,CS,61.32,81.11,68.17,68.56,67.35,0.36,89.81,88.02,C,7.0,No,No,PhD,High,5,5.3,Average Performer
+S2580,Maria,Smith,student1580@university.com,Female,19,Business,97.87,94.88,84.6,53.91,70.95,4.53,89.45,78.19,A,28.5,Yes,Yes,Bachelor's,High,10,5.8,High Performer
+S2581,Sara,Johnson,student1581@university.com,Female,21,Business,72.93,72.47,70.22,59.9,50.32,4.8,57.67,83.28,B,14.8,Yes,Yes,Bachelor's,Medium,8,8.9,Average Performer
+S2582,Ahmed,Smith,student1582@university.com,Female,23,CS,,70.19,70.49,66.77,85.97,6.66,50.89,75.44,B,24.8,Yes,Yes,Bachelor's,Medium,8,4.2,Average Performer
+S2583,Liam,Johnson,student1583@university.com,Male,20,CS,85.35,57.44,74.45,89.79,70.68,5.16,79.27,87.04,B,13.9,No,Yes,Master's,Medium,10,7.2,Average Performer
+S2584,Emma,Jones,student1584@university.com,Female,20,Engineering,,58.31,67.65,,55.16,8.62,57.21,86.64,C,15.4,No,Yes,PhD,Medium,3,4.5,Average Performer
+S2585,Sara,Johnson,student1585@university.com,Male,18,Engineering,63.36,87.79,80.04,67.33,98.43,3.68,89.02,51.55,A,15.9,No,Yes,High School,Medium,4,8.7,High Performer
+S2586,Ali,Smith,student1586@university.com,Male,23,CS,93.96,66.94,76.13,53.25,88.87,4.1,70.8,81.59,B,28.7,No,Yes,,High,10,5.4,Average Performer
+S2587,Ali,Davis,student1587@university.com,Male,21,Engineering,58.12,49.81,62.29,77.86,86.31,5.71,66.93,81.49,C,18.8,No,Yes,Bachelor's,High,4,8.1,Average Performer
+S2588,Omar,Jones,student1588@university.com,Male,24,CS,,45.67,67.01,80.56,97.89,2.03,53.68,53.37,C,10.4,No,Yes,,High,3,8.6,Average Performer
+S2589,Liam,Smith,student1589@university.com,Female,22,CS,63.46,68.38,72.44,93.28,70.37,3.93,99.8,70.52,B,20.3,No,Yes,High School,Low,6,8.2,Average Performer
+S2590,Maria,Johnson,student1590@university.com,Female,24,CS,80.35,67.9,75.74,90.96,85.93,6.86,97.8,94.94,B,27.2,No,Yes,High School,Low,3,6.8,Average Performer
+S2591,John,Williams,student1591@university.com,Female,20,CS,56.15,79.21,57.7,64.27,60.31,4.12,56.58,97.67,D,10.4,No,Yes,Master's,Low,6,8.9,Needs Improvement
+S2592,Maria,Brown,student1592@university.com,Female,20,Business,73.58,68.26,71.37,56.85,84.86,9.07,66.64,89.11,B,13.4,No,Yes,,High,5,7.4,Average Performer
+S2593,Maria,Smith,student1593@university.com,Male,19,Mathematics,81.37,48.61,63.3,57.8,50.7,6.15,69.54,57.57,C,19.3,No,Yes,Bachelor's,Low,2,7.9,Average Performer
+S2594,Maria,Johnson,student1594@university.com,Male,24,Engineering,92.44,70.47,73.45,98.45,56.32,1.54,64.84,68.74,B,29.7,No,Yes,Bachelor's,Low,8,5.2,Average Performer
+S2595,Liam,Jones,student1595@university.com,Male,18,Engineering,61.49,94.41,74.11,,71.26,4.87,96.72,59.13,B,16.6,No,Yes,PhD,High,7,6.1,Average Performer
+S2596,Maria,Smith,student1596@university.com,Male,20,CS,90.87,49.57,64.48,52.13,50.6,7.65,86.07,82.61,C,19.6,No,No,High School,Low,7,7.0,Average Performer
+S2597,Ahmed,Smith,student1597@university.com,Female,20,Engineering,61.75,81.39,75.52,56.84,73.1,6.43,97.8,88.66,B,8.4,Yes,Yes,Master's,Low,6,4.7,Average Performer
+S2598,Liam,Brown,student1598@university.com,Male,22,CS,83.84,75.63,77.96,74.29,76.14,8.85,93.73,94.19,B,24.0,No,Yes,High School,High,9,8.8,Average Performer
+S2599,Ahmed,Johnson,student1599@university.com,Female,22,Engineering,71.53,84.92,73.24,60.39,81.08,7.5,87.73,93.03,B,10.5,No,No,PhD,Low,4,4.5,Average Performer
+S2600,Liam,Williams,student1600@university.com,Male,19,Mathematics,55.73,49.04,59.62,90.18,55.02,0.62,84.85,54.96,D,13.2,No,Yes,,High,5,7.7,Needs Improvement
+S2601,Omar,Jones,student1601@university.com,Male,23,CS,85.71,96.5,88.2,78.66,59.05,1.13,93.31,56.28,A,22.7,Yes,Yes,Bachelor's,Low,9,4.3,High Performer
+S2602,Sara,Johnson,student1602@university.com,Male,19,Business,,77.26,76.05,80.63,80.66,6.5,84.21,95.48,B,22.8,No,Yes,High School,Low,3,4.5,Average Performer
+S2603,Ali,Jones,student1603@university.com,Male,19,CS,58.83,90.82,74.1,73.14,82.91,2.38,59.44,92.19,B,13.0,No,No,Bachelor's,Low,3,7.1,Average Performer
+S2604,Maria,Smith,student1604@university.com,Female,22,CS,67.92,54.8,58.36,62.8,51.3,5.88,82.41,73.02,D,26.3,No,Yes,PhD,High,8,6.3,Needs Improvement
+S2605,Omar,Brown,student1605@university.com,Female,24,CS,82.66,84.36,78.91,79.47,77.02,7.92,75.75,71.5,B,24.9,No,Yes,,Medium,10,4.0,Average Performer
+S2606,Sara,Brown,student1606@university.com,Female,24,CS,61.7,86.86,79.84,85.85,89.25,5.77,99.09,77.64,B,20.4,No,Yes,Master's,Low,6,6.0,Average Performer
+S2607,Ali,Davis,student1607@university.com,Female,24,CS,59.18,63.85,67.96,,53.46,4.15,75.5,79.83,C,9.5,No,Yes,,Medium,2,5.3,Average Performer
+S2608,Emma,Williams,student1608@university.com,Male,23,CS,,63.04,71.4,75.25,70.66,6.46,51.92,62.71,B,27.6,No,Yes,Master's,Low,3,8.4,Average Performer
+S2609,John,Brown,student1609@university.com,Male,22,Engineering,73.58,79.47,77.48,91.98,66.33,1.44,63.21,70.19,B,18.2,No,Yes,High School,Medium,8,7.5,Average Performer
+S2610,Ahmed,Smith,student1610@university.com,Female,18,CS,71.43,45.6,62.35,57.43,95.68,7.23,95.87,80.98,C,14.4,No,Yes,,Low,5,7.7,Average Performer
+S2611,Emma,Williams,student1611@university.com,Female,21,Engineering,61.69,84.14,67.61,77.26,59.29,6.97,98.12,60.31,C,28.2,No,Yes,High School,High,2,8.8,Average Performer
+S2612,Liam,Johnson,student1612@university.com,Male,21,Mathematics,52.68,42.57,56.72,67.42,65.92,5.14,86.42,99.94,D,29.3,Yes,Yes,,Medium,3,7.5,Needs Improvement
+S2613,Ali,Brown,student1613@university.com,Male,18,Engineering,71.46,51.44,70.47,85.14,94.92,2.79,52.84,64.15,B,22.9,No,No,High School,High,2,4.8,Average Performer
+S2614,Emma,Williams,student1614@university.com,Female,24,CS,89.41,79.85,74.4,50.94,66.53,7.98,51.18,77.62,B,24.8,Yes,Yes,PhD,Medium,5,8.7,Average Performer
+S2615,John,Smith,student1615@university.com,Female,21,CS,85.76,45.9,79.56,83.52,76.57,5.11,73.98,77.71,B,11.2,No,Yes,PhD,Medium,5,4.6,Average Performer
+S2616,Omar,Davis,student1616@university.com,Female,23,Business,93.04,98.31,81.99,55.14,51.65,0.59,99.98,72.57,A,11.5,No,Yes,,Medium,9,5.0,High Performer
+S2617,Ali,Jones,student1617@university.com,Male,22,Engineering,50.48,92.1,70.66,53.24,99.25,9.19,93.46,62.08,B,19.2,No,Yes,,Medium,6,5.4,Average Performer
+S2618,Emma,Jones,student1618@university.com,Female,21,Engineering,98.32,77.58,86.3,86.23,91.25,7.68,96.66,78.27,A,29.6,No,Yes,,Low,2,4.9,High Performer
+S2619,Ahmed,Smith,student1619@university.com,Female,23,CS,67.07,89.14,83.43,82.02,81.72,5.85,81.18,54.55,A,23.6,No,Yes,Master's,Medium,1,4.1,High Performer
+S2620,Ahmed,Smith,student1620@university.com,Female,22,Engineering,99.52,93.25,89.74,94.75,53.04,4.37,92.96,69.35,A,23.6,No,No,High School,Medium,7,6.3,High Performer
+S2621,Sara,Jones,student1621@university.com,Female,23,CS,62.63,55.57,57.18,75.98,53.74,9.6,65.98,61.21,D,11.4,No,Yes,,Medium,7,7.4,Needs Improvement
+S2622,Emma,Davis,student1622@university.com,Female,18,Mathematics,,90.96,84.2,76.5,77.25,7.75,51.37,56.21,A,15.5,No,Yes,Master's,Low,10,6.1,High Performer
+S2623,Maria,Williams,student1623@university.com,Male,19,Business,67.7,51.69,63.1,85.35,64.25,5.35,95.91,96.27,C,13.6,No,Yes,Master's,Low,6,5.2,Average Performer
+S2624,Emma,Jones,student1624@university.com,Female,18,CS,67.79,64.8,74.04,66.17,81.14,6.53,60.92,85.0,B,12.6,No,Yes,,Medium,2,8.4,Average Performer
+S2625,Omar,Smith,student1625@university.com,Male,21,Engineering,92.11,73.5,78.95,51.85,79.91,2.81,86.42,58.44,B,23.3,No,Yes,Bachelor's,Low,8,5.9,Average Performer
+S2626,Ali,Brown,student1626@university.com,Female,22,CS,,82.83,76.46,61.5,91.93,1.96,82.95,97.47,B,7.5,No,Yes,High School,Low,4,8.2,Average Performer
+S2627,Ali,Johnson,student1627@university.com,Female,23,Engineering,99.61,41.81,70.35,61.9,64.07,2.73,57.91,60.8,B,9.1,No,Yes,Bachelor's,Low,7,4.9,Average Performer
+S2628,Omar,Davis,student1628@university.com,Female,21,Business,80.68,57.43,69.7,66.78,78.89,2.93,59.79,61.78,C,15.3,Yes,Yes,Bachelor's,Low,8,5.7,Average Performer
+S2629,Emma,Davis,student1629@university.com,Male,21,Engineering,73.16,76.51,84.05,97.17,88.87,7.4,66.45,56.66,A,12.6,No,Yes,High School,Low,7,8.0,High Performer
+S2630,Omar,Brown,student1630@university.com,Male,19,CS,,61.44,74.9,90.24,74.54,1.4,87.85,86.39,B,27.6,No,Yes,PhD,High,3,4.2,Average Performer
+S2631,John,Brown,student1631@university.com,Male,24,CS,99.83,86.5,90.77,96.8,91.53,7.78,51.96,78.54,A+,10.0,Yes,Yes,,Low,8,8.6,High Performer
+S2632,Liam,Smith,student1632@university.com,Female,21,Business,77.58,79.1,77.5,99.93,56.56,5.23,70.35,52.91,B,11.2,No,Yes,Master's,Medium,4,6.0,Average Performer
+S2633,Omar,Jones,student1633@university.com,Female,19,Engineering,85.02,54.06,74.86,71.69,86.69,3.85,83.26,51.26,B,9.5,No,Yes,,High,8,8.9,Average Performer
+S2634,Ahmed,Williams,student1634@university.com,Male,22,Engineering,70.34,48.76,64.01,61.35,97.15,3.0,58.57,76.63,C,26.5,Yes,Yes,Bachelor's,High,5,7.5,Average Performer
+S2635,Omar,Davis,student1635@university.com,Male,22,CS,77.39,77.74,74.8,78.0,66.59,5.13,55.97,82.58,B,10.1,Yes,No,PhD,Medium,9,8.7,Average Performer
+S2636,Ali,Davis,student1636@university.com,Female,23,CS,97.13,67.03,78.79,94.06,68.32,3.18,69.51,91.14,B,13.8,Yes,Yes,PhD,High,3,4.3,Average Performer
+S2637,Ahmed,Brown,student1637@university.com,Male,24,Mathematics,58.32,50.14,59.4,,54.18,4.29,64.33,73.91,D,21.7,Yes,Yes,,Medium,2,7.6,Needs Improvement
+S2638,Ali,Jones,student1638@university.com,Female,19,Engineering,64.62,59.58,73.79,75.27,82.07,7.39,82.45,83.83,B,6.9,Yes,Yes,Bachelor's,Medium,4,8.4,Average Performer
+S2639,Sara,Davis,student1639@university.com,Male,18,Engineering,57.6,58.18,57.43,56.72,77.62,6.26,98.48,86.68,D,25.4,Yes,Yes,,High,2,8.9,Needs Improvement
+S2640,Maria,Williams,student1640@university.com,Male,22,Engineering,89.61,46.49,65.23,71.02,52.02,7.48,50.22,80.65,C,22.7,No,Yes,Master's,Low,2,4.2,Average Performer
+S2641,Ali,Brown,student1641@university.com,Male,24,Business,53.1,72.81,73.75,,87.61,7.13,95.12,67.61,B,11.5,No,Yes,,Low,1,4.4,Average Performer
+S2642,Ahmed,Williams,student1642@university.com,Female,23,CS,54.08,85.82,73.26,67.58,91.46,8.15,71.66,56.59,B,14.8,Yes,Yes,Master's,Medium,8,7.7,Average Performer
+S2643,Sara,Jones,student1643@university.com,Female,18,CS,64.92,74.53,80.09,94.36,95.36,2.02,83.2,82.38,A,20.5,Yes,Yes,Bachelor's,Low,1,4.2,High Performer
+S2644,Ali,Davis,student1644@university.com,Male,22,Engineering,75.71,89.58,73.07,52.97,77.29,9.95,92.55,88.43,B,28.7,No,No,,Low,8,4.1,Average Performer
+S2645,John,Johnson,student1645@university.com,Female,22,Engineering,,47.65,71.3,98.61,72.63,4.76,78.67,59.49,B,20.7,Yes,Yes,Bachelor's,High,9,6.7,Average Performer
+S2646,Omar,Davis,student1646@university.com,Female,23,Business,,66.14,74.34,,93.81,7.18,54.87,74.74,B,11.3,Yes,Yes,PhD,Low,6,6.6,Average Performer
+S2647,Maria,Jones,student1647@university.com,Female,23,Business,97.87,76.56,89.06,97.28,69.93,6.78,57.03,69.86,A,17.1,Yes,Yes,,Low,7,7.1,High Performer
+S2648,Ali,Davis,student1648@university.com,Female,20,CS,97.64,80.56,88.95,77.4,82.77,5.66,89.46,60.29,A,16.2,Yes,Yes,Master's,High,6,4.1,High Performer
+S2649,Sara,Davis,student1649@university.com,Male,21,CS,63.97,81.75,84.71,85.12,80.77,9.96,61.45,62.27,A,18.3,No,Yes,,Low,1,6.5,High Performer
+S2650,John,Smith,student1650@university.com,Female,21,Mathematics,86.58,83.74,79.19,59.36,68.61,2.17,78.45,61.88,B,18.0,Yes,Yes,,High,1,5.4,Average Performer
+S2651,Emma,Davis,student1651@university.com,Female,18,Engineering,78.93,79.09,77.03,82.71,54.34,4.22,71.4,70.95,B,14.1,No,Yes,,Medium,1,7.8,Average Performer
+S2652,Sara,Davis,student1652@university.com,Male,21,Engineering,61.87,45.65,61.6,94.1,51.07,1.28,65.18,69.52,C,26.8,No,Yes,Master's,High,3,5.7,Average Performer
+S2653,Omar,Williams,student1653@university.com,Female,18,Engineering,63.11,81.72,68.58,56.97,71.41,1.82,89.35,77.71,C,13.3,No,Yes,Bachelor's,High,7,5.8,Average Performer
+S2654,Sara,Johnson,student1654@university.com,Female,24,Engineering,74.56,83.49,74.98,56.35,74.06,7.13,86.56,54.66,B,18.2,No,Yes,,Medium,8,7.3,Average Performer
+S2655,John,Williams,student1655@university.com,Female,22,CS,70.96,99.61,81.97,65.2,91.13,0.05,82.31,79.06,A,11.5,Yes,Yes,Bachelor's,High,1,7.3,High Performer
+S2656,Sara,Williams,student1656@university.com,Male,20,Business,64.56,81.6,70.66,58.09,70.72,8.9,68.63,51.09,B,15.9,No,Yes,PhD,Medium,6,4.3,Average Performer
+S2657,John,Brown,student1657@university.com,Male,20,Business,90.38,81.21,84.06,,64.06,6.33,61.32,62.87,A,22.0,No,Yes,,Medium,8,7.1,High Performer
+S2658,Ali,Smith,student1658@university.com,Female,22,Engineering,74.07,70.89,71.76,83.92,73.1,4.41,75.79,75.11,B,23.9,Yes,No,High School,Medium,5,7.3,Average Performer
+S2659,Liam,Williams,student1659@university.com,Female,23,Engineering,82.74,92.08,81.89,60.69,61.9,3.31,90.86,84.35,A,25.2,Yes,Yes,High School,Low,2,6.3,High Performer
+S2660,John,Jones,student1660@university.com,Male,19,CS,59.46,99.81,81.58,83.35,54.57,1.26,78.78,88.56,A,23.4,No,Yes,,High,4,8.1,High Performer
+S2661,John,Jones,student1661@university.com,Male,19,CS,76.68,86.74,79.98,93.1,55.65,9.22,98.51,51.78,B,16.7,No,No,,Low,4,4.0,Average Performer
+S2662,Maria,Davis,student1662@university.com,Male,21,CS,65.9,76.75,66.68,82.6,65.96,7.12,50.77,76.87,C,5.9,Yes,No,,Low,4,8.8,Average Performer
+S2663,John,Brown,student1663@university.com,Female,23,CS,76.32,44.74,55.52,55.97,50.63,3.36,99.92,67.72,D,18.1,No,Yes,,Medium,8,5.9,Needs Improvement
+S2664,John,Smith,student1664@university.com,Female,18,Mathematics,,83.6,80.76,78.68,61.01,0.71,84.57,84.75,A,6.4,Yes,Yes,Master's,Low,6,7.0,High Performer
+S2665,Emma,Smith,student1665@university.com,Male,24,Business,88.45,82.51,82.69,69.68,89.38,3.26,91.63,64.19,A,29.2,No,Yes,High School,Medium,9,4.2,High Performer
+S2666,Liam,Davis,student1666@university.com,Female,20,Engineering,67.71,86.53,70.29,67.17,61.73,1.85,66.75,87.19,B,14.4,No,Yes,PhD,Medium,10,7.5,Average Performer
+S2667,Ali,Jones,student1667@university.com,Female,21,Engineering,84.71,47.47,62.03,65.93,55.54,7.86,75.42,80.11,C,17.6,No,Yes,High School,Medium,1,6.7,Average Performer
+S2668,Omar,Johnson,student1668@university.com,Female,22,CS,97.06,79.22,93.28,96.47,97.45,7.2,89.85,89.48,A+,8.2,Yes,No,,Low,1,8.8,High Performer
+S2669,Maria,Brown,student1669@university.com,Female,23,Mathematics,,57.74,74.16,87.13,81.12,4.98,88.03,99.22,B,29.9,No,Yes,,High,2,6.1,Average Performer
+S2670,Emma,Davis,student1670@university.com,Female,20,CS,57.42,85.62,69.39,,53.0,8.86,66.7,95.43,C,17.3,No,Yes,High School,Medium,5,7.6,Average Performer
+S2671,Ahmed,Brown,student1671@university.com,Female,18,CS,83.99,54.42,66.07,,53.11,1.81,66.22,79.66,C,12.5,No,Yes,PhD,Low,6,4.4,Average Performer
+S2672,Liam,Jones,student1672@university.com,Female,18,Engineering,55.25,81.04,69.04,65.91,80.61,4.52,83.14,94.69,C,9.8,Yes,Yes,,Low,3,4.3,Average Performer
+S2673,Ali,Jones,student1673@university.com,Male,19,Business,93.61,57.7,76.84,98.9,77.01,7.11,96.68,57.65,B,21.2,No,Yes,Master's,Medium,1,8.7,Average Performer
+S2674,Ali,Johnson,student1674@university.com,Male,21,Business,75.83,40.54,69.58,98.9,53.42,0.68,71.94,52.15,C,15.9,No,Yes,High School,Medium,7,5.3,Average Performer
+S2675,Ahmed,Johnson,student1675@university.com,Male,22,CS,69.26,78.0,69.49,65.98,61.22,3.73,67.65,76.66,C,12.9,Yes,No,,High,1,8.6,Average Performer
+S2676,Omar,Smith,student1676@university.com,Male,20,Business,52.85,46.8,63.88,67.61,96.45,5.72,94.73,98.72,C,5.2,No,Yes,High School,Low,7,4.4,Average Performer
+S2677,John,Brown,student1677@university.com,Male,24,CS,69.04,79.56,80.91,79.97,78.6,3.67,84.15,85.49,A,5.9,Yes,Yes,,High,9,7.2,High Performer
+S2678,Emma,Brown,student1678@university.com,Male,18,CS,,95.54,84.75,73.97,72.02,4.8,69.41,65.26,A,22.3,Yes,Yes,Bachelor's,Medium,1,6.8,High Performer
+S2679,Sara,Jones,student1679@university.com,Male,20,Business,51.05,98.15,69.88,60.66,62.51,6.08,52.86,83.44,C,17.0,Yes,Yes,Bachelor's,Medium,8,8.8,Average Performer
+S2680,Maria,Smith,student1680@university.com,Male,22,Business,73.73,54.16,67.39,83.02,56.68,3.68,86.07,52.0,C,26.2,Yes,Yes,Master's,High,10,6.0,Average Performer
+S2681,Sara,Davis,student1681@university.com,Male,20,Engineering,96.56,88.56,83.75,66.71,70.13,1.06,67.64,73.53,A,23.8,Yes,Yes,PhD,High,9,4.2,High Performer
+S2682,Ahmed,Brown,student1682@university.com,Female,21,Engineering,69.74,61.21,70.59,82.69,96.12,1.39,53.53,61.86,B,19.3,No,Yes,,Medium,8,6.4,Average Performer
+S2683,Ali,Smith,student1683@university.com,Female,19,Business,71.41,94.03,77.01,69.18,52.44,5.27,80.61,52.46,B,19.0,No,No,Bachelor's,Low,1,8.1,Average Performer
+S2684,Omar,Smith,student1684@university.com,Male,20,Business,78.93,87.25,82.61,85.01,99.55,1.75,66.15,62.5,A,23.6,No,No,,Low,4,4.3,High Performer
+S2685,Ali,Jones,student1685@university.com,Female,23,Business,73.15,44.44,66.8,83.39,60.39,8.9,66.92,86.12,C,23.5,No,No,,Medium,10,4.2,Average Performer
+S2686,Maria,Smith,student1686@university.com,Female,19,Engineering,58.43,64.43,64.34,75.44,70.44,8.34,73.96,77.56,C,13.4,No,Yes,Master's,Low,4,8.1,Average Performer
+S2687,Ali,Johnson,student1687@university.com,Male,22,Mathematics,50.93,60.24,61.85,85.24,52.25,3.49,85.87,51.17,C,7.6,Yes,Yes,Master's,Medium,1,8.1,Average Performer
+S2688,Ali,Johnson,student1688@university.com,Male,19,Mathematics,80.49,87.11,81.98,73.05,79.24,8.31,63.82,70.49,A,24.3,No,Yes,Master's,Medium,7,5.0,High Performer
+S2689,Maria,Williams,student1689@university.com,Male,20,CS,96.04,64.62,72.94,55.81,74.18,5.33,54.05,87.61,B,10.6,No,Yes,,Medium,7,7.3,Average Performer
+S2690,Emma,Jones,student1690@university.com,Female,20,Business,55.32,81.08,71.06,59.11,83.34,1.59,71.22,97.73,B,24.8,No,Yes,Bachelor's,Medium,10,4.3,Average Performer
+S2691,Emma,Davis,student1691@university.com,Female,23,Engineering,60.55,76.15,67.42,62.3,77.13,6.14,52.75,93.72,C,20.5,No,Yes,Master's,Low,9,7.8,Average Performer
+S2692,Maria,Williams,student1692@university.com,Male,18,CS,68.51,98.54,78.77,53.16,69.91,6.79,84.86,50.08,B,13.9,No,Yes,,Low,8,5.5,Average Performer
+S2693,Omar,Johnson,student1693@university.com,Female,23,Engineering,90.44,96.27,86.94,85.57,86.89,0.84,97.96,60.94,A,26.3,No,Yes,,Medium,3,5.2,High Performer
+S2694,Ahmed,Williams,student1694@university.com,Female,20,CS,63.46,65.66,63.76,68.37,51.25,3.14,82.94,60.39,C,22.3,Yes,Yes,,Medium,2,7.4,Average Performer
+S2695,Liam,Jones,student1695@university.com,Female,24,Engineering,94.1,83.41,85.73,54.68,77.05,0.05,63.77,70.65,A,18.6,No,Yes,Master's,Low,10,8.6,High Performer
+S2696,Ali,Jones,student1696@university.com,Male,19,Business,52.75,89.77,70.8,91.0,55.69,3.16,59.09,82.29,B,12.5,No,Yes,,Low,3,4.2,Average Performer
+S2697,Omar,Smith,student1697@university.com,Female,23,CS,97.05,93.93,87.56,84.18,71.8,3.35,61.64,57.65,A,29.7,No,Yes,PhD,Low,8,4.7,High Performer
+S2698,Ali,Brown,student1698@university.com,Female,23,Engineering,78.04,44.09,68.34,72.61,89.56,6.3,61.08,95.78,C,26.0,Yes,Yes,,Medium,6,5.3,Average Performer
+S2699,Liam,Smith,student1699@university.com,Female,24,Mathematics,82.94,58.12,66.8,62.37,57.12,1.99,65.69,88.86,C,8.4,No,Yes,High School,Medium,3,8.6,Average Performer
+S2700,Ahmed,Jones,student1700@university.com,Female,24,Engineering,68.38,59.21,68.33,57.59,96.79,0.3,54.87,70.97,C,25.2,No,Yes,Master's,Low,2,8.4,Average Performer
+S2701,Emma,Johnson,student1701@university.com,Female,24,CS,,66.07,76.06,72.92,94.43,3.16,94.79,79.2,B,8.0,No,Yes,Master's,Medium,1,8.5,Average Performer
+S2702,Omar,Davis,student1702@university.com,Female,18,Engineering,58.33,50.16,66.42,94.26,70.75,8.26,94.26,77.09,C,11.2,Yes,Yes,High School,Medium,8,5.9,Average Performer
+S2703,John,Johnson,student1703@university.com,Female,20,Engineering,52.45,69.77,62.91,59.42,50.3,3.99,80.76,79.11,C,28.9,No,Yes,Bachelor's,Medium,3,5.2,Average Performer
+S2704,John,Smith,student1704@university.com,Male,20,Engineering,69.78,79.79,79.2,78.43,89.49,4.15,53.1,93.01,B,26.7,Yes,Yes,High School,High,3,5.0,Average Performer
+S2705,Liam,Davis,student1705@university.com,Male,22,Business,92.68,69.84,85.25,98.08,94.04,4.69,90.2,60.01,A,20.2,No,Yes,Bachelor's,Low,5,8.4,High Performer
+S2706,John,Jones,student1706@university.com,Female,18,Engineering,87.75,79.95,81.51,81.86,58.74,7.52,53.09,84.19,A,22.5,No,Yes,,Low,5,5.2,High Performer
+S2707,Emma,Johnson,student1707@university.com,Male,22,Business,75.86,43.99,72.63,72.0,95.81,4.8,55.32,55.35,B,7.2,Yes,Yes,Master's,Medium,9,6.7,Average Performer
+S2708,Liam,Jones,student1708@university.com,Female,22,Engineering,78.61,92.56,87.1,85.82,95.7,0.91,66.26,72.96,A,13.3,No,Yes,Bachelor's,High,5,5.7,High Performer
+S2709,Emma,Davis,student1709@university.com,Female,22,CS,56.49,96.34,77.02,91.23,73.56,2.06,71.57,81.79,B,13.1,No,Yes,High School,Medium,7,6.5,Average Performer
+S2710,Ahmed,Davis,student1710@university.com,Female,21,Engineering,92.03,77.07,86.35,,89.9,1.88,67.69,50.63,A,5.8,Yes,Yes,,Low,7,5.7,High Performer
+S2711,Ali,Johnson,student1711@university.com,Male,22,Business,89.35,92.88,88.51,93.59,72.25,5.08,58.26,55.4,A,22.6,Yes,Yes,High School,High,7,5.5,High Performer
+S2712,Ahmed,Jones,student1712@university.com,Female,23,Engineering,82.82,47.89,61.97,75.73,78.2,0.3,55.61,54.56,C,12.7,Yes,Yes,,Medium,5,6.1,Average Performer
+S2713,Ahmed,Williams,student1713@university.com,Female,19,CS,73.31,87.85,83.48,91.5,65.99,2.84,92.97,68.73,A,20.8,No,Yes,PhD,Medium,3,5.7,High Performer
+S2714,Emma,Jones,student1714@university.com,Male,23,CS,98.22,47.15,72.58,97.6,57.97,6.07,68.16,81.1,B,5.7,No,Yes,,Medium,7,8.2,Average Performer
+S2715,Liam,Davis,student1715@university.com,Male,23,CS,93.95,64.48,78.59,75.06,87.33,3.55,60.93,99.8,B,5.0,No,Yes,Bachelor's,Low,8,6.9,Average Performer
+S2716,Liam,Jones,student1716@university.com,Female,20,CS,,59.43,68.07,80.25,50.07,7.08,74.35,62.7,C,9.3,Yes,Yes,PhD,Medium,4,4.9,Average Performer
+S2717,John,Smith,student1717@university.com,Male,21,Engineering,68.59,75.14,75.39,80.47,78.98,3.91,51.84,56.8,B,22.6,No,Yes,,Medium,6,5.2,Average Performer
+S2718,Sara,Williams,student1718@university.com,Male,22,CS,80.9,58.09,78.53,89.07,93.23,9.79,80.01,70.74,B,20.1,Yes,Yes,,High,5,4.3,Average Performer
+S2719,Ali,Brown,student1719@university.com,Female,20,Business,78.77,78.24,77.1,91.15,61.06,9.65,62.42,57.3,B,10.0,Yes,Yes,,Low,10,5.5,Average Performer
+S2720,Emma,Smith,student1720@university.com,Female,18,CS,,62.04,66.24,51.36,66.64,8.0,79.91,51.23,C,18.1,Yes,Yes,Master's,Medium,2,7.3,Average Performer
+S2721,John,Brown,student1721@university.com,Female,18,CS,65.33,91.65,80.14,86.67,79.37,9.54,80.71,78.2,A,20.5,No,Yes,Master's,Medium,1,4.9,High Performer
+S2722,Omar,Johnson,student1722@university.com,Male,20,Engineering,70.35,78.03,77.82,89.19,62.34,2.05,90.46,93.98,B,28.5,No,No,Master's,High,6,4.5,Average Performer
+S2723,Sara,Brown,student1723@university.com,Male,19,CS,78.7,52.92,74.84,85.02,92.37,7.51,61.5,93.04,B,24.1,No,Yes,PhD,Low,10,5.6,Average Performer
+S2724,Sara,Jones,student1724@university.com,Male,20,Business,71.41,60.17,64.89,,68.33,3.22,73.17,55.04,C,8.4,Yes,Yes,Master's,Medium,6,7.1,Average Performer
+S2725,Emma,Brown,student1725@university.com,Female,20,CS,63.18,90.85,76.29,52.07,79.08,7.25,98.09,57.37,B,11.8,No,Yes,PhD,Medium,7,6.4,Average Performer
+S2726,Maria,Davis,student1726@university.com,Male,21,Engineering,88.05,63.19,70.54,72.1,61.31,3.74,86.36,74.56,B,15.1,No,Yes,Master's,Medium,5,5.7,Average Performer
+S2727,Ali,Smith,student1727@university.com,Male,18,Business,76.57,72.15,76.64,90.91,52.07,2.89,98.77,68.39,B,7.6,Yes,Yes,,High,1,8.4,Average Performer
+S2728,Sara,Smith,student1728@university.com,Female,18,Engineering,53.38,78.94,72.89,96.7,58.69,9.59,96.37,85.15,B,18.9,No,Yes,PhD,Medium,6,6.3,Average Performer
+S2729,Emma,Brown,student1729@university.com,Female,22,CS,68.42,60.87,67.49,61.47,52.31,2.1,80.54,74.75,C,27.7,Yes,Yes,Master's,Medium,4,6.3,Average Performer
+S2730,Emma,Smith,student1730@university.com,Female,23,Engineering,94.25,57.64,74.59,78.96,73.43,7.59,63.2,51.01,B,12.7,Yes,Yes,,Medium,7,4.2,Average Performer
+S2731,John,Davis,student1731@university.com,Male,20,Business,87.76,68.52,79.21,90.22,79.33,6.75,87.85,64.23,B,29.6,No,Yes,Master's,Low,2,7.2,Average Performer
+S2732,Omar,Smith,student1732@university.com,Female,20,Mathematics,66.16,52.89,63.66,87.62,52.23,3.03,84.91,95.07,C,11.2,Yes,Yes,High School,Low,9,6.3,Average Performer
+S2733,Maria,Brown,student1733@university.com,Male,19,Business,96.91,57.05,72.5,80.94,54.52,4.58,79.44,75.58,B,16.8,No,Yes,High School,Low,7,4.7,Average Performer
+S2734,Ali,Williams,student1734@university.com,Male,24,CS,53.83,43.72,55.18,50.93,74.28,1.43,84.89,89.9,D,13.6,Yes,Yes,,Medium,5,5.2,Needs Improvement
+S2735,Liam,Williams,student1735@university.com,Female,24,Mathematics,98.06,58.24,73.41,,89.96,9.21,80.68,70.11,B,12.7,Yes,No,Master's,Low,2,5.0,Average Performer
+S2736,Ahmed,Johnson,student1736@university.com,Female,18,CS,62.29,59.24,63.43,,81.4,9.68,75.97,83.85,C,14.4,No,Yes,,Medium,1,4.6,Average Performer
+S2737,Omar,Smith,student1737@university.com,Female,19,CS,50.45,97.71,71.64,86.14,55.24,7.32,70.8,58.45,B,5.8,No,Yes,,Low,5,6.2,Average Performer
+S2738,Omar,Brown,student1738@university.com,Female,21,Business,71.69,75.38,82.56,88.29,94.38,8.49,52.24,86.83,A,18.3,No,Yes,,Medium,10,5.8,High Performer
+S2739,John,Smith,student1739@university.com,Female,22,CS,67.95,87.24,84.74,71.55,95.87,0.83,93.28,89.33,A,23.5,No,Yes,High School,Low,5,5.8,High Performer
+S2740,Liam,Jones,student1740@university.com,Male,19,CS,76.95,42.72,67.6,99.69,66.25,3.84,93.28,54.51,C,26.6,No,Yes,,Low,3,5.3,Average Performer
+S2741,Sara,Davis,student1741@university.com,Male,18,CS,89.84,46.39,72.51,88.54,80.8,3.31,79.7,59.17,B,13.1,No,Yes,Master's,Low,9,6.2,Average Performer
+S2742,Sara,Smith,student1742@university.com,Male,21,Engineering,,88.87,81.01,78.93,74.62,5.65,63.39,73.14,A,18.8,No,Yes,Bachelor's,High,10,6.7,High Performer
+S2743,John,Smith,student1743@university.com,Female,20,Business,70.06,77.41,85.5,96.71,97.1,1.83,51.41,81.87,A,27.3,Yes,Yes,Master's,Low,1,7.1,High Performer
+S2744,Emma,Williams,student1744@university.com,Male,21,Engineering,71.49,51.46,67.07,95.41,75.44,5.63,50.07,81.87,C,25.0,No,Yes,High School,Low,5,5.1,Average Performer
+S2745,Sara,Davis,student1745@university.com,Female,23,CS,57.41,64.29,73.29,90.73,98.0,6.54,53.65,83.41,B,16.6,No,Yes,,High,4,7.6,Average Performer
+S2746,Maria,Brown,student1746@university.com,Female,19,Engineering,52.38,72.32,68.58,78.18,59.97,1.32,67.99,85.72,C,9.1,No,Yes,Master's,Medium,2,4.1,Average Performer
+S2747,Ali,Smith,student1747@university.com,Male,18,Mathematics,82.06,90.62,82.89,,67.28,1.32,59.42,75.29,A,19.0,No,No,,Medium,1,7.8,High Performer
+S2748,Omar,Williams,student1748@university.com,Male,19,Business,53.22,43.62,60.12,,89.07,0.35,63.25,78.74,C,29.7,Yes,Yes,,High,10,5.4,Average Performer
+S2749,Omar,Johnson,student1749@university.com,Female,20,CS,86.69,75.8,81.43,62.54,89.18,7.61,84.98,50.42,A,23.9,No,No,,Medium,4,5.9,High Performer
+S2750,Maria,Davis,student1750@university.com,Male,24,Mathematics,,83.02,71.62,,86.61,3.31,97.96,58.33,B,26.2,No,Yes,High School,Medium,6,6.9,Average Performer
+S2751,Liam,Williams,student1751@university.com,Female,20,Business,59.93,98.67,84.27,78.89,92.98,2.25,60.34,74.93,A,9.7,No,Yes,Bachelor's,Medium,8,7.1,High Performer
+S2752,Sara,Williams,student1752@university.com,Male,18,CS,76.98,88.43,79.81,,85.13,7.78,73.28,87.28,B,27.6,Yes,Yes,,Medium,10,6.1,Average Performer
+S2753,Omar,Williams,student1753@university.com,Male,23,CS,,56.57,68.52,96.13,81.8,1.43,99.57,90.45,C,5.4,No,Yes,Master's,High,2,8.7,Average Performer
+S2754,Ahmed,Smith,student1754@university.com,Male,22,CS,71.94,82.57,78.53,77.86,72.95,4.27,96.58,86.45,B,26.6,No,No,Bachelor's,High,2,8.3,Average Performer
+S2755,Liam,Smith,student1755@university.com,Male,21,Business,,85.8,83.14,76.33,73.35,7.45,67.62,74.32,A,11.0,No,Yes,Master's,Medium,6,5.1,High Performer
+S2756,Ali,Johnson,student1756@university.com,Male,21,CS,73.1,83.78,75.74,71.78,70.31,5.74,65.98,64.06,B,20.6,Yes,No,PhD,Low,4,6.9,Average Performer
+S2757,Ali,Jones,student1757@university.com,Female,20,Engineering,57.43,89.21,74.04,52.9,81.01,5.54,62.11,72.24,B,12.3,No,Yes,High School,High,10,7.6,Average Performer
+S2758,Omar,Jones,student1758@university.com,Male,19,CS,86.19,94.22,93.04,94.12,70.33,1.57,57.77,50.46,A+,8.4,No,Yes,,Low,9,5.1,High Performer
+S2759,John,Jones,student1759@university.com,Male,24,Mathematics,59.34,45.91,61.38,,57.37,1.81,73.0,79.9,C,11.2,No,Yes,,Low,4,4.1,Average Performer
+S2760,Liam,Davis,student1760@university.com,Male,19,CS,86.93,46.29,71.92,82.12,55.33,5.83,67.06,53.73,B,16.8,No,Yes,Bachelor's,Low,2,8.9,Average Performer
+S2761,Omar,Davis,student1761@university.com,Female,23,Mathematics,73.97,87.78,85.65,80.37,96.22,0.24,87.24,57.27,A,28.0,No,Yes,PhD,Low,1,8.8,High Performer
+S2762,John,Johnson,student1762@university.com,Female,22,Mathematics,72.69,55.14,63.98,,51.24,8.69,61.84,81.3,C,14.7,No,Yes,,Medium,6,5.6,Average Performer
+S2763,Omar,Davis,student1763@university.com,Female,19,CS,92.57,43.51,61.74,76.29,55.27,3.5,86.82,50.67,C,6.4,No,Yes,PhD,Low,1,5.2,Average Performer
+S2764,Ahmed,Jones,student1764@university.com,Female,21,Engineering,85.43,64.07,69.97,59.07,72.27,4.17,64.41,78.68,C,5.6,No,Yes,Bachelor's,Low,6,4.8,Average Performer
+S2765,Liam,Jones,student1765@university.com,Female,24,CS,51.65,89.19,66.46,64.03,63.15,2.58,79.64,81.92,C,10.2,No,Yes,Master's,Low,8,7.4,Average Performer
+S2766,Emma,Williams,student1766@university.com,Male,19,Mathematics,64.81,47.59,68.4,76.21,70.29,8.77,81.92,89.41,C,6.3,Yes,Yes,,Low,6,7.8,Average Performer
+S2767,Ali,Davis,student1767@university.com,Male,24,Engineering,93.55,80.31,81.92,89.47,55.87,6.43,83.59,53.4,A,14.3,No,Yes,PhD,Medium,4,6.1,High Performer
+S2768,Omar,Smith,student1768@university.com,Male,22,CS,50.92,40.22,52.53,71.6,56.55,4.5,58.77,50.15,D,14.6,No,Yes,High School,Medium,2,5.2,Needs Improvement
+S2769,Ahmed,Smith,student1769@university.com,Female,21,CS,77.26,46.58,69.6,,90.03,5.85,64.14,88.34,C,29.3,No,Yes,Bachelor's,Medium,5,6.2,Average Performer
+S2770,John,Williams,student1770@university.com,Female,24,CS,86.39,61.05,71.49,54.4,87.96,3.8,62.31,64.5,B,12.7,No,Yes,,Medium,5,6.6,Average Performer
+S2771,John,Williams,student1771@university.com,Male,19,Mathematics,81.09,45.02,70.08,83.15,55.21,4.66,78.81,94.36,B,20.0,No,Yes,Master's,Low,8,6.7,Average Performer
+S2772,Ali,Williams,student1772@university.com,Female,21,Engineering,88.03,90.75,83.05,71.17,83.39,3.58,53.79,59.25,A,25.5,No,Yes,High School,Medium,3,6.2,High Performer
+S2773,Maria,Smith,student1773@university.com,Female,20,Business,86.28,91.84,81.94,56.27,80.47,4.11,75.91,79.28,A,17.8,Yes,No,Bachelor's,Medium,2,4.0,High Performer
+S2774,Omar,Jones,student1774@university.com,Female,20,CS,,85.33,78.17,,85.67,3.15,54.37,55.47,B,22.4,No,Yes,Bachelor's,Low,1,6.4,Average Performer
+S2775,Liam,Williams,student1775@university.com,Male,23,CS,,54.55,60.98,60.38,73.72,0.78,66.85,70.13,C,29.4,No,Yes,High School,Medium,2,5.7,Average Performer
+S2776,Sara,Johnson,student1776@university.com,Male,20,Mathematics,82.28,71.39,72.45,75.45,63.5,0.37,84.34,94.1,B,13.1,Yes,Yes,High School,Low,2,6.8,Average Performer
+S2777,John,Williams,student1777@university.com,Female,19,CS,70.12,51.05,64.33,65.31,83.18,1.74,70.63,80.42,C,6.9,No,Yes,Master's,Low,1,4.3,Average Performer
+S2778,Liam,Brown,student1778@university.com,Female,22,Mathematics,73.6,56.88,70.3,96.58,68.57,2.52,64.02,84.48,B,15.8,No,Yes,,Medium,8,8.4,Average Performer
+S2779,Liam,Williams,student1779@university.com,Female,21,CS,85.84,70.96,69.94,61.41,60.95,8.9,80.79,61.3,C,18.5,No,Yes,Bachelor's,Low,8,8.4,Average Performer
+S2780,Emma,Smith,student1780@university.com,Female,24,CS,93.82,84.1,78.13,71.0,70.43,6.11,87.01,96.14,B,19.5,No,Yes,High School,Low,10,6.8,Average Performer
+S2781,Liam,Davis,student1781@university.com,Male,18,Engineering,63.61,45.68,67.64,97.97,88.16,9.58,62.73,81.17,C,23.5,No,Yes,,Low,4,7.7,Average Performer
+S2782,Liam,Williams,student1782@university.com,Female,20,Mathematics,67.1,57.8,60.1,65.94,73.79,3.4,64.97,55.29,C,27.5,No,No,,Low,3,6.2,Average Performer
+S2783,Emma,Davis,student1783@university.com,Male,20,Mathematics,96.54,95.6,89.41,,64.99,4.02,82.01,50.78,A,17.5,No,Yes,Bachelor's,Low,1,7.0,High Performer
+S2784,John,Brown,student1784@university.com,Male,18,CS,78.93,65.75,73.85,65.84,91.59,7.2,98.26,50.8,B,8.6,No,Yes,Master's,Medium,8,7.1,Average Performer
+S2785,Liam,Johnson,student1785@university.com,Male,24,CS,58.95,96.33,72.25,55.53,94.08,5.78,60.69,52.56,B,15.1,No,No,Master's,Low,8,5.8,Average Performer
+S2786,Maria,Davis,student1786@university.com,Female,24,Engineering,,99.48,83.63,81.38,71.66,5.28,82.71,95.58,A,8.9,No,Yes,PhD,High,4,8.8,High Performer
+S2787,Maria,Jones,student1787@university.com,Male,18,Engineering,99.54,71.6,82.14,95.8,68.73,5.76,95.33,67.92,A,9.6,No,Yes,Master's,High,5,7.0,High Performer
+S2788,Ahmed,Williams,student1788@university.com,Male,24,Business,91.17,57.28,74.98,72.63,80.63,5.84,73.1,64.91,B,5.0,No,Yes,,Medium,4,9.0,Average Performer
+S2789,Emma,Brown,student1789@university.com,Female,19,CS,87.29,87.45,85.01,81.31,52.9,7.66,65.84,70.83,A,28.2,No,No,Master's,Low,5,6.2,High Performer
+S2790,Ahmed,Brown,student1790@university.com,Female,24,Mathematics,60.4,49.56,57.49,,84.57,6.68,83.34,70.48,D,23.6,No,Yes,PhD,High,4,4.2,Needs Improvement
+S2791,Emma,Davis,student1791@university.com,Female,21,Engineering,,55.12,69.87,70.75,89.11,9.57,51.57,61.92,C,7.5,No,Yes,Bachelor's,Medium,9,5.5,Average Performer
+S2792,Omar,Johnson,student1792@university.com,Male,24,Business,76.29,87.09,79.52,80.74,69.87,9.48,68.01,54.59,B,28.0,No,Yes,Master's,Low,1,7.3,Average Performer
+S2793,Omar,Smith,student1793@university.com,Female,20,Engineering,94.46,66.02,77.23,,58.73,4.22,62.9,55.43,B,26.8,No,Yes,PhD,Medium,10,8.6,Average Performer
+S2794,Liam,Williams,student1794@university.com,Male,22,Engineering,66.49,52.09,60.31,68.9,51.44,0.36,61.23,79.96,C,27.7,Yes,Yes,Master's,Low,10,7.1,Average Performer
+S2795,Sara,Brown,student1795@university.com,Male,19,Mathematics,53.1,79.07,68.05,72.12,81.86,0.11,58.99,69.84,C,7.4,No,Yes,Master's,Medium,3,6.4,Average Performer
+S2796,Omar,Johnson,student1796@university.com,Female,19,Engineering,73.8,83.97,78.73,93.2,63.45,1.23,86.85,95.12,B,7.0,No,Yes,,Medium,7,4.4,Average Performer
+S2797,Sara,Jones,student1797@university.com,Male,24,Business,63.49,47.5,57.75,67.42,73.19,0.75,97.75,73.19,D,6.7,No,Yes,PhD,Low,6,4.7,Needs Improvement
+S2798,Omar,Brown,student1798@university.com,Male,22,Mathematics,85.76,56.62,75.52,81.76,69.32,3.73,69.24,75.17,B,29.2,No,Yes,Master's,Low,8,4.3,Average Performer
+S2799,Ali,Johnson,student1799@university.com,Male,22,Engineering,97.86,53.28,71.84,,58.74,0.53,52.46,96.41,B,21.5,No,Yes,Bachelor's,High,6,7.6,Average Performer
+S2800,Omar,Smith,student1800@university.com,Male,23,Engineering,84.55,62.79,76.88,62.63,75.42,6.25,85.95,75.08,B,9.4,No,Yes,PhD,Medium,8,8.2,Average Performer
+S2801,Ahmed,Smith,student1801@university.com,Female,22,CS,94.35,85.81,85.59,82.42,72.98,1.9,76.91,75.1,A,28.2,No,Yes,,Low,1,4.8,High Performer
+S2802,John,Brown,student1802@university.com,Male,24,CS,72.65,82.82,78.46,88.12,81.21,5.14,86.18,68.16,B,16.1,Yes,Yes,PhD,Medium,9,5.6,Average Performer
+S2803,Liam,Brown,student1803@university.com,Female,24,CS,88.58,79.75,73.96,73.11,62.59,1.03,82.4,85.52,B,24.6,Yes,Yes,Master's,Low,5,6.4,Average Performer
+S2804,Ahmed,Davis,student1804@university.com,Male,18,CS,92.15,40.38,58.83,66.75,60.73,8.28,95.27,69.61,D,20.9,No,Yes,Master's,High,10,4.7,Needs Improvement
+S2805,John,Williams,student1805@university.com,Male,20,CS,85.54,48.53,70.61,95.51,90.72,7.8,57.02,79.42,B,21.2,Yes,Yes,PhD,Medium,2,6.1,Average Performer
+S2806,Maria,Johnson,student1806@university.com,Female,23,CS,75.39,53.4,66.23,56.79,85.11,3.86,58.46,72.37,C,16.0,No,Yes,Bachelor's,High,1,8.8,Average Performer
+S2807,Ahmed,Brown,student1807@university.com,Male,24,CS,81.29,56.32,76.12,86.04,88.61,9.11,67.08,76.44,B,14.9,No,No,PhD,High,4,7.6,Average Performer
+S2808,Maria,Williams,student1808@university.com,Male,18,Engineering,85.03,48.79,63.17,84.51,56.16,1.86,74.57,91.35,C,9.0,Yes,Yes,Master's,High,10,4.8,Average Performer
+S2809,Sara,Davis,student1809@university.com,Male,23,CS,,64.62,74.1,84.51,61.2,8.14,96.29,70.69,B,6.8,No,Yes,Master's,Low,8,4.5,Average Performer
+S2810,Sara,Williams,student1810@university.com,Male,20,CS,90.48,44.51,68.05,,78.78,5.46,95.35,61.5,C,28.2,Yes,Yes,,High,3,6.2,Average Performer
+S2811,Ali,Brown,student1811@university.com,Male,23,Engineering,97.52,85.0,90.66,86.41,92.86,3.3,93.59,78.52,A+,28.4,Yes,Yes,Bachelor's,Low,10,8.9,High Performer
+S2812,Omar,Smith,student1812@university.com,Male,18,Engineering,73.26,87.26,84.56,65.08,94.61,0.84,61.13,96.88,A,21.0,No,Yes,,Low,4,8.0,High Performer
+S2813,Ahmed,Johnson,student1813@university.com,Female,21,Engineering,85.05,74.46,81.54,67.67,91.6,1.71,86.48,84.66,A,14.7,Yes,Yes,Master's,Low,2,5.5,High Performer
+S2814,Maria,Johnson,student1814@university.com,Female,24,Engineering,86.85,45.38,62.87,69.56,52.17,8.63,69.17,65.42,C,5.6,No,Yes,Bachelor's,Medium,2,4.1,Average Performer
+S2815,John,Smith,student1815@university.com,Female,20,Business,83.11,93.4,78.91,51.54,91.04,6.07,96.56,98.15,B,16.2,No,Yes,Bachelor's,Medium,2,6.1,Average Performer
+S2816,Sara,Brown,student1816@university.com,Male,19,Engineering,77.36,97.94,80.24,,94.95,2.37,60.73,67.14,A,21.5,No,Yes,,Medium,10,4.8,High Performer
+S2817,Omar,Johnson,student1817@university.com,Male,20,Engineering,94.08,52.14,62.98,53.68,52.84,4.96,57.06,99.16,C,12.5,Yes,Yes,PhD,High,1,4.9,Average Performer
+S2818,Sara,Brown,student1818@university.com,Male,20,Mathematics,72.45,82.28,77.52,84.99,70.81,1.08,92.12,59.6,B,13.6,No,Yes,PhD,Medium,10,4.8,Average Performer
+S2819,John,Davis,student1819@university.com,Female,20,Business,53.06,90.52,71.12,,76.83,0.99,85.85,99.98,B,16.8,No,No,,Medium,10,7.6,Average Performer
+S2820,Omar,Brown,student1820@university.com,Male,21,Engineering,,72.39,75.34,92.19,61.64,9.08,91.07,53.8,B,17.4,Yes,No,Bachelor's,Medium,5,4.2,Average Performer
+S2821,Omar,Williams,student1821@university.com,Female,24,Engineering,83.7,59.4,73.04,77.67,75.83,4.58,57.9,85.66,B,23.6,Yes,Yes,Bachelor's,Medium,5,6.8,Average Performer
+S2822,Maria,Smith,student1822@university.com,Male,18,CS,92.46,68.71,82.51,86.26,94.3,3.62,94.24,87.02,A,17.5,No,Yes,Bachelor's,Medium,3,7.8,High Performer
+S2823,Maria,Brown,student1823@university.com,Male,24,Engineering,56.93,70.74,66.92,65.14,93.35,9.49,83.88,83.98,C,26.1,No,Yes,PhD,High,3,4.8,Average Performer
+S2824,Ahmed,Davis,student1824@university.com,Male,19,Mathematics,51.54,64.04,70.39,87.28,96.99,3.99,82.58,88.88,B,17.1,No,Yes,Master's,Low,8,8.5,Average Performer
+S2825,Ahmed,Jones,student1825@university.com,Female,18,Engineering,96.72,95.79,88.43,67.17,74.21,3.36,79.13,73.59,A,5.8,No,Yes,Bachelor's,Medium,10,4.4,High Performer
+S2826,Emma,Smith,student1826@university.com,Male,23,Mathematics,57.39,84.63,73.17,95.14,70.53,2.73,88.24,52.71,B,8.5,No,No,Bachelor's,Low,7,7.4,Average Performer
+S2827,Liam,Johnson,student1827@university.com,Female,23,Engineering,90.48,54.48,74.57,58.17,83.29,5.65,70.78,67.89,B,23.0,No,Yes,High School,Medium,4,4.9,Average Performer
+S2828,Emma,Williams,student1828@university.com,Male,23,Mathematics,,75.13,72.5,65.79,70.84,5.58,56.64,82.12,B,16.3,No,Yes,,High,8,8.0,Average Performer
+S2829,Ali,Johnson,student1829@university.com,Male,18,Engineering,85.44,81.32,76.95,74.94,52.1,0.16,76.96,82.31,B,16.5,Yes,Yes,PhD,Low,10,6.9,Average Performer
+S2830,Sara,Davis,student1830@university.com,Female,22,CS,56.56,48.41,66.69,88.79,86.0,6.54,87.41,59.76,C,29.5,Yes,Yes,High School,High,9,6.9,Average Performer
+S2831,Ahmed,Davis,student1831@university.com,Male,21,Engineering,83.37,61.51,74.33,87.44,64.05,7.88,57.68,62.65,B,19.3,No,Yes,Master's,Medium,6,5.7,Average Performer
+S2832,Maria,Johnson,student1832@university.com,Male,22,CS,94.45,94.33,84.19,60.54,52.45,6.16,61.2,74.33,A,7.9,No,Yes,,Medium,7,5.4,High Performer
+S2833,John,Smith,student1833@university.com,Male,24,CS,71.28,74.03,67.25,57.21,51.03,8.7,84.83,86.43,C,15.8,No,Yes,Master's,Medium,7,6.3,Average Performer
+S2834,Maria,Johnson,student1834@university.com,Male,23,Business,70.68,53.02,65.45,65.2,96.57,2.76,63.48,92.64,C,19.0,Yes,Yes,,Low,5,7.8,Average Performer
+S2835,Sara,Brown,student1835@university.com,Female,21,CS,,47.37,64.61,74.19,62.6,1.92,58.5,54.32,C,5.9,No,Yes,,High,4,4.8,Average Performer
+S2836,Emma,Johnson,student1836@university.com,Female,18,Business,54.11,71.09,63.93,76.95,72.39,6.97,94.47,96.28,C,14.1,No,Yes,Bachelor's,Low,2,8.1,Average Performer
+S2837,Maria,Williams,student1837@university.com,Male,23,CS,94.6,72.86,83.13,71.46,97.53,1.89,58.04,96.39,A,29.2,No,Yes,Bachelor's,Medium,1,6.4,High Performer
+S2838,Liam,Williams,student1838@university.com,Male,18,CS,93.46,60.06,76.6,83.15,73.38,0.91,67.21,50.4,B,23.8,Yes,Yes,Master's,High,8,6.3,Average Performer
+S2839,Ali,Jones,student1839@university.com,Female,21,Mathematics,99.9,77.82,78.95,71.38,53.93,0.97,71.42,75.32,B,14.3,No,No,Master's,Low,2,4.1,Average Performer
+S2840,Sara,Williams,student1840@university.com,Male,18,CS,79.26,44.12,69.94,97.32,77.6,7.68,73.81,79.36,C,11.6,No,Yes,Master's,Medium,8,4.6,Average Performer
+S2841,Emma,Johnson,student1841@university.com,Female,18,Engineering,87.56,48.71,58.44,63.05,54.41,0.29,68.07,77.69,D,12.1,No,No,Master's,Low,9,6.2,Needs Improvement
+S2842,Liam,Williams,student1842@university.com,Male,19,Engineering,60.13,72.78,66.35,81.37,54.75,2.89,95.63,80.79,C,25.7,No,Yes,,Low,4,8.9,Average Performer
+S2843,John,Smith,student1843@university.com,Female,24,Engineering,83.38,43.71,70.59,80.57,92.57,1.29,82.93,75.17,B,15.0,No,Yes,High School,Low,1,5.3,Average Performer
+S2844,Emma,Williams,student1844@university.com,Female,22,Mathematics,82.49,92.85,80.21,64.08,64.47,7.55,67.97,64.69,A,26.1,No,Yes,High School,High,6,4.1,High Performer
+S2845,Omar,Brown,student1845@university.com,Female,22,Engineering,95.06,48.53,69.13,70.58,83.93,5.03,67.89,54.79,C,27.7,No,Yes,,Medium,8,6.2,Average Performer
+S2846,Liam,Smith,student1846@university.com,Female,22,Engineering,91.54,80.44,84.38,68.27,75.45,2.05,75.15,60.42,A,16.6,No,Yes,Master's,Low,1,4.1,High Performer
+S2847,Liam,Jones,student1847@university.com,Male,20,Business,96.92,63.47,69.58,58.62,61.12,7.5,51.68,87.01,C,28.6,No,Yes,,High,5,5.7,Average Performer
+S2848,Ali,Brown,student1848@university.com,Male,19,CS,93.44,63.99,79.68,,75.89,7.5,96.33,62.05,B,12.5,No,Yes,,Low,1,5.8,Average Performer
+S2849,Sara,Johnson,student1849@university.com,Female,23,Engineering,93.43,85.89,81.26,69.33,53.45,5.23,61.17,91.49,A,11.5,No,Yes,High School,Medium,7,4.0,High Performer
+S2850,John,Johnson,student1850@university.com,Female,23,Mathematics,53.19,69.97,60.4,58.92,67.36,2.76,84.88,70.17,C,7.7,No,Yes,,Medium,6,7.9,Average Performer
+S2851,Ali,Johnson,student1851@university.com,Female,23,Engineering,92.3,83.54,88.17,72.49,76.14,5.86,88.89,70.72,A,11.1,No,Yes,PhD,Medium,4,8.6,High Performer
+S2852,Emma,Brown,student1852@university.com,Female,22,Business,80.37,70.31,68.57,71.09,61.42,9.34,91.37,93.42,C,24.3,No,Yes,Master's,Low,8,9.0,Average Performer
+S2853,Ali,Brown,student1853@university.com,Male,24,Engineering,,75.57,75.69,56.57,83.01,0.52,58.28,60.71,B,15.1,No,Yes,Master's,Medium,8,6.5,Average Performer
+S2854,Liam,Brown,student1854@university.com,Female,22,Business,52.83,85.64,68.03,56.56,52.59,2.67,76.83,59.48,C,8.7,Yes,Yes,,High,2,5.5,Average Performer
+S2855,Sara,Smith,student1855@university.com,Female,24,Mathematics,83.88,76.44,77.52,82.38,74.24,2.85,54.18,99.27,B,7.7,No,Yes,,Low,5,7.6,Average Performer
+S2856,Ahmed,Davis,student1856@university.com,Female,19,CS,66.41,76.94,80.96,85.33,85.75,6.32,90.24,77.03,A,17.3,No,Yes,,Low,1,7.7,High Performer
+S2857,Ali,Smith,student1857@university.com,Female,24,CS,73.39,87.35,81.98,97.06,71.5,6.51,74.32,59.53,A,18.5,No,Yes,Master's,High,3,5.9,High Performer
+S2858,Omar,Johnson,student1858@university.com,Female,18,Engineering,84.09,96.95,84.96,54.35,93.73,2.06,57.92,58.29,A,24.9,No,Yes,,Low,3,6.8,High Performer
+S2859,Ali,Davis,student1859@university.com,Female,22,Business,95.59,62.6,74.79,55.89,81.61,2.16,85.93,93.08,B,22.9,No,Yes,,Low,10,8.1,Average Performer
+S2860,Emma,Williams,student1860@university.com,Female,23,CS,91.27,74.63,78.3,52.59,97.92,9.28,66.56,79.99,B,9.2,No,Yes,High School,Low,3,4.9,Average Performer
+S2861,Emma,Johnson,student1861@university.com,Male,18,CS,72.53,45.18,64.96,76.61,64.21,7.56,55.73,55.75,C,11.9,No,Yes,Master's,Low,3,4.1,Average Performer
+S2862,John,Jones,student1862@university.com,Female,22,CS,69.39,61.53,75.5,81.14,96.94,9.34,73.05,94.35,B,22.3,Yes,Yes,High School,Medium,10,6.7,Average Performer
+S2863,Emma,Smith,student1863@university.com,Female,21,Mathematics,61.99,64.72,63.02,,80.34,8.3,61.76,72.2,C,9.5,No,Yes,High School,Low,2,7.3,Average Performer
+S2864,Maria,Brown,student1864@university.com,Female,20,Engineering,68.62,90.11,87.11,89.9,87.26,4.02,97.51,99.47,A,25.1,No,Yes,PhD,Low,7,6.9,High Performer
+S2865,Sara,Smith,student1865@university.com,Male,22,Engineering,,70.8,73.64,84.33,95.11,1.22,68.07,64.09,B,21.4,No,Yes,Master's,High,7,7.0,Average Performer
+S2866,Sara,Brown,student1866@university.com,Male,21,CS,98.56,83.86,93.51,99.29,77.56,6.3,78.62,76.44,A+,18.4,Yes,Yes,PhD,Medium,4,6.0,High Performer
+S2867,Ahmed,Davis,student1867@university.com,Male,19,CS,78.7,41.14,70.32,,93.11,3.52,97.42,58.66,B,21.1,No,Yes,High School,Low,8,7.3,Average Performer
+S2868,Ahmed,Jones,student1868@university.com,Female,21,CS,56.39,67.87,59.54,52.92,77.08,4.25,69.69,71.99,D,7.5,No,Yes,Master's,Low,10,4.2,Needs Improvement
+S2869,Sara,Davis,student1869@university.com,Female,19,CS,67.64,94.08,76.73,63.74,79.96,4.26,67.91,58.83,B,18.7,No,Yes,,High,10,4.8,Average Performer
+S2870,Omar,Jones,student1870@university.com,Female,22,Mathematics,77.35,53.46,59.63,50.95,72.25,9.37,58.12,65.36,D,16.3,Yes,Yes,,High,8,6.2,Needs Improvement
+S2871,Ahmed,Smith,student1871@university.com,Male,19,Mathematics,76.64,41.89,64.93,96.63,57.28,0.69,96.92,63.49,C,17.8,No,Yes,,High,4,8.7,Average Performer
+S2872,John,Brown,student1872@university.com,Female,21,CS,51.78,66.0,62.4,65.2,77.68,1.93,90.04,64.15,C,13.4,Yes,Yes,PhD,High,6,7.2,Average Performer
+S2873,Emma,Davis,student1873@university.com,Male,24,CS,97.54,82.27,90.75,77.62,98.87,6.08,61.05,98.49,A+,16.7,No,Yes,High School,Medium,6,5.8,High Performer
+S2874,Sara,Jones,student1874@university.com,Male,20,CS,63.77,67.27,74.97,,89.36,8.84,66.63,51.92,B,27.1,No,Yes,Bachelor's,Low,5,6.3,Average Performer
+S2875,Liam,Johnson,student1875@university.com,Male,18,Engineering,50.81,67.6,68.65,62.29,87.37,9.18,95.75,74.84,C,13.6,No,Yes,Master's,High,4,8.2,Average Performer
+S2876,Ahmed,Johnson,student1876@university.com,Male,18,CS,53.82,80.19,66.38,57.62,82.17,5.59,76.86,81.46,C,6.1,No,Yes,,Medium,9,6.7,Average Performer
+S2877,Sara,Davis,student1877@university.com,Male,20,CS,79.01,55.26,65.73,66.02,67.4,0.35,77.82,83.04,C,11.4,No,Yes,,Medium,6,4.2,Average Performer
+S2878,Maria,Brown,student1878@university.com,Female,23,CS,56.89,85.11,66.73,80.77,58.48,3.63,82.41,87.73,C,16.4,Yes,Yes,High School,Medium,7,6.1,Average Performer
+S2879,Ali,Davis,student1879@university.com,Female,18,Business,52.09,49.19,59.33,98.58,61.23,9.19,88.11,88.05,D,18.3,Yes,Yes,,Medium,5,5.9,Needs Improvement
+S2880,Emma,Smith,student1880@university.com,Male,22,Business,68.98,63.75,68.41,,50.32,5.0,96.96,97.78,C,15.7,Yes,Yes,High School,Medium,2,8.5,Average Performer
+S2881,Sara,Jones,student1881@university.com,Female,23,Engineering,81.14,79.36,84.84,76.64,83.67,7.27,90.11,87.78,A,25.7,No,Yes,,Low,6,5.5,High Performer
+S2882,Ali,Smith,student1882@university.com,Female,22,CS,,89.7,74.35,51.76,90.59,2.69,96.73,91.18,B,27.9,Yes,Yes,,Low,3,4.3,Average Performer
+S2883,Ahmed,Johnson,student1883@university.com,Male,21,Mathematics,65.67,87.49,76.46,92.0,63.45,0.25,91.03,76.62,B,17.2,Yes,Yes,Bachelor's,Medium,10,5.8,Average Performer
+S2884,Ali,Jones,student1884@university.com,Male,21,Mathematics,70.89,83.3,68.98,52.24,54.59,5.78,52.32,82.88,C,6.9,Yes,Yes,High School,Medium,6,4.2,Average Performer
+S2885,Emma,Davis,student1885@university.com,Female,23,CS,57.97,61.55,68.85,95.31,66.79,8.35,55.88,73.91,C,15.5,No,Yes,High School,High,3,8.2,Average Performer
+S2886,Sara,Smith,student1886@university.com,Female,23,CS,75.3,47.34,61.81,76.93,64.6,9.9,94.24,63.82,C,9.5,No,Yes,Master's,Medium,8,7.0,Average Performer
+S2887,Maria,Williams,student1887@university.com,Female,23,Engineering,54.26,53.01,58.67,58.42,72.54,8.47,51.38,65.67,D,12.1,No,Yes,Master's,High,7,6.3,Needs Improvement
+S2888,Omar,Brown,student1888@university.com,Female,23,CS,52.33,91.89,70.44,72.59,63.21,5.54,89.71,68.03,B,25.8,No,Yes,Bachelor's,Low,1,5.8,Average Performer
+S2889,Ahmed,Brown,student1889@university.com,Male,19,Engineering,75.99,91.44,84.76,99.75,66.99,6.09,92.49,67.03,A,18.4,No,Yes,,High,4,6.1,High Performer
+S2890,Sara,Williams,student1890@university.com,Female,24,Engineering,62.39,97.09,81.69,65.25,95.38,8.24,70.77,76.66,A,25.7,No,Yes,Master's,Low,2,7.9,High Performer
+S2891,Emma,Johnson,student1891@university.com,Male,23,Engineering,54.77,44.56,54.75,63.47,66.74,0.2,67.74,62.38,D,29.6,No,No,PhD,Medium,6,4.9,Needs Improvement
+S2892,Ahmed,Jones,student1892@university.com,Male,24,CS,71.2,72.21,69.9,55.9,89.28,9.52,59.72,75.83,C,18.6,No,Yes,,Low,5,4.4,Average Performer
+S2893,John,Brown,student1893@university.com,Female,23,Engineering,95.76,78.92,84.19,79.86,81.29,5.31,52.45,95.81,A,27.8,No,Yes,,Low,2,6.8,High Performer
+S2894,Ali,Williams,student1894@university.com,Female,21,Mathematics,86.21,82.64,75.45,54.46,66.88,9.52,87.27,70.3,B,22.1,No,Yes,,Low,1,8.3,Average Performer
+S2895,Omar,Davis,student1895@university.com,Female,22,CS,90.78,78.63,84.94,88.3,90.89,7.65,53.69,61.13,A,7.5,No,Yes,Bachelor's,Medium,7,6.8,High Performer
+S2896,Emma,Williams,student1896@university.com,Male,24,Engineering,93.6,86.2,88.63,95.96,79.75,1.52,97.23,67.34,A,15.4,No,Yes,Master's,Low,9,8.0,High Performer
+S2897,John,Johnson,student1897@university.com,Male,21,CS,98.63,61.57,78.46,,50.43,1.65,64.84,93.84,B,21.5,No,Yes,Master's,High,9,8.5,Average Performer
+S2898,Liam,Johnson,student1898@university.com,Male,18,CS,88.16,50.77,65.0,55.4,53.44,3.54,89.71,97.08,C,22.6,No,Yes,,Medium,10,4.4,Average Performer
+S2899,Sara,Smith,student1899@university.com,Male,19,Engineering,80.42,52.28,70.26,77.91,87.63,2.64,52.98,94.33,B,26.5,No,Yes,Master's,Medium,3,6.9,Average Performer
+S2900,Maria,Brown,student1900@university.com,Female,19,CS,68.27,40.72,62.64,,72.33,4.39,76.81,64.37,C,20.9,Yes,Yes,Bachelor's,Medium,6,8.2,Average Performer
+S2901,Ahmed,Smith,student1901@university.com,Male,22,CS,59.08,61.02,64.34,78.6,70.28,6.04,67.45,69.39,C,7.3,No,No,,Low,10,7.2,Average Performer
+S2902,Ali,Williams,student1902@university.com,Male,23,CS,,45.5,68.91,90.75,57.29,4.37,51.5,98.75,C,8.6,No,Yes,,Medium,1,7.0,Average Performer
+S2903,Ahmed,Jones,student1903@university.com,Female,21,Engineering,99.75,59.29,75.84,76.89,57.87,0.56,82.79,66.19,B,13.2,No,Yes,,Medium,1,7.9,Average Performer
+S2904,Omar,Jones,student1904@university.com,Male,18,Business,73.37,77.69,77.33,,89.89,9.76,97.16,56.89,B,12.4,No,No,PhD,Low,6,7.5,Average Performer
+S2905,Sara,Johnson,student1905@university.com,Male,21,CS,86.18,93.67,91.72,90.08,91.45,4.25,50.54,64.1,A+,10.5,Yes,Yes,High School,Medium,6,6.5,High Performer
+S2906,Ahmed,Jones,student1906@university.com,Female,23,Engineering,74.75,90.38,73.81,63.83,78.0,8.51,63.52,98.2,B,20.4,No,Yes,,Medium,5,4.2,Average Performer
+S2907,Ali,Jones,student1907@university.com,Male,23,CS,71.6,55.16,62.08,,64.76,0.74,85.18,70.79,C,15.7,No,Yes,PhD,Medium,6,7.1,Average Performer
+S2908,Sara,Jones,student1908@university.com,Male,20,Engineering,70.52,48.04,58.96,50.37,96.64,8.1,93.56,96.69,D,22.1,No,No,Master's,Medium,10,5.1,Needs Improvement
+S2909,Ahmed,Williams,student1909@university.com,Male,21,Engineering,,51.58,67.34,69.8,81.2,1.73,59.54,55.2,C,14.7,No,Yes,,Medium,5,5.3,Average Performer
+S2910,Maria,Jones,student1910@university.com,Male,22,Engineering,,98.26,88.16,61.9,89.83,6.79,53.54,88.3,A,11.9,No,Yes,High School,Low,6,7.4,High Performer
+S2911,Emma,Davis,student1911@university.com,Female,21,Mathematics,87.44,72.97,85.36,96.86,50.16,6.62,50.43,54.67,A,18.8,No,No,Master's,Low,9,6.3,High Performer
+S2912,Sara,Jones,student1912@university.com,Male,19,Mathematics,93.71,50.95,72.79,70.27,72.52,9.1,60.76,59.87,B,7.4,No,Yes,Master's,Medium,7,7.6,Average Performer
+S2913,Emma,Jones,student1913@university.com,Female,18,CS,,90.44,86.45,82.7,93.55,3.21,53.57,80.81,A,29.7,Yes,Yes,High School,Low,3,6.0,High Performer
+S2914,Liam,Smith,student1914@university.com,Male,24,Business,61.38,63.71,62.67,86.6,66.91,1.09,67.97,71.72,C,21.4,No,Yes,,High,9,8.4,Average Performer
+S2915,Sara,Williams,student1915@university.com,Female,22,CS,,93.95,84.65,88.66,86.33,8.65,72.01,83.33,A,8.1,Yes,Yes,,Medium,6,6.1,High Performer
+S2916,Maria,Johnson,student1916@university.com,Female,20,Mathematics,67.08,55.64,67.02,86.79,82.88,3.32,74.0,98.67,C,20.6,Yes,Yes,Master's,Medium,5,6.5,Average Performer
+S2917,Emma,Smith,student1917@university.com,Female,18,CS,65.47,63.59,61.57,64.46,57.61,2.33,57.12,52.64,C,6.9,No,Yes,,Low,4,4.6,Average Performer
+S2918,John,Brown,student1918@university.com,Male,18,CS,86.34,70.3,80.18,84.3,88.75,4.86,73.2,59.58,A,17.7,No,Yes,,Low,10,6.5,High Performer
+S2919,Ali,Williams,student1919@university.com,Male,24,CS,65.23,93.56,74.73,77.45,55.63,1.46,50.45,82.01,B,12.3,No,Yes,,High,1,5.2,Average Performer
+S2920,John,Davis,student1920@university.com,Male,19,CS,52.65,92.13,71.04,79.87,86.4,2.97,61.97,94.83,B,22.5,Yes,Yes,PhD,Low,7,7.8,Average Performer
+S2921,Ahmed,Williams,student1921@university.com,Female,19,Business,68.68,74.46,73.85,50.04,99.55,3.85,68.45,89.88,B,17.2,Yes,Yes,High School,Low,5,7.6,Average Performer
+S2922,Maria,Brown,student1922@university.com,Male,19,Mathematics,86.07,53.31,70.91,,97.9,2.77,55.92,73.28,B,24.6,No,No,Bachelor's,Low,1,4.1,Average Performer
+S2923,John,Brown,student1923@university.com,Male,22,Engineering,,64.2,78.71,96.53,90.01,4.5,90.7,87.27,B,10.7,Yes,Yes,PhD,Low,4,6.5,Average Performer
+S2924,Sara,Brown,student1924@university.com,Male,21,Business,81.48,98.54,89.56,64.5,76.73,3.85,60.06,60.4,A,21.4,Yes,Yes,,Low,10,4.2,High Performer
+S2925,Ahmed,Johnson,student1925@university.com,Male,18,Business,83.01,76.47,75.85,71.9,83.74,7.75,87.74,50.69,B,22.2,No,Yes,PhD,High,1,6.8,Average Performer
+S2926,Ahmed,Jones,student1926@university.com,Female,21,CS,86.69,86.87,73.65,59.33,86.41,9.18,73.69,78.5,B,16.9,Yes,Yes,,Low,10,8.5,Average Performer
+S2927,John,Williams,student1927@university.com,Female,21,CS,94.86,66.99,70.0,56.93,50.42,1.01,73.99,90.66,B,26.5,Yes,Yes,Master's,High,4,8.3,Average Performer
+S2928,Liam,Jones,student1928@university.com,Male,19,CS,71.63,71.92,73.19,,55.12,8.23,82.26,71.67,B,8.7,No,Yes,Bachelor's,Medium,7,5.2,Average Performer
+S2929,John,Jones,student1929@university.com,Male,21,CS,58.32,65.74,73.89,77.68,79.85,9.32,52.21,78.46,B,24.0,Yes,No,High School,High,9,4.7,Average Performer
+S2930,Liam,Davis,student1930@university.com,Male,18,CS,65.95,82.18,71.6,95.95,50.33,6.87,53.94,71.11,B,8.3,No,Yes,PhD,Medium,2,8.0,Average Performer
+S2931,Maria,Brown,student1931@university.com,Female,18,CS,71.61,91.09,82.43,66.31,95.45,9.96,66.34,75.7,A,8.9,No,No,,Low,4,6.7,High Performer
+S2932,Ali,Johnson,student1932@university.com,Male,23,CS,85.69,70.44,73.37,66.17,74.48,3.35,70.84,94.22,B,10.0,Yes,Yes,,Medium,1,6.1,Average Performer
+S2933,John,Davis,student1933@university.com,Female,20,CS,50.66,68.85,64.05,78.21,62.89,8.3,71.5,73.91,C,21.5,No,Yes,Bachelor's,Low,6,8.1,Average Performer
+S2934,Omar,Smith,student1934@university.com,Female,22,Mathematics,65.79,60.42,72.84,67.84,69.69,6.74,83.84,50.37,B,21.0,No,Yes,,High,8,5.3,Average Performer
+S2935,Liam,Johnson,student1935@university.com,Male,21,CS,88.99,50.63,68.75,,92.54,3.23,50.04,89.99,C,16.1,Yes,No,,High,3,5.1,Average Performer
+S2936,John,Jones,student1936@university.com,Male,22,Engineering,83.54,96.35,87.78,68.89,96.36,7.05,97.96,80.89,A,12.9,Yes,Yes,Master's,Low,5,7.1,High Performer
+S2937,Emma,Johnson,student1937@university.com,Male,22,Engineering,86.59,58.96,71.29,74.52,55.81,5.1,58.72,86.52,B,20.3,No,Yes,Master's,Medium,1,5.4,Average Performer
+S2938,Sara,Brown,student1938@university.com,Female,22,Engineering,90.59,88.04,89.92,76.67,88.9,1.89,62.43,95.05,A,8.6,No,Yes,Master's,Medium,5,6.1,High Performer
+S2939,Omar,Smith,student1939@university.com,Female,24,CS,89.16,82.92,85.72,89.1,78.91,1.74,95.28,64.31,A,20.7,Yes,Yes,,Medium,1,6.3,High Performer
+S2940,Omar,Brown,student1940@university.com,Male,23,CS,84.11,87.46,84.3,78.2,79.28,7.13,50.27,75.15,A,5.3,No,Yes,PhD,Low,5,5.0,High Performer
+S2941,Liam,Smith,student1941@university.com,Female,22,CS,71.98,96.21,79.83,61.96,88.97,7.12,99.57,80.12,B,8.6,No,Yes,Bachelor's,Low,9,4.3,Average Performer
+S2942,Emma,Davis,student1942@university.com,Male,23,CS,,77.4,71.03,56.2,61.14,5.31,51.8,67.27,B,22.7,No,Yes,PhD,High,7,7.8,Average Performer
+S2943,Emma,Jones,student1943@university.com,Male,18,CS,78.45,93.88,81.81,,76.55,5.01,56.03,92.3,A,26.8,No,Yes,Master's,Low,7,7.9,High Performer
+S2944,Ahmed,Smith,student1944@university.com,Female,24,Engineering,60.14,50.06,65.34,90.08,65.97,1.8,62.01,84.88,C,6.9,Yes,Yes,PhD,Low,9,7.0,Average Performer
+S2945,Liam,Smith,student1945@university.com,Female,21,Engineering,64.64,77.6,68.61,,54.73,4.29,71.94,86.67,C,21.0,No,Yes,Bachelor's,Low,5,4.7,Average Performer
+S2946,Ali,Smith,student1946@university.com,Female,23,Engineering,,86.34,80.57,91.08,55.25,8.71,75.92,90.4,A,6.5,Yes,Yes,PhD,Low,8,6.4,High Performer
+S2947,Sara,Johnson,student1947@university.com,Female,20,Engineering,96.24,56.3,72.92,79.53,56.82,8.55,55.24,62.9,B,27.0,Yes,Yes,Master's,Medium,7,4.9,Average Performer
+S2948,Maria,Davis,student1948@university.com,Male,22,CS,58.94,84.45,77.92,75.94,80.74,6.61,53.68,87.28,B,14.8,Yes,Yes,Master's,Medium,6,8.4,Average Performer
+S2949,Omar,Johnson,student1949@university.com,Male,24,Business,54.12,86.71,64.85,50.61,55.29,9.97,51.59,88.69,C,23.5,Yes,Yes,,Medium,6,7.5,Average Performer
+S2950,Maria,Jones,student1950@university.com,Male,20,CS,94.08,89.87,83.94,89.04,78.51,8.93,62.84,92.12,A,9.3,Yes,Yes,High School,Medium,7,4.2,High Performer
+S2951,John,Smith,student1951@university.com,Female,18,Business,95.76,58.77,76.97,59.9,79.41,1.45,96.08,74.43,B,26.5,No,Yes,PhD,High,10,4.0,Average Performer
+S2952,John,Davis,student1952@university.com,Male,18,Business,63.82,80.9,73.98,,95.19,3.99,69.49,75.21,B,15.7,No,Yes,Master's,Low,3,8.9,Average Performer
+S2953,Maria,Davis,student1953@university.com,Female,19,Engineering,68.86,58.26,61.44,50.79,81.32,1.32,88.2,54.91,C,10.2,No,Yes,PhD,Low,5,4.2,Average Performer
+S2954,John,Williams,student1954@university.com,Female,22,CS,83.01,84.34,85.49,89.82,99.28,4.66,59.51,92.61,A,19.3,No,Yes,Bachelor's,Low,2,8.3,High Performer
+S2955,Ali,Jones,student1955@university.com,Female,19,Engineering,66.5,67.78,65.76,51.15,51.55,7.76,53.23,76.67,C,12.2,No,Yes,,High,5,8.8,Average Performer
+S2956,Emma,Davis,student1956@university.com,Male,24,CS,93.86,75.85,76.04,,85.21,1.56,77.71,79.72,B,12.2,No,Yes,,Medium,8,5.5,Average Performer
+S2957,John,Smith,student1957@university.com,Female,20,CS,55.38,64.95,69.14,63.41,51.32,8.8,91.1,56.07,C,7.9,No,Yes,Master's,Low,7,6.7,Average Performer
+S2958,Ahmed,Smith,student1958@university.com,Female,21,CS,51.9,49.72,60.69,57.88,86.47,5.69,94.92,80.09,C,10.3,Yes,Yes,Bachelor's,Low,3,7.2,Average Performer
+S2959,John,Davis,student1959@university.com,Female,19,CS,60.42,50.68,61.74,74.05,69.29,7.49,77.31,52.1,C,24.9,No,Yes,Bachelor's,High,7,6.6,Average Performer
+S2960,Sara,Johnson,student1960@university.com,Female,18,Engineering,64.3,44.65,59.67,64.18,80.57,0.45,64.7,96.16,D,18.1,Yes,No,PhD,Low,2,5.1,Needs Improvement
+S2961,Ali,Jones,student1961@university.com,Female,22,Business,55.65,77.08,74.28,99.66,65.48,0.94,55.48,93.18,B,13.9,No,Yes,,Low,4,6.9,Average Performer
+S2962,Sara,Smith,student1962@university.com,Female,20,CS,53.28,90.92,73.86,79.0,57.96,6.21,83.39,59.72,B,28.2,No,Yes,,Medium,10,5.3,Average Performer
+S2963,Sara,Davis,student1963@university.com,Female,23,Mathematics,87.78,41.25,71.3,78.32,86.18,8.38,64.02,79.69,B,24.9,Yes,Yes,Bachelor's,High,2,4.8,Average Performer
+S2964,Ahmed,Smith,student1964@university.com,Female,24,Mathematics,58.21,43.97,61.01,61.04,95.23,8.74,92.2,80.13,C,12.8,Yes,Yes,Bachelor's,Medium,7,6.5,Average Performer
+S2965,Ali,Davis,student1965@university.com,Female,24,Mathematics,95.7,67.45,75.55,70.43,59.18,6.88,80.26,90.17,B,7.8,No,Yes,,Medium,5,5.9,Average Performer
+S2966,Ali,Jones,student1966@university.com,Female,18,Business,,84.26,77.26,56.2,96.04,2.01,92.94,87.85,B,9.6,No,Yes,PhD,Medium,9,4.1,Average Performer
+S2967,Liam,Davis,student1967@university.com,Female,23,CS,83.53,49.46,68.09,88.13,57.01,1.95,78.33,99.66,C,21.9,No,No,,Medium,7,8.7,Average Performer
+S2968,Ali,Williams,student1968@university.com,Female,24,CS,61.27,56.3,63.83,66.56,86.78,8.81,88.59,67.54,C,19.1,Yes,Yes,PhD,Medium,2,4.2,Average Performer
+S2969,Ali,Davis,student1969@university.com,Male,21,Engineering,62.02,53.92,73.09,87.6,97.97,1.13,64.72,56.23,B,29.5,Yes,Yes,PhD,High,4,8.5,Average Performer
+S2970,Ali,Davis,student1970@university.com,Male,22,Engineering,78.74,63.94,70.1,68.58,57.37,6.86,75.15,78.67,B,5.3,No,Yes,Master's,Low,3,4.9,Average Performer
+S2971,Ahmed,Jones,student1971@university.com,Female,21,Business,78.03,53.5,63.96,99.44,71.75,5.34,50.97,88.2,C,26.9,Yes,Yes,PhD,Medium,10,4.7,Average Performer
+S2972,John,Davis,student1972@university.com,Female,24,Mathematics,88.44,61.16,71.65,58.56,66.87,4.21,80.39,64.29,B,5.4,No,Yes,PhD,Medium,2,4.3,Average Performer
+S2973,Liam,Jones,student1973@university.com,Female,21,Engineering,87.89,83.71,76.68,50.08,69.42,4.4,76.69,61.81,B,15.6,No,Yes,Master's,High,2,6.1,Average Performer
+S2974,Sara,Williams,student1974@university.com,Male,24,CS,83.53,76.66,80.93,79.74,87.66,9.45,87.76,90.12,A,27.9,No,Yes,Bachelor's,Medium,8,6.9,High Performer
+S2975,Ali,Jones,student1975@university.com,Male,22,CS,72.46,44.87,68.27,97.65,83.06,8.61,86.45,87.69,C,21.5,No,No,High School,Medium,6,8.5,Average Performer
+S2976,Omar,Smith,student1976@university.com,Male,22,CS,94.53,78.26,90.36,82.35,98.43,8.65,81.38,60.17,A+,19.6,No,Yes,,Low,3,7.9,High Performer
+S2977,John,Jones,student1977@university.com,Female,23,Engineering,81.13,68.62,70.95,54.29,59.27,4.07,52.83,93.46,B,12.8,No,Yes,High School,High,8,4.8,Average Performer
+S2978,John,Williams,student1978@university.com,Female,21,Engineering,99.51,96.07,88.14,77.02,77.16,1.07,95.15,56.74,A,29.2,Yes,Yes,,High,3,4.8,High Performer
+S2979,Sara,Brown,student1979@university.com,Female,20,Business,90.97,57.36,78.55,95.47,72.46,9.98,50.9,55.46,B,9.2,Yes,Yes,High School,Medium,5,4.0,Average Performer
+S2980,Ahmed,Davis,student1980@university.com,Female,23,Engineering,52.22,83.57,66.46,50.33,95.94,1.45,90.16,67.56,C,11.7,No,Yes,,Low,1,7.4,Average Performer
+S2981,Maria,Jones,student1981@university.com,Male,22,Mathematics,66.03,83.85,64.27,58.35,50.53,5.16,73.97,94.33,C,16.3,No,Yes,,Medium,1,4.1,Average Performer
+S2982,Maria,Davis,student1982@university.com,Female,18,Engineering,78.59,53.29,70.23,,99.46,2.65,90.9,84.77,B,8.2,No,Yes,PhD,Low,10,4.7,Average Performer
+S2983,John,Johnson,student1983@university.com,Male,24,Business,86.07,94.19,91.41,94.7,73.99,5.11,73.25,69.74,A+,15.6,Yes,Yes,High School,Low,2,7.2,High Performer
+S2984,Emma,Smith,student1984@university.com,Male,23,CS,77.52,69.47,79.69,85.36,81.28,3.05,82.35,57.86,B,6.0,No,Yes,Bachelor's,Low,7,4.8,Average Performer
+S2985,Emma,Smith,student1985@university.com,Female,19,Business,89.31,80.73,81.75,,68.0,8.97,68.16,85.67,A,28.1,No,Yes,High School,Medium,1,4.8,High Performer
+S2986,Sara,Johnson,student1986@university.com,Male,20,Engineering,,48.75,66.75,54.51,92.63,9.68,87.18,79.96,C,13.1,Yes,Yes,,High,7,5.2,Average Performer
+S2987,Maria,Johnson,student1987@university.com,Male,24,CS,59.2,55.47,65.4,,78.1,4.1,62.71,99.38,C,20.8,Yes,No,Bachelor's,Low,10,5.9,Average Performer
+S2988,John,Jones,student1988@university.com,Male,23,CS,,75.17,76.42,84.25,83.14,0.7,85.97,88.28,B,26.8,No,Yes,High School,High,9,4.0,Average Performer
+S2989,Ahmed,Johnson,student1989@university.com,Male,22,Mathematics,78.67,59.14,74.99,85.13,82.45,6.63,59.67,55.11,B,25.5,No,No,,Medium,5,7.7,Average Performer
+S2990,Maria,Brown,student1990@university.com,Female,22,CS,84.43,69.98,80.39,89.67,68.2,3.77,86.11,86.41,A,26.8,No,Yes,,High,6,7.9,High Performer
+S2991,John,Davis,student1991@university.com,Female,20,Engineering,66.31,62.44,71.26,95.88,53.8,9.86,64.68,62.87,B,23.0,No,Yes,PhD,Low,10,5.8,Average Performer
+S2992,John,Davis,student1992@university.com,Male,19,CS,80.68,78.43,82.4,68.08,90.39,0.89,63.93,98.09,A,9.8,Yes,No,,Medium,7,8.0,High Performer
+S2993,Ali,Williams,student1993@university.com,Female,23,Engineering,52.61,69.23,62.24,52.15,64.49,1.19,90.57,50.96,C,14.2,No,Yes,Bachelor's,Medium,8,5.4,Average Performer
+S2994,Ahmed,Johnson,student1994@university.com,Male,23,Business,54.96,40.28,59.13,68.12,92.45,6.99,90.68,61.92,D,17.8,No,Yes,,Medium,2,8.9,Needs Improvement
+S2995,Ali,Johnson,student1995@university.com,Female,21,CS,85.09,78.98,85.16,83.58,80.43,7.59,84.57,74.95,A,13.4,Yes,Yes,,High,2,6.0,High Performer
+S2996,Sara,Brown,student1996@university.com,Female,18,Engineering,68.4,65.33,65.59,60.67,67.69,4.71,96.2,53.95,C,28.9,No,Yes,Bachelor's,High,9,7.3,Average Performer
+S2997,Ali,Smith,student1997@university.com,Female,22,Mathematics,83.57,60.5,73.66,90.5,79.71,2.77,57.81,67.2,B,25.2,Yes,Yes,Master's,Medium,6,5.6,Average Performer
+S2998,Omar,Smith,student1998@university.com,Female,23,Business,91.59,45.65,67.5,60.99,82.27,3.1,63.47,74.86,C,25.0,No,Yes,High School,Low,7,6.3,Average Performer
+S2999,Ali,Davis,student1999@university.com,Female,23,Business,92.63,53.22,67.08,50.5,85.33,3.38,64.7,72.35,C,14.0,No,Yes,,Low,5,7.2,Average Performer
